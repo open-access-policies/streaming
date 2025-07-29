@@ -11,7 +11,7 @@ The purpose of this procedure is to describe the systematic process for fulfilli
 
 ### 2. Scope
 
-This procedure applies to all data subject rights requests including access, rectification, erasure, restriction, portability, and objection requests from video streaming platform users. It covers requests received through all channels including user interfaces, email, postal mail, and third-party representatives, and includes specific handling requirements for PIPEDA access requests from Canadian users.
+This procedure applies to all data subject rights requests including access, correction, erasure, restriction, portability, objection, opt-out of sale or sharing, and limiting use of sensitive personal information requests from video streaming platform users. It covers requests received through all channels including user interfaces, email, postal mail, and third-party representatives, and includes specific handling requirements for PIPEDA access requests from Canadian users and CPRA sensitive personal information limitation requests.
 
 ### 3. Overview
 
@@ -24,14 +24,14 @@ This procedure ensures systematic handling of user privacy rights requests throu
 | **1** | **User** | Submit data subject rights request through platform privacy center, email, or postal mail with required identification and request details. |
 | **2** | **Privacy Portal** | Automatically acknowledge request receipt within 24 hours, assign unique case number, and provide estimated response timeline based on request type. |
 | **3** | **Privacy Team** | Verify user identity using multi-factor authentication, government ID verification, or other approved methods to prevent unauthorized access. |
-| **4** | **Privacy Analyst** | Categorize request type (access, deletion, rectification, portability, etc.) and assess scope including systems, data types, and time periods involved. |
+| **4** | **Privacy Analyst** | Categorize request type (access, deletion, correction, portability, opt-out of sale/sharing, limit sensitive PI use, etc.) and assess scope including systems, data types, and time periods involved. For sensitive personal information limitation requests, identify all current uses and secondary processing activities. |
 | **5** | **Technical Team** | Execute automated data retrieval across all platform systems including user accounts, content, viewing history, and interaction data. |
 | **6** | **Privacy Analyst** | Review retrieved data for completeness, accuracy, and third-party data requiring special handling or redaction for privacy protection. For PIPEDA requests, include explanation of how information has been used and list of third parties to whom information has been disclosed. |
 | **7** | **Legal Review** | Assess legal basis for any data retention, evaluate potential conflicts with other legal obligations, and approve response strategy. |
 | **8** | **Privacy Team** | Prepare user response including data package, explanations of processing activities, and clear information about rights and options. For PIPEDA requests, include usage explanations and third-party disclosure information. Apply reasonable fees for extensive PIPEDA requests if applicable. |
 | **9** | **Quality Assurance** | Verify response completeness, accuracy, and compliance with regulatory requirements before delivery to user. |
 | **10** | **User Communication** | Deliver response to user within regulatory timeframes (30 days GDPR/PIPEDA, 45 days CCPA) through secure delivery method with receipt confirmation. Provide alternative formats for users with disabilities as required by PIPEDA. |
-| **11** | **Technical Implementation** | Execute approved actions including data deletion, access restrictions, or data corrections based on user request and legal review. |
+| **11** | **Technical Implementation** | Execute approved actions including data deletion, access restrictions, data corrections, opt-out processing, or limitation of sensitive personal information use based on user request and legal review. For sensitive PI limitation requests, update data processing systems to restrict use to necessary services only. |
 | **12** | **Documentation** | Complete case documentation including request details, actions taken, legal basis, and user communication for audit and compliance purposes. |
 | **13** | **Compliance Challenge Handling** | Process any user challenges to PIPEDA compliance through dedicated complaint mechanism, investigate concerns, and provide resolution within reasonable timeframes with escalation to Privacy Commissioner if unresolved. |
 

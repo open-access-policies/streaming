@@ -111,7 +111,7 @@ Personal information must be accurate, complete, and up-to-date:
 Users must have comprehensive control over their personal data:
 
 **Right to Access:** Complete copy of personal data in portable format within 30 days
-**Right to Rectification:** Correction of inaccurate personal data within 30 days
+**Right to Correct:** Correction of inaccurate personal data within 30 days
 **Right to Erasure:** Deletion of personal data within 30 days except where retention is legally required
 **Right to Restrict Processing:** Limitation of data processing for specific purposes
 **Right to Data Portability:** Transfer of personal data to other services in common formats
@@ -125,11 +125,25 @@ Users must have comprehensive control over their personal data:
 - Alternative access formats for users with disabilities
 - Identity verification procedures to prevent unauthorized access
 
-**California Consumer Rights (CCPA):**
+**California Consumer Rights (CCPA/CPRA):**
 - Right to know what personal information is collected and how it's used
 - Right to delete personal information with verification procedures
-- Right to opt-out of sale of personal information
+- Right to opt-out of sale or sharing of personal information
+- Right to correct inaccurate personal information
+- Right to limit use and disclosure of sensitive personal information
 - Non-discrimination for exercising privacy rights
+
+**Right to Limit Use and Disclosure of Sensitive Personal Information:**
+Under the California Privacy Rights Act (CPRA), users have the right to direct the Company to limit the use and disclosure of their sensitive personal information to what is necessary to perform the services reasonably expected by the consumer. Sensitive personal information includes:
+- Personal information that reveals racial or ethnic origin, religious or philosophical beliefs, or union membership
+- Genetic data, biometric data processed to uniquely identify a person, and health information
+- Personal information concerning a person's sex life or sexual orientation
+- Social security, driver's license, state identification card, or passport numbers
+- Account log-in, financial account, debit card, or credit card number in combination with required access codes
+- Precise geolocation data
+- Contents of private communications (email, text messages, etc.)
+
+Users can exercise this right through the privacy center or by contacting our privacy team. Upon verification of the request, the Company will limit the use of sensitive personal information to providing the core video streaming services and will not use such information for secondary purposes including cross-context behavioral advertising, profiling, or inferring characteristics about users.
 
 **Challenging Compliance Process:**
 - Clear complaint process for challenging PIPEDA compliance accessible through privacy portal
@@ -193,7 +207,7 @@ Privacy breaches and incidents require immediate response:
 | **3.5** | COPPA | § 312.2 |
 | **3.6** | PIPEDA | Principle 6 |
 | **3.7** | GDPR | Art. 15-22 |
-| **3.7** | CCPA | § 1798.100-130 |
+| **3.7** | CCPA/CPRA | § 1798.100-130, § 1798.121 |
 | **3.7** | PIPEDA | Principle 9 |
 | **3.8** | PIPEDA | Principles 4, 5 |
 | **3.9** | GDPR | Art. 44-49 |
@@ -223,6 +237,12 @@ Privacy breaches and incidents require immediate response:
 **Implied Consent (PIPEDA):** Consent that can reasonably be inferred from an individual's action or inaction in non-sensitive contexts.
 
 **PIPEDA Principles:** Ten fair information principles that govern the collection, use, and disclosure of personal information in the private sector.
+
+**Sensitive Personal Information (CPRA):** Personal information that reveals racial or ethnic origin, religious or philosophical beliefs, union membership, genetic data, biometric data, health information, sex life or sexual orientation, government identification numbers, financial account information, precise geolocation, or contents of private communications.
+
+**Cross-Context Behavioral Advertising:** The targeting of advertising to a consumer based on personal information obtained from the consumer's activity across businesses, distinctly-branded websites, applications, or services, other than the business, distinctly-branded website, application, or service with which the consumer intentionally interacts.
+
+**Sharing (CPRA):** Disclosing personal information by a business to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions for no consideration.
 
 ### 6. Responsibilities
 
