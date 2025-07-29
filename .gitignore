@@ -1,0 +1,8 @@
+venv/
+*.py
+*.sh
+*.pdf
+*.tex
+scratch/
+Gemfile.lock
+Gemfile

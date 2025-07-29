@@ -1,0 +1,134 @@
+---
+layout: default
+title: "Mobile Device Policy (BYOD) (OP-POL-002)"
+order: 2
+---
+
+### 1. Objective
+
+The objective of this policy is to establish security requirements for mobile devices used to access Company systems, data, and video streaming platform resources, whether company-owned or personally-owned (BYOD), ensuring appropriate protection while maintaining productivity and user experience.
+
+### 2. Scope
+
+This policy applies to all mobile devices including smartphones, tablets, and wearable devices used by employees, contractors, and authorized third parties to access Company email, applications, data, or video streaming platform systems. It covers both company-provided devices and personal devices used for business purposes.
+
+### 3. Policy
+
+**3.1 Device Enrollment and Management**
+
+All mobile devices accessing Company resources must be enrolled in mobile device management (MDM):
+- Mandatory MDM enrollment before accessing corporate email or applications
+- Device compliance verification including operating system version and security patches
+- Remote management capabilities for security configuration and policy enforcement
+- Automatic enrollment for company-owned devices and voluntary enrollment for BYOD
+- Regular compliance scanning and remediation for non-compliant devices
+- Device inventory and asset tracking for all enrolled devices
+
+**3.2 Security Configuration Requirements**
+
+Mobile devices must meet minimum security configuration standards:
+- Device encryption enabled for all storage (internal and external)
+- Screen lock with PIN, password, biometric, or pattern authentication
+- Automatic screen lock timeout not exceeding 15 minutes
+- Operating system updates applied within 30 days of release
+- Anti-malware protection where available and appropriate
+- Disable unnecessary services, connections, and applications
+
+**3.3 Platform-Specific Requirements**
+
+Special considerations for video streaming platform access:
+
+**Content Creator Device Requirements:**
+- Enhanced security for devices used for content creation and editing
+- Secure storage and transmission of pre-release content
+- Digital watermarking applications for content leak prevention
+- Content access controls and time-limited viewing permissions
+- Secure deletion capabilities for sensitive content
+
+**Mobile Application Security:**
+- Company video streaming applications installed only from official app stores
+- Application-level authentication separate from device authentication
+- Local content encryption for offline viewing capabilities
+- Secure communication with backend services using certificate pinning
+- Regular application updates with security patches
+
+**Trust & Safety Team Devices:**
+- Enhanced monitoring and logging capabilities for content moderation activities
+- Secure access to content moderation tools and workflows
+- Protected storage for content review decisions and documentation
+- Multi-factor authentication for all trust and safety applications
+
+**3.4 Data Protection and Privacy**
+
+Mobile device data handling must protect both corporate and personal information:
+- Containerization separating corporate and personal data on BYOD devices
+- Corporate data encryption with separate encryption keys
+- Remote wipe capabilities for corporate data only on BYOD devices
+- Privacy protection for personal data and applications on BYOD devices
+- Data loss prevention (DLP) controls for corporate data
+- Backup and recovery procedures for corporate data
+
+**3.5 Network and Communication Security**
+
+Mobile device network access must be secured:
+- VPN connectivity required for accessing internal Company resources
+- Prohibition of connecting to unsecured or public Wi-Fi for business activities
+- Bluetooth security configuration and pairing restrictions
+- SMS and voice communication security for business-related communications
+- Email encryption and secure messaging applications for sensitive communications
+
+**3.6 Application Management**
+
+Mobile applications must be managed and controlled:
+- Approved application whitelist for corporate devices
+- Application vetting and security assessment for business-critical applications
+- Prohibition of jailbreaking or rooting devices accessing corporate resources
+- Application sandboxing and isolation for corporate applications
+- Regular application security updates and patch management
+
+**3.7 Incident Response and Compliance**
+
+Mobile device security incidents must be properly managed:
+- Immediate reporting requirements for lost, stolen, or compromised devices
+- Remote lock and wipe capabilities for emergency response
+- Forensic preservation capabilities for security investigations
+- Compliance monitoring and reporting for policy violations
+- Regular security awareness training for mobile device users
+
+### 4. Standards Compliance
+
+| **Policy Section** | **Standard/Framework** | **Control Reference** |
+| --- | --- | --- |
+| **3.1** | ISO/IEC 27001:2022 | A.6.2.1 |
+| **3.2** | SOC 2 Type II | CC6.1 |
+| **3.4** | GDPR | Art. 32 |
+| **3.4** | CCPA | § 1798.150 |
+| **3.5** | NIST Cybersecurity Framework | PR.AC-3 |
+| **3.7** | ISO/IEC 27001:2022 | A.16.1.2 |
+
+### 5. Definitions
+
+**Mobile Device Management (MDM):** Software solutions that allow IT administrators to control, secure, and enforce policies on mobile devices.
+
+**Bring Your Own Device (BYOD):** A policy allowing employees to use their personal mobile devices for business purposes.
+
+**Containerization:** Technology that creates secure, isolated environments for corporate data and applications on mobile devices.
+
+**Remote Wipe:** The ability to remotely delete data from a mobile device if it is lost, stolen, or compromised.
+
+**Jailbreaking/Rooting:** The process of removing software restrictions imposed by the device manufacturer or carrier.
+
+**Certificate Pinning:** A security technique that ensures mobile applications only communicate with servers using expected SSL certificates.
+
+**Data Loss Prevention (DLP):** Security technologies that identify and prevent unauthorized transmission of sensitive data.
+
+### 6. Responsibilities
+
+| Role | Responsibility |
+| --- | --- |
+| **IT Security Team** | Implement and maintain MDM solutions, define security configurations, and monitor device compliance and security incidents. |
+| **Device Users** | Comply with mobile device policies, report security incidents promptly, and maintain device security configurations and updates. |
+| **IT Support Team** | Assist with device enrollment, provide technical support, and help users resolve compliance and configuration issues. |
+| **Privacy Team** | Ensure BYOD policies protect personal data privacy, review data handling procedures, and support privacy rights compliance. |
+| **Human Resources** | Communicate mobile device policies, provide user training, and manage policy compliance and disciplinary actions. |
+| **Content Security Team** | Monitor content access on mobile devices, implement content protection measures, and investigate content-related security incidents. |
