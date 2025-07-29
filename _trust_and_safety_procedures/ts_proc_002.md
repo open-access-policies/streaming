@@ -61,6 +61,10 @@ A complete appeals case record containing original moderation decision, user app
 
 **Reverse Decision:** Appeals outcome that overturns the original moderation action and restores content or account status.
 
+### 7.1 Out-of-Court Dispute Settlement
+
+In compliance with DSA Article 21, users who have exhausted the internal appeals process and remain dissatisfied with the appeals decision have the right to select a certified, independent out-of-court dispute settlement body to resolve disputes regarding content moderation decisions. The Company commits to engage with any such selected dispute settlement body in good faith and will cooperate with the dispute resolution process. Information about available certified dispute settlement bodies and the process for initiating out-of-court dispute settlement will be provided to users upon completion of the internal appeals process.
+
 ### 8. Responsibilities
 
 | **Role** | **Responsibility** |

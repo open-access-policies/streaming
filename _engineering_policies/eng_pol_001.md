@@ -34,6 +34,7 @@ All software development must implement privacy by design principles:
 - User consent mechanisms integrated into application workflows
 - Data subject rights implementation (access, rectification, erasure, portability)
 - Privacy-preserving technologies where applicable (encryption, anonymization)
+- Prohibition of dark patterns: User interfaces must not be designed in a way that deceives, manipulates, or otherwise impairs the ability of users to make free and informed decisions, in compliance with DSA Article 25. This requirement must be included as a mandatory check during UI/UX review and application security testing.
 
 **3.3 Secure Coding Standards**
 
