@@ -42,6 +42,7 @@ Security incidents, including data breaches, platform outages, and content-relat
 **3.7 Compliance and Monitoring**
 
 Information security controls must be regularly monitored, tested, and audited to ensure effectiveness. The Company shall maintain compliance with applicable laws, regulations, and industry standards relevant to video streaming services.
+- This Information Security Policy and all supporting policies must be reviewed at least annually and when the environment changes significantly to ensure continued relevance and compliance with standards such as PCI DSS.
 
 ### 4. Standards Compliance
 
@@ -55,6 +56,7 @@ Information security controls must be regularly monitored, tested, and audited t
 | **3.5** | CCPA | § 1798.150 |
 | **3.6** | ISO/IEC 27001:2022 | A.16.1 |
 | **3.7** | EU Digital Services Act | Art. 24 |
+| **3.7** | PCI DSS v4.0 | Req. 12.1 |
 
 ### 5. Definitions
 

@@ -24,6 +24,7 @@ The Company shall maintain comprehensive vulnerability identification capabiliti
 - Dynamic application security testing (DAST) for web applications
 - Container and cloud infrastructure vulnerability assessments
 - Threat intelligence integration to identify emerging vulnerabilities
+- Internal and external vulnerability scans must be conducted at least quarterly and after any significant change in the network
 
 **3.2 Vulnerability Assessment and Prioritization**
 
@@ -104,11 +105,16 @@ The Company shall maintain a responsible disclosure program:
 - Coordinated disclosure timelines and communication procedures
 - Recognition and reward programs for valuable vulnerability reports
 
+**3.9 Penetration Testing**
+
+Internal and external penetration testing must be conducted at least annually and after any significant infrastructure or application upgrade or modification. Testing should cover the entire Cardholder Data Environment (CDE) perimeter and critical systems.
+
 ### 4. Standards Compliance
 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.12.6.1 |
+| **3.1, 3.9** | PCI DSS v4.0 | Req. 11.2, 11.3 |
 | **3.2, 3.3** | NIST Cybersecurity Framework | RS.MI-3 |
 | **3.4** | SOC 2 Type II | CC7.1 |
 | **3.5** | ISO/IEC 27001:2022 | A.16.1.6 |

@@ -101,6 +101,13 @@ Data storage systems require comprehensive protection:
 - Storage monitoring and anomaly detection
 - Data integrity verification and corruption detection
 
+**3.9 Cardholder Data Environment (CDE) Security**
+
+The Cardholder Data Environment (CDE) must be isolated from the rest of the corporate network via network segmentation and protected by firewalls:
+- Firewalls must be installed at each internet connection and between any demilitarized zone (DMZ) and the internal network zone containing CDE components.
+- Direct public access between the internet and any system component in the CDE is strictly prohibited.
+- Secure configuration standards, based on industry-accepted hardening standards, must be developed and applied to all CDE system components.
+
 ### 4. Standards Compliance
 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
@@ -112,6 +119,7 @@ Data storage systems require comprehensive protection:
 | **3.6** | ISO/IEC 27001:2022 | A.13.1.3 |
 | **3.7** | SOC 2 Type II | CC6.1 |
 | **3.8** | ISO/IEC 27001:2022 | A.10.1.1 |
+| **3.9** | PCI DSS v4.0 | Req. 1.2, 1.3, 2.2 |
 
 ### 5. Definitions
 

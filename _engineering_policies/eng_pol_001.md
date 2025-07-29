@@ -100,6 +100,12 @@ Development environments must be properly secured:
 - Protection of development credentials and API keys
 - Regular security updates for development tools and systems
 
+**3.8 Payment Application Security (PCI DSS Requirements)**
+
+All software development related to payment applications or systems within the Cardholder Data Environment (CDE) must adhere to PCI DSS secure software development requirements:
+- Developers working on payment applications must receive annual training on secure coding techniques and emerging threats related to payment security.
+- Changes to bespoke and custom software, especially payment applications, must strictly follow the `Change Control Policy (ENG-POL-002)` to prevent the introduction of new vulnerabilities.
+
 ### 4. Standards Compliance
 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
@@ -111,6 +117,7 @@ Development environments must be properly secured:
 | **3.4** | SOC 2 Type II | CC8.1 |
 | **3.5** | COPPA | § 312.8 |
 | **3.6** | ISO/IEC 27001:2022 | A.14.2.8 |
+| **3.8** | PCI DSS v4.0 | Req. 6.2, 6.5 |
 
 ### 5. Definitions
 

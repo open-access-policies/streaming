@@ -108,6 +108,11 @@ Special encryption considerations for video streaming operations:
 - Encrypted machine learning model parameters and training data
 - Secure multi-party computation for cross-platform analytics
 
+**Payment Card Data (PCI DSS Requirements):**
+- Sensitive Authentication Data (SAD), including the full contents of any track, card validation codes (e.g., CVV2), and PIN data, must never be stored after authorization.
+- The Primary Account Number (PAN) must be rendered unreadable wherever it is stored. When displayed, the PAN must be masked, with a maximum of the first six and last four digits being the maximum number of digits to be displayed.
+- All cryptographic keys used for encryption of cardholder data must be managed in accordance with PCI DSS key management requirements, including secure key generation, distribution, and storage.
+
 **3.6 Regulatory Compliance**
 
 Encryption implementations must meet regulatory requirements:
@@ -124,6 +129,7 @@ Encryption implementations must meet regulatory requirements:
 | **3.1** | ISO/IEC 27001:2022 | A.10.1.1 |
 | **3.2** | SOC 2 Type II | CC6.1 |
 | **3.2** | PCI DSS v4.0 | Req. 3.4 |
+| **3.2** | PCI DSS v4.0 | Req. 3.3, 3.4, 3.5 |
 | **3.3** | NIST Cybersecurity Framework | PR.DS-1 |
 | **3.4** | ISO/IEC 27001:2022 | A.10.1.2 |
 | **3.6** | GDPR | Art. 32 |
