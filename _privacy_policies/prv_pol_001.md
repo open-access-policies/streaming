@@ -84,15 +84,17 @@ Data collection practices must be transparent and user-controlled with clear pur
 - Performance metrics for platform optimization without personal identification
 - A/B testing data with privacy-preserving statistical techniques
 
-**3.4 Children's Privacy Protection**
+**3.5 Children's Privacy Protection**
 
 Enhanced privacy protections for users under 18:
-- COPPA compliance for users under 13 including verifiable parental consent
+- COPPA compliance for users under 13 including verifiable parental consent obtained through approved methods (credit/debit card verification, government ID verification, video conference, or postal mail with notarized signature)
+- Dedicated Children's Privacy Policy (PRV-POL-002) providing comprehensive information to parents about data collection, use, and protection practices for children
 - Restricted data collection and processing for child accounts
 - Enhanced default privacy settings for teenage users (13-17)
 - Prohibition of behavioral advertising targeting children
 - Regular review of content recommendation algorithms for child safety
 - Special consent requirements for features like live streaming or direct messaging
+- Implementation of COPPA Compliance Procedure (PRV-PROC-003) for systematic verifiable parental consent processing
 
 **3.6 Data Accuracy and Quality (PIPEDA Principle 6)**
 

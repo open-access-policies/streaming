@@ -64,6 +64,14 @@ AI systems must comply with privacy requirements:
 - COPPA compliance for AI systems affecting children
 - Regular privacy impact assessments for AI deployments
 
+**Enhanced COPPA Protections for Children:**
+- Recommendation algorithms are specifically designed to prevent profiling of users known to be under 13 for advertising purposes
+- Children's data is not used to train models for features that are not directed at children or age-appropriate
+- AI-driven content moderation systems include enhanced protections for child safety and age-appropriate content filtering
+- Behavioral advertising algorithms are completely disabled for users under 13 years of age
+- Machine learning models processing children's data undergo additional bias testing for age-appropriate content recommendations
+- AI systems affecting children undergo enhanced privacy impact assessments with specific COPPA compliance verification
+
 **3.6 AI Transparency and Explainability**
 
 AI systems must provide appropriate transparency:
