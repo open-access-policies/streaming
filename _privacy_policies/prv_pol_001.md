@@ -184,7 +184,19 @@ Privacy policies and practices must be readily available and understandable:
 - Contact information for privacy inquiries prominently displayed
 - Annual transparency reports detailing privacy practices and data handling statistics
 
-**3.11 Privacy Incident Management**
+**3.11 Records of Processing Activities (RoPA)**
+
+The organization must maintain comprehensive records of processing activities in compliance with GDPR Article 30:
+- The Data Protection Officer (DPO) is assigned primary responsibility for creating, maintaining, and annually reviewing the company's Records of Processing Activities (RoPA)
+- Complete documentation of all processing operations including purposes, categories of data subjects and personal data, recipients of personal data, international transfers, and retention periods
+- Regular updates to RoPA documentation within 30 days of any changes to processing activities, data flows, or legal bases
+- Annual comprehensive review and validation of RoPA accuracy and completeness by the DPO in collaboration with all business units
+- Availability of current RoPA documentation for supervisory authority inspection upon request within 72 hours
+- Integration of RoPA requirements into new project planning and feature development processes
+- Documentation of joint controllership arrangements and third-party processing relationships within RoPA framework
+- Specific RoPA entries for high-risk processing activities including AI systems, recommendation algorithms, and automated decision-making tools
+
+**3.12 Privacy Incident Management**
 
 Privacy breaches and incidents require immediate response:
 - Incident detection and assessment within 24 hours of discovery
@@ -212,7 +224,8 @@ Privacy breaches and incidents require immediate response:
 | **3.8** | PIPEDA | Principles 4, 5 |
 | **3.9** | GDPR | Art. 44-49 |
 | **3.10** | PIPEDA | Principle 8 |
-| **3.11** | GDPR | Art. 33-34 |
+| **3.11** | GDPR | Art. 30 |
+| **3.12** | GDPR | Art. 33-34 |
 
 ### 5. Definitions
 
@@ -223,6 +236,10 @@ Privacy breaches and incidents require immediate response:
 **Data Minimization:** Principle requiring collection of only personal data that is adequate, relevant, and limited to what is necessary.
 
 **Privacy Impact Assessment (PIA):** Process to identify and mitigate privacy risks in systems and processes affecting personal data.
+
+**Data Protection Impact Assessment (DPIA):** A formal assessment process required under GDPR Article 35 for high-risk processing activities, particularly those involving new technologies, large-scale processing, or systematic monitoring.
+
+**Records of Processing Activities (RoPA):** Comprehensive documentation of all data processing operations maintained by data controllers and processors as required under GDPR Article 30, including purposes, data categories, recipients, transfers, and retention periods.
 
 **Verifiable Parental Consent:** COPPA requirement for obtaining consent from parents before collecting personal information from children under 13.
 
@@ -248,9 +265,9 @@ Privacy breaches and incidents require immediate response:
 
 | Role | Responsibility |
 | --- | --- |
-| **Data Protection Officer (DPO)** | Oversee privacy compliance including PIPEDA accountability, conduct privacy impact assessments, serve as regulatory contact, and provide privacy guidance across the organization. |
+| **Data Protection Officer (DPO)** | Oversee privacy compliance including PIPEDA accountability, conduct privacy impact assessments and DPIAs for high-risk processing, serve as regulatory contact, provide privacy guidance across the organization, and maintain Records of Processing Activities (RoPA) with annual reviews. |
 | **Privacy Team** | Implement privacy policies, handle data subject rights requests including PIPEDA access requests, manage consent systems, coordinate privacy incident response, and process compliance challenges. |
-| **Product Teams** | Integrate privacy by design, conduct privacy reviews for new features, implement user controls, ensure transparent data practices, and identify collection purposes at design stage. |
+| **Product Teams** | Integrate privacy by design, conduct privacy reviews for new features, initiate DPIAs for high-risk processing activities, implement user controls, ensure transparent data practices, identify collection purposes at design stage, and contribute to RoPA documentation updates. |
 | **Legal Team** | Provide privacy law guidance including PIPEDA requirements, review data sharing agreements, manage regulatory relationships, and support privacy litigation. |
 | **Security Team** | Protect personal data through technical security measures (PIPEDA Principle 7), investigate privacy incidents, and implement data protection controls. |
 | **User Support Team** | Handle privacy-related user inquiries, process data subject rights requests, provide clear communication about privacy practices, and manage compliance challenge processes. |
