@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Internal Audit Procedure (SEC-PROC-001)"
+parent: Security Procedures
 order: 1
 ---
 

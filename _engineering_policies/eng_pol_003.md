@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Infrastructure Security Policy (ENG-POL-003)"
+parent: Engineering Policies
 order: 3
 ---
 

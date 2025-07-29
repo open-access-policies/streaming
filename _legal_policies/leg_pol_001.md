@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Intellectual Property & Copyright Policy (LEG-POL-001)"
+parent: Legal Policies
 order: 1
 ---
 

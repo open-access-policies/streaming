@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Information Security Policy (SEC-POL-001)"
+parent: Security Policies
 order: 1
 ---
 

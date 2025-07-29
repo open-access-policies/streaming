@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Incident Response Policy (RES-POL-001)"
+parent: Resilience Policies
 order: 1
 ---
 

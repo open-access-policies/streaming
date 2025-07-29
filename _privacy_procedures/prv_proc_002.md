@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Data Erasure Request Procedure (PRV-PROC-002)"
+parent: Privacy Procedures
 order: 2
 ---
 

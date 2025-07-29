@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "DSAR Fulfillment Procedure (PRV-PROC-001)"
+parent: Privacy Procedures
 order: 1
 ---
 

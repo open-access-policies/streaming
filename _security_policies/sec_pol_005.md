@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Vendor Risk Management Policy (SEC-POL-005)"
+parent: Security Policies
 order: 5
 ---
 

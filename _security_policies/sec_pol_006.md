@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Physical Security Policy (SEC-POL-006)"
+parent: Security Policies
 order: 6
 ---
 

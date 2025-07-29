@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Law Enforcement Request Policy (LEG-POL-002)"
+parent: Legal Policies
 order: 2
 ---
 

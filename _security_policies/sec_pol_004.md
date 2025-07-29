@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Data Classification and Handling Policy (SEC-POL-004)"
+parent: Security Policies
 order: 4
 ---
 

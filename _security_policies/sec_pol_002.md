@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Password Policy (SEC-POL-002)"
+parent: Security Policies
 order: 2
 ---
 

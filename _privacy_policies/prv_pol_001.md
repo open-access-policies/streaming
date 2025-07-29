@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "User Data Privacy Policy (PRV-POL-001)"
+parent: Privacy Policies
 order: 1
 ---
 

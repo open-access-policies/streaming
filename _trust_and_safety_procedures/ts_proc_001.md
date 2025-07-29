@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Content Moderation Workflow Procedure (TS-PROC-001)"
+parent: Trust And Safety Procedures
 order: 1
 ---
 

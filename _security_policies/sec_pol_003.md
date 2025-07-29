@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Risk Management Policy (SEC-POL-003)"
+parent: Security Policies
 order: 3
 ---
 

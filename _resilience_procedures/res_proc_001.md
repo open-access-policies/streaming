@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Incident Response Plan (RES-PROC-001)"
+parent: Resilience Procedures
 order: 1
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Vulnerability Management Policy (SEC-POL-008)"
+parent: Security Policies
 order: 8
 ---
 

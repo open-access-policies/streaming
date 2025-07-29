@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Post-Incident Review Procedure (RES-PROC-002)"
+parent: Resilience Procedures
 order: 2
 ---
 

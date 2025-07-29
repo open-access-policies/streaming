@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Risk Assessment Procedure (SEC-PROC-002)"
+parent: Security Procedures
 order: 2
 ---
 
