@@ -97,6 +97,7 @@ All incidents must follow structured response procedures:
 - Incident response team activation and role assignment
 - Evidence preservation and forensic data collection
 - Containment actions to prevent further damage
+- Implement graceful degradation of non-essential services (e.g., profile updates, analytics reporting) where possible to preserve the availability of core live streaming and monetization functions during the containment phase
 - Eradication of threats and root cause remediation
 - Recovery and restoration of normal operations
 - Communication with stakeholders and affected parties

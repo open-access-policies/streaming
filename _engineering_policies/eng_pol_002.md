@@ -34,6 +34,7 @@ Changes are classified based on risk and urgency:
 - Routine maintenance, patches, and configuration updates
 - Automated deployment through approved pipelines
 - Minimal business impact and well-understood procedures
+- Changes deployed via a fully automated CI/CD pipeline that includes mandatory security scans (SAST, SCA) and successful integration tests are considered pre-approved Standard Changes and do not require manual review by the [Change Governance Body Name]
 
 **Normal Changes:**
 - Changes requiring formal review and approval

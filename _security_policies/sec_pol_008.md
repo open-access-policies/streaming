@@ -109,6 +109,10 @@ The Company shall maintain a responsible disclosure program:
 
 Internal and external penetration testing must be conducted at least annually and after any significant infrastructure or application upgrade or modification. Testing should cover the entire Cardholder Data Environment (CDE) perimeter and critical systems.
 
+**3.10 Exception Handling and Compensating Controls**
+
+In cases where immediate remediation of a vulnerability according to the defined timelines is not technically feasible without causing significant business disruption, a temporary compensating control (e.g., a Web Application Firewall rule) may be implemented. This exception requires formal approval and documentation via the Risk Acceptance Procedure (SEC-PROC-003) and must have a defined review date, not to exceed 90 days.
+
 ### 4. Standards Compliance
 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |

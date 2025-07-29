@@ -108,6 +108,14 @@ The Cardholder Data Environment (CDE) must be isolated from the rest of the corp
 - Direct public access between the internet and any system component in the CDE is strictly prohibited.
 - Secure configuration standards, based on industry-accepted hardening standards, must be developed and applied to all CDE system components.
 
+**3.10 Infrastructure as Code (IaC) Security**
+
+All IaC templates (e.g., Terraform, CloudFormation) must be scanned for security misconfigurations using dedicated static analysis tools prior to deployment. The CI/CD pipeline must be configured to block the deployment of templates with critical security flaws.
+
+**3.11 Container Security**
+
+Container images must be scanned for known vulnerabilities before being pushed to the container registry. Only approved, hardened base images may be used. The container runtime environment must be continuously monitored for security threats and misconfigurations.
+
 ### 4. Standards Compliance
 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |

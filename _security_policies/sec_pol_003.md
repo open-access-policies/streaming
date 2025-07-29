@@ -41,6 +41,8 @@ Risk identification activities must encompass all potential threats to the video
 - **Algorithmic Bias:** Discriminatory or harmful outcomes from recommendation algorithms
 - **DDoS Attacks:** Distributed denial-of-service attacks targeting platform availability
 - **Government Takedown Demands:** Legal requests that may impact content availability or user privacy
+- **Financial Fraud and Money Laundering:** Exploitation of the virtual currency and creator payout systems
+- **Gambling-like Mechanics Scrutiny:** Regulatory and user safety risks associated with gamified monetization features that could be perceived as gambling-like
 
 *Operational and Compliance Risks:*
 - Content piracy and intellectual property violations

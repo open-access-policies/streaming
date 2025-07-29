@@ -96,6 +96,8 @@ Enhanced privacy protections for users under 18:
 - Special consent requirements for features like live streaming or direct messaging
 - Implementation of COPPA Compliance Procedure (PRV-PROC-003) for systematic verifiable parental consent processing
 
+**Heightened Scrutiny for Child-Appealing Features:** Given that platform features such as gamified gifts and certain content genres may be inherently appealing to an under-13 audience, the Company commits to implementing robust age-assurance mechanisms beyond simple self-attestation. This is to mitigate the risk of having 'actual knowledge' of underage users on a general audience platform and to ensure the most protective stance regarding COPPA compliance obligations.
+
 **3.6 Data Accuracy and Quality (PIPEDA Principle 6)**
 
 Personal information must be accurate, complete, and up-to-date:
