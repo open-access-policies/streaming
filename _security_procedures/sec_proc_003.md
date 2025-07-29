@@ -7,11 +7,11 @@ order: 3
 
 ### 1. Purpose
 
-The purpose of this procedure is to describe the formal process for documenting, justifying, approving, and monitoring information security risks that the Company has chosen to accept rather than mitigate. This procedure ensures that risk acceptance decisions are made transparently, with appropriate authorization, and subject to ongoing oversight.
+The purpose of this procedure is to describe the formal process for documenting, justifying, approving, and monitoring information security risks that [Company Name] has chosen to accept rather than mitigate. This procedure ensures that risk acceptance decisions are made transparently, with appropriate authorization, and subject to ongoing oversight.
 
 ### 2. Scope
 
-This procedure applies to all information security risks identified within the Company's video streaming platform, supporting infrastructure, and business operations that are proposed for acceptance rather than remediation. It covers risks related to technical systems, operational processes, third-party services, and regulatory compliance.
+This procedure applies to all information security risks identified within [Company Name]'s video streaming platform, supporting infrastructure, and business operations that are proposed for acceptance rather than remediation. It covers risks related to technical systems, operational processes, third-party services, and regulatory compliance.
 
 ### 3. Overview
 
@@ -23,12 +23,12 @@ This procedure establishes a formal governance framework for risk acceptance dec
 | -------- | -------- | -------- |
 | **1** | **Risk Owner** | Identify a risk that cannot be feasibly mitigated or where mitigation costs exceed business impact, and propose it for formal acceptance. |
 | **2** | **Risk Owner** | Complete a formal "Risk Acceptance Form" detailing the risk description, business justification for acceptance, potential impact assessment, likelihood evaluation, and proposed duration of acceptance. |
-| **3** | **Security Team** | Review the completed Risk Acceptance Form to validate the accuracy of the risk assessment, verify potential impacts have been fully considered, and assess alignment with organizational risk tolerance. |
-| **4** | **CISO/Risk Management Committee** | Conduct formal review of the submitted Risk Acceptance Form, evaluating business justification, risk-to-benefit ratio, and strategic alignment with organizational objectives. |
+| **3** | **[Security Department/Team Name]** | Review the completed Risk Acceptance Form to validate the accuracy of the risk assessment, verify potential impacts have been fully considered, and assess alignment with organizational risk tolerance. |
+| **4** | **CISO/[Risk Governance Body Name]** | Conduct formal review of the submitted Risk Acceptance Form, evaluating business justification, risk-to-benefit ratio, and strategic alignment with organizational objectives. |
 | **5** | **CISO/Committee Chair** | Provide formal, written approval or rejection of the risk acceptance request. All approvals must include electronic or physical signature and specify acceptance duration and conditions. |
 | **6** | **Risk Owner** | Update the company's central Risk Register with the approved risk acceptance, including acceptance status, justification summary, approval authority, effective dates, and scheduled review dates. |
 | **7** | **Risk Owner** | Establish ongoing monitoring procedures to track the accepted risk for any changes in likelihood, impact, or business context that might affect the acceptance decision. |
-| **8** | **Risk Management Committee** | Conduct formal periodic review of all accepted risks at least annually or upon expiration to determine if acceptance remains valid, requires modification, or should be converted to active mitigation. |
+| **8** | **[Risk Governance Body Name]** | Conduct formal periodic review of all accepted risks at least annually or upon expiration to determine if acceptance remains valid, requires modification, or should be converted to active mitigation. |
 
 ### 5. Standards Compliance
 
@@ -56,6 +56,6 @@ A completed Risk Acceptance Form containing comprehensive risk details, business
 | **Role** | **Responsibility** |
 | -------- | -------- |
 | **Risk Owner** | Identify risks for acceptance, complete formal documentation, implement monitoring procedures, and maintain ongoing oversight of accepted risks within their domain. |
-| **Security Team** | Validate risk assessments for technical accuracy, review impact evaluations, provide security expertise during the acceptance evaluation process. |
+| **[Security Department/Team Name]** | Validate risk assessments for technical accuracy, review impact evaluations, provide security expertise during the acceptance evaluation process. |
 | **CISO** | Provide final approval authority for risk acceptance decisions, ensure alignment with organizational risk tolerance, and maintain oversight of the risk acceptance program. |
-| **Risk Management Committee** | Review and approve significant risk acceptance requests, conduct periodic reviews of all accepted risks, and ensure governance oversight of organizational risk posture. |
+| **[Risk Governance Body Name]** | Review and approve significant risk acceptance requests, conduct periodic reviews of all accepted risks, and ensure governance oversight of organizational risk posture. |

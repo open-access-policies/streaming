@@ -11,7 +11,7 @@ The objective of this policy is to establish requirements for responding to law 
 
 ### 2. Scope
 
-This policy applies to all requests from law enforcement agencies, government authorities, courts, and regulatory bodies for user data, content removal, account information, or other information related to video streaming platform operations across all jurisdictions where the Company operates.
+This policy applies to all requests from law enforcement agencies, government authorities, courts, and regulatory bodies for user data, content removal, account information, or other information related to video streaming platform operations across all jurisdictions where [Company Name] operates.
 
 ### 3. Policy
 
@@ -126,9 +126,9 @@ Comprehensive training and preparedness programs for law enforcement request han
 
 | Role | Responsibility |
 | --- | --- |
-| **Legal Team** | Review all law enforcement requests, ensure legal compliance, challenge inappropriate requests, and manage transparency reporting and stakeholder communication. |
-| **Privacy Team** | Assess privacy implications, implement user notification procedures, minimize data disclosure, and ensure compliance with data protection requirements. |
-| **Security Team** | Provide technical expertise for data collection, ensure secure data transmission, and support emergency response procedures. |
+| **[Legal Department/Team Name]** | Review all law enforcement requests, ensure legal compliance, challenge inappropriate requests, and manage transparency reporting and stakeholder communication. |
+| **[Privacy Department/Team Name]** | Assess privacy implications, implement user notification procedures, minimize data disclosure, and ensure compliance with data protection requirements. |
+| **[Security Department/Team Name]** | Provide technical expertise for data collection, ensure secure data transmission, and support emergency response procedures. |
 | **Policy Team** | Develop and update law enforcement response policies, coordinate with government affairs, and manage public communication about policy positions. |
 | **Executive Leadership** | Provide strategic direction, approve significant policy decisions, and represent Company positions in high-level government and industry discussions. |
-| **Trust & Safety Team** | Coordinate content-related law enforcement requests, implement content actions, and ensure consistency with community guidelines and user safety. |
+| **[Trust & Safety Department/Team Name]** | Coordinate content-related law enforcement requests, implement content actions, and ensure consistency with community guidelines and user safety. |

@@ -111,8 +111,8 @@ As a parent or guardian, you have important rights regarding your child's inform
 - Update your contact information for ongoing communication
 
 **How to Exercise Your Rights:**
-- Email us at childrens-privacy@company.com
-- Call our dedicated children's privacy line at 1-800-XXX-XXXX
+- Email us at [Children's Privacy Email Address]
+- Call our dedicated children's privacy line at [Dedicated Children's Privacy Phone Number]
 - Use the parental controls section in your child's account settings
 - Mail written requests to our privacy office (address below)
 
@@ -203,19 +203,17 @@ We will notify you of any material changes to this Children's Privacy Policy by:
 ### 10. Contact Information for Parents
 
 **Children's Privacy Officer**
-Company Name
-123 Privacy Lane
-Data Protection City, State 12345
+[Company Name]
+[Company Address]
 
-**Email:** childrens-privacy@company.com
-**Phone:** 1-800-XXX-XXXX (dedicated children's privacy line)
+**Email:** [Children's Privacy Email Address]
+**Phone:** [Dedicated Children's Privacy Phone Number] (dedicated children's privacy line)
 **Hours:** Monday-Friday, 9 AM - 6 PM EST
 
 **Mailing Address for Consent Forms:**
 COPPA Compliance Department
-Company Name
-123 Privacy Lane
-Data Protection City, State 12345
+[Company Name]
+[Company Address]
 
 ### 11. Regulatory Information
 

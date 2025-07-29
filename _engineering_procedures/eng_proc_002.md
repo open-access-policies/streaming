@@ -57,7 +57,7 @@ A completed standard change record containing implementation details, verificati
 
 **Rollback Procedure:** A documented process for returning a system to its previous state if a change implementation fails or causes issues.
 
-**Change Advisory Board (CAB):** A group of stakeholders responsible for evaluating changes and making authorization decisions.
+**[Change Governance Body Name]:** A group of stakeholders responsible for evaluating changes and making authorization decisions.
 
 **System Owner:** The individual or team responsible for a particular system or application and its operational requirements.
 

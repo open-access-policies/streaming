@@ -15,25 +15,25 @@ This procedure applies to all new features, system changes, and processing activ
 
 ### 3. Overview
 
-This procedure ensures systematic assessment of privacy risks through structured DPIA methodology, mandatory consultation with the Data Protection Officer (DPO), thorough evaluation of necessity and proportionality of data processing, comprehensive risk assessment and mitigation planning, and detailed documentation of outcomes to demonstrate GDPR compliance and protect data subject rights.
+This procedure ensures systematic assessment of privacy risks through structured DPIA methodology, mandatory consultation with the [Senior Privacy Role, e.g., DPO], thorough evaluation of necessity and proportionality of data processing, comprehensive risk assessment and mitigation planning, and detailed documentation of outcomes to demonstrate GDPR compliance and protect data subject rights.
 
 ### 4. Procedure
 
 | **Step** | **Who** | **What** |
 | -------- | -------- | -------- |
 | **1** | **Product/Engineering Team** | Identify potential need for DPIA during feature planning or system design phase by assessing processing activities against GDPR Article 35 criteria and company DPIA trigger checklist. |
-| **2** | **Project Manager** | Submit DPIA initiation request to Privacy Team including project description, data processing details, technologies involved, user impact assessment, and timeline requirements. |
-| **3** | **Data Protection Officer (DPO)** | Review DPIA request within 5 business days, confirm DPIA requirement, assign DPIA team members, and establish assessment timeline aligned with project milestones. |
+| **2** | **Project Manager** | Submit DPIA initiation request to [Privacy Department/Team Name] including project description, data processing details, technologies involved, user impact assessment, and timeline requirements. |
+| **3** | **[Senior Privacy Role, e.g., DPO]** | Review DPIA request within 5 business days, confirm DPIA requirement, assign DPIA team members, and establish assessment timeline aligned with project milestones. |
 | **4** | **DPIA Team Lead** | Conduct preliminary assessment including scope definition, stakeholder identification, data flow mapping, legal basis confirmation, and initial risk categorization using standardized DPIA templates. |
 | **5** | **Privacy Analyst** | Document detailed description of processing operations including data categories, processing purposes, data subjects affected, retention periods, third-party involvement, and automated decision-making elements. |
 | **6** | **Technical Team** | Provide technical architecture documentation including system design specifications, data security measures, access controls, encryption protocols, and integration with existing privacy controls. |
-| **7** | **Legal Team** | Assess legal basis for processing, evaluate compliance with data minimization principles, confirm lawful basis under GDPR Article 6, and identify any special category data requiring Article 9 legal basis. |
+| **7** | **[Legal Department/Team Name]** | Assess legal basis for processing, evaluate compliance with data minimization principles, confirm lawful basis under GDPR Article 6, and identify any special category data requiring Article 9 legal basis. |
 | **8** | **DPIA Team** | Evaluate necessity and proportionality by assessing whether processing is necessary for specified purposes, proportionate to legitimate aims, considers less intrusive alternatives, and implements appropriate safeguards. |
 | **9** | **Risk Assessment Specialist** | Conduct comprehensive risk analysis identifying potential risks to data subject rights and freedoms, likelihood and severity assessment, impact on vulnerable groups, and potential for discriminatory effects. |
-| **10** | **Data Protection Officer (DPO)** | Review risk assessment findings, provide expert guidance on risk mitigation measures, ensure alignment with privacy principles, and approve risk treatment strategy. |
+| **10** | **[Senior Privacy Role, e.g., DPO]** | Review risk assessment findings, provide expert guidance on risk mitigation measures, ensure alignment with privacy principles, and approve risk treatment strategy. |
 | **11** | **DPIA Team** | Develop detailed risk mitigation plan including technical safeguards, organizational measures, policy updates, staff training requirements, monitoring procedures, and contingency plans. |
 | **12** | **Stakeholder Consultation** | Conduct consultation with relevant stakeholders including affected data subjects (where appropriate), privacy advocates, technical teams, and business stakeholders to gather input on proposed processing and safeguards. |
-| **13** | **Data Protection Officer (DPO)** | Conduct mandatory DPO consultation including formal review of DPIA findings, assessment of risk mitigation adequacy, recommendations for additional safeguards, and final approval or rejection of processing proposal. |
+| **13** | **[Senior Privacy Role, e.g., DPO]** | Conduct mandatory DPO consultation including formal review of DPIA findings, assessment of risk mitigation adequacy, recommendations for additional safeguards, and final approval or rejection of processing proposal. |
 | **14** | **Supervisory Authority Consultation** | If residual high risks cannot be adequately mitigated, initiate prior consultation with relevant supervisory authority including DPIA submission, risk explanation, proposed mitigation measures, and request for regulatory guidance. |
 | **15** | **DPIA Documentation** | Complete comprehensive DPIA report including executive summary, detailed risk assessment, mitigation measures, implementation timeline, monitoring plan, and review schedule using approved DPIA template. |
 | **16** | **Management Approval** | Obtain formal management approval for DPIA findings and proposed risk mitigation measures, including budget allocation for privacy safeguards and timeline commitment for implementation. |
@@ -126,10 +126,10 @@ Additional criteria requiring DPIA for video streaming platform:
 
 | Role | Responsibility |
 | --- | --- |
-| **Data Protection Officer (DPO)** | Oversee DPIA process, provide expert guidance, conduct mandatory consultation, approve risk mitigation strategies, and maintain DPIA documentation repository. |
+| **[Senior Privacy Role, e.g., DPO]** | Oversee DPIA process, provide expert guidance, conduct mandatory consultation, approve risk mitigation strategies, and maintain DPIA documentation repository. |
 | **DPIA Team Lead** | Coordinate DPIA activities, manage assessment timeline, facilitate stakeholder collaboration, and ensure comprehensive documentation. |
 | **Privacy Analysts** | Conduct detailed risk assessments, develop mitigation strategies, analyze data flows and processing activities, and monitor implementation effectiveness. |
-| **Product/Engineering Teams** | Identify DPIA requirements, provide technical specifications, implement privacy safeguards, and participate in risk assessment activities. |
-| **Legal Team** | Assess legal basis and compliance requirements, provide regulatory guidance, support supervisory authority consultation, and review DPIA legal conclusions. |
+| **Product/[Development Department/Team Name]** | Identify DPIA requirements, provide technical specifications, implement privacy safeguards, and participate in risk assessment activities. |
+| **[Legal Department/Team Name]** | Assess legal basis and compliance requirements, provide regulatory guidance, support supervisory authority consultation, and review DPIA legal conclusions. |
 | **Risk Management** | Provide risk assessment methodology, validate risk severity ratings, integrate privacy risks into enterprise risk management, and support management decision-making. |
 | **Project Management** | Integrate DPIA requirements into project planning, allocate resources for privacy safeguards, monitor implementation timelines, and ensure deliverable quality. |

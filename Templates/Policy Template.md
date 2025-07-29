@@ -51,4 +51,4 @@ Clearly assign responsibility for the policy's implementation and enforcement.
 |-------------------------------- |---------------------------------------------------------------------------------|
 |[Role Title, e.g., CISO]         |[Describe the specific responsibilities for this role in relation to the policy.]|
 |[Role Title, e.g., All Employees]|[Describe the specific responsibilities for this role in relation to the policy.]|
-|[Role Title, e.g., IT Department]|[Describe the specific responsibilities for this role in relation to the policy.]|
+|[Role Title, e.g., [IT/Infrastructure Department/Team Name]]|[Describe the specific responsibilities for this role in relation to the policy.]|

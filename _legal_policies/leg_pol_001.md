@@ -17,7 +17,7 @@ This policy applies to all content uploaded, shared, or distributed through the 
 
 **3.1 Copyright Protection Framework**
 
-The Company shall maintain comprehensive copyright protection and compliance systems:
+[Company Name] shall maintain comprehensive copyright protection and compliance systems:
 - Proactive content identification and protection technologies
 - DMCA-compliant takedown and counter-notification procedures
 - Repeat infringer policy with account termination provisions
@@ -126,8 +126,8 @@ Comprehensive education and prevention programs for platform users:
 
 | Role | Responsibility |
 | --- | --- |
-| **Legal Team** | Oversee DMCA compliance, manage rights holder relationships, handle copyright litigation, and provide copyright law guidance across the organization. |
-| **Trust & Safety Team** | Process copyright reports, implement content takedowns, manage repeat infringer enforcement, and coordinate with automated copyright detection systems. |
+| **[Legal Department/Team Name]** | Oversee DMCA compliance, manage rights holder relationships, handle copyright litigation, and provide copyright law guidance across the organization. |
+| **[Trust & Safety Department/Team Name]** | Process copyright reports, implement content takedowns, manage repeat infringer enforcement, and coordinate with automated copyright detection systems. |
 | **Technical Team** | Maintain content identification systems, implement automated copyright detection, and develop tools for rights management and content protection. |
 | **Content Operations** | Monitor licensed content compliance, manage content licensing relationships, and ensure proper attribution and revenue sharing. |
 | **User Education Team** | Develop copyright education materials, conduct user outreach programs, and provide guidance on copyright compliance and fair use. |

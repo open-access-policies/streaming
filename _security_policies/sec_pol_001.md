@@ -7,7 +7,7 @@ order: 1
 
 ### 1. Objective
 
-The objective of this policy is to establish the requirements for protecting the confidentiality, integrity, and availability of the Company's information assets, user data, and video streaming platform infrastructure. This policy ensures compliance with applicable laws and regulations while maintaining user trust and platform security.
+The objective of this policy is to establish the requirements for protecting the confidentiality, integrity, and availability of [Company Name]'s information assets, user data, and video streaming platform infrastructure. This policy ensures compliance with applicable laws and regulations while maintaining user trust and platform security.
 
 ### 2. Scope
 
@@ -70,8 +70,8 @@ Information security controls must be regularly monitored, tested, and audited t
 
 | Role | Responsibility |
 | --- | --- |
-| **Chief Information Security Officer (CISO)** | Overall accountability for information security strategy, governance, and compliance. Ensures alignment with business objectives and regulatory requirements. |
+| **[Senior Security Role, e.g., CISO]** | Overall accountability for information security strategy, governance, and compliance. Ensures alignment with business objectives and regulatory requirements. |
 | **All Employees** | Comply with information security policies and procedures. Report security incidents and suspicious activities promptly. |
-| **IT Department** | Implement and maintain technical security controls. Monitor system security and respond to technical security incidents. |
-| **Engineering Teams** | Integrate security into software development lifecycle. Implement secure coding practices and conduct security testing. |
-| **Trust & Safety Team** | Monitor content for security threats. Implement content moderation security controls and respond to content-related security incidents. |
+| **[IT/Infrastructure Department/Team Name]** | Implement and maintain technical security controls. Monitor system security and respond to technical security incidents. |
+| **[Development Department/Team Name]** | Integrate security into software development lifecycle. Implement secure coding practices and conduct security testing. |
+| **[Trust & Safety Department/Team Name]** | Monitor content for security threats. Implement content moderation security controls and respond to content-related security incidents. |

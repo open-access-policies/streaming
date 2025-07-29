@@ -21,7 +21,7 @@ This procedure ensures comprehensive security testing through multiple testing m
 
 | **Step** | **Who** | **What** |
 | -------- | -------- | -------- |
-| **1** | **Development Team** | Submit application for security testing with documentation including architecture diagrams, data flow diagrams, and threat model. |
+| **1** | **[Development Department/Team Name]** | Submit application for security testing with documentation including architecture diagrams, data flow diagrams, and threat model. |
 | **2** | **Security Testing Team** | Review application documentation and create security testing plan covering scope, methodology, and success criteria. |
 | **3** | **DevSecOps Team** | Configure automated security testing tools (SAST, DAST, SCA) and integrate into CI/CD pipeline for continuous testing. |
 | **4** | **Security Testing Team** | Execute static application security testing (SAST) on source code to identify coding vulnerabilities and security flaws. |
@@ -31,7 +31,7 @@ This procedure ensures comprehensive security testing through multiple testing m
 | **8** | **Security Testing Team** | Perform manual security testing for business logic flaws, privilege escalation, and platform-specific security issues. |
 | **9** | **Security Testing Team** | Conduct mobile application security testing including binary analysis, runtime analysis, and platform-specific security controls. |
 | **10** | **Security Testing Team** | Document all findings with severity ratings, proof-of-concept demonstrations, and detailed remediation recommendations. |
-| **11** | **Development Team** | Review security findings, develop remediation plans, and implement fixes for identified vulnerabilities. |
+| **11** | **[Development Department/Team Name]** | Review security findings, develop remediation plans, and implement fixes for identified vulnerabilities. |
 | **12** | **Security Testing Team** | Verify remediation effectiveness through retesting and validate that fixes do not introduce new security issues. |
 | **13** | **Security Testing Team** | Generate comprehensive security testing report with executive summary, findings summary, and approval recommendation. |
 | **14** | **Application Security Architect** | Review security testing results and provide approval for production deployment or require additional security measures. |
@@ -68,6 +68,6 @@ A comprehensive security testing report containing executive summary, detailed v
 | **Role** | **Responsibility** |
 | -------- | ------------------ |
 | **Security Testing Team** | Execute comprehensive security testing, document findings accurately, and provide expert remediation guidance to development teams. |
-| **Development Team** | Provide complete application documentation, implement security fixes promptly, and support security testing activities. |
+| **[Development Department/Team Name]** | Provide complete application documentation, implement security fixes promptly, and support security testing activities. |
 | **DevSecOps Team** | Maintain security testing tools, integrate testing into CI/CD pipelines, and automate security testing processes. |
 | **Application Security Architect** | Define security testing requirements, review testing results, and make production deployment approval decisions. |

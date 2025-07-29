@@ -71,9 +71,9 @@ A comprehensive data erasure record containing deletion request details, legal a
 
 | **Role** | **Responsibility** |
 | -------- | ------------------ |
-| **Privacy Team** | Manage deletion request workflow, coordinate cross-functional execution, verify completeness, and ensure regulatory compliance and user communication. |
+| **[Privacy Department/Team Name]** | Manage deletion request workflow, coordinate cross-functional execution, verify completeness, and ensure regulatory compliance and user communication. |
 | **Technical Team** | Execute automated deletion procedures, verify technical deletion across all systems, and maintain deletion tools and monitoring capabilities. |
-| **Legal Team** | Assess legal basis for data retention, evaluate deletion limitations, and ensure compliance with regulatory and contractual obligations. |
+| **[Legal Department/Team Name]** | Assess legal basis for data retention, evaluate deletion limitations, and ensure compliance with regulatory and contractual obligations. |
 | **Database Administrators** | Execute database-level deletions, manage backup deletion schedules, and verify data removal from all storage systems and archives. |
 | **Third-Party Management** | Coordinate with external processors for deletion execution, verify third-party compliance, and maintain deletion confirmation documentation. |
 | **Quality Assurance** | Conduct deletion verification testing, audit deletion completeness, and identify opportunities for process improvement and automation enhancement. |

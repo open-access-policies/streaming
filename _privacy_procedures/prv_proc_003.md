@@ -28,7 +28,7 @@ This procedure ensures COPPA compliance through robust age verification, multipl
 | **5** | **COPPA Team** | Process parental consent using approved VPC methods: (a) Credit/debit card transaction with minimum charge and immediate refund, (b) Digital signature verified through government-issued photo ID, (c) Video conference with trained personnel for identity verification, or (d) Postal mail consent form with notarized signature. |
 | **6** | **Identity Verification Specialist** | Verify parent/guardian identity through selected VPC method, ensuring person providing consent is actually the child's parent or legal guardian. |
 | **7** | **COPPA Compliance System** | Upon successful VPC, activate child account with enhanced privacy protections including disabled behavioral advertising, restricted data collection, and enhanced default privacy settings. |
-| **8** | **Privacy Team** | Implement ongoing monitoring of child account activities, ensuring compliance with COPPA data collection limitations and prohibition of behavioral advertising targeting. |
+| **8** | **[Privacy Department/Team Name]** | Implement ongoing monitoring of child account activities, ensuring compliance with COPPA data collection limitations and prohibition of behavioral advertising targeting. |
 | **9** | **Content Moderation** | Apply enhanced content filtering and moderation for child accounts, prioritizing age-appropriate content and blocking content not suitable for children. |
 | **10** | **Parent Communication** | Provide parents with ongoing access to child's account settings, data collection practices, and easy mechanisms to review, modify, or revoke consent. |
 | **11** | **Compliance Monitoring** | Conduct regular audits of child accounts to ensure ongoing COPPA compliance, proper consent documentation, and appropriate data handling practices. |
@@ -116,7 +116,7 @@ This procedure ensures COPPA compliance through robust age verification, multipl
 | -------- | ------------------ |
 | **COPPA Compliance Team** | Oversee all aspects of COPPA compliance including VPC processing, monitoring child accounts, and ensuring ongoing regulatory compliance. |
 | **Identity Verification Specialists** | Execute verifiable parental consent procedures, verify parent/guardian identity, and maintain secure documentation of consent processes. |
-| **Privacy Team** | Develop and maintain COPPA policies, conduct compliance monitoring, coordinate with legal team on regulatory requirements, and manage parent communications. |
+| **[Privacy Department/Team Name]** | Develop and maintain COPPA policies, conduct compliance monitoring, coordinate with legal team on regulatory requirements, and manage parent communications. |
 | **Technical Team** | Implement enhanced privacy protections for child accounts, maintain age verification systems, and ensure technical compliance with COPPA data collection limitations. |
 | **Content Moderation Team** | Apply enhanced content filtering for child accounts, ensure age-appropriate content delivery, and monitor child interactions for safety compliance. |
 | **Customer Support** | Handle parent inquiries regarding child accounts, process consent modifications, and provide ongoing support for COPPA-related questions and concerns. |

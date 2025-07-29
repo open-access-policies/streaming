@@ -11,7 +11,7 @@ The purpose of this procedure is to describe the process for conducting internal
 
 ### 2. Scope
 
-This procedure applies to all internal audits of information security controls, processes, and systems within the Company. It covers audits of technical controls, administrative procedures, and compliance with regulatory requirements including SOC 2, GDPR, CCPA, COPPA, and the EU Digital Services Act.
+This procedure applies to all internal audits of information security controls, processes, and systems within [Company Name]. It covers audits of technical controls, administrative procedures, and compliance with regulatory requirements including SOC 2, GDPR, CCPA, COPPA, and the EU Digital Services Act.
 
 ### 3. Overview
 

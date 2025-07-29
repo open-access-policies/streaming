@@ -7,11 +7,11 @@ order: 3
 
 ### 1. Objective
 
-The objective of this policy is to establish a systematic approach to identifying, assessing, treating, and monitoring information security risks that could impact the Company's video streaming platform, user data, business operations, and regulatory compliance obligations.
+The objective of this policy is to establish a systematic approach to identifying, assessing, treating, and monitoring information security risks that could impact [Company Name]'s video streaming platform, user data, business operations, and regulatory compliance obligations.
 
 ### 2. Scope
 
-This policy applies to all business units, employees, contractors, and third parties involved in the operation of the video streaming platform. It covers all risks related to information security, data protection, platform operations, content management, and regulatory compliance across all geographic regions where the Company operates.
+This policy applies to all business units, employees, contractors, and third parties involved in the operation of the video streaming platform. It covers all risks related to information security, data protection, platform operations, content management, and regulatory compliance across all geographic regions where [Company Name] operates.
 
 ### 3. Policy
 
@@ -112,9 +112,9 @@ Risk information must be communicated to relevant stakeholders through:
 
 | Role | Responsibility |
 | --- | --- |
-| **Chief Information Security Officer (CISO)** | Overall accountability for risk management framework and strategy. Ensure integration with business objectives and regulatory requirements. |
-| **Risk Management Committee** | Review and approve significant risk assessments and treatment plans. Provide governance oversight for risk management activities. |
+| **[Senior Security Role, e.g., CISO]** | Overall accountability for risk management framework and strategy. Ensure integration with business objectives and regulatory requirements. |
+| **[Risk Governance Body Name]** | Review and approve significant risk assessments and treatment plans. Provide governance oversight for risk management activities. |
 | **Business Unit Leaders** | Identify risks within their domains, participate in risk assessments, and implement approved risk treatment measures. |
-| **Security Team** | Conduct technical risk assessments, monitor threat landscape, and provide risk analysis expertise. |
-| **Trust & Safety Team** | Assess content-related risks, monitor platform abuse patterns, and evaluate algorithmic bias risks. |
-| **Legal Team** | Assess regulatory compliance risks, evaluate government request impacts, and provide guidance on legal risk treatments. |
+| **[Security Department/Team Name]** | Conduct technical risk assessments, monitor threat landscape, and provide risk analysis expertise. |
+| **[Trust & Safety Department/Team Name]** | Assess content-related risks, monitor platform abuse patterns, and evaluate algorithmic bias risks. |
+| **[Legal Department/Team Name]** | Assess regulatory compliance risks, evaluate government request impacts, and provide guidance on legal risk treatments. |

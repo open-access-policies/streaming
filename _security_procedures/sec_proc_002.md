@@ -7,7 +7,7 @@ order: 2
 
 ### 1. Purpose
 
-The purpose of this procedure is to describe the systematic process for identifying, analyzing, and evaluating information security risks that could impact the Company's video streaming platform, user data, and business operations, ensuring appropriate risk treatment decisions are made.
+The purpose of this procedure is to describe the systematic process for identifying, analyzing, and evaluating information security risks that could impact [Company Name]'s video streaming platform, user data, and business operations, ensuring appropriate risk treatment decisions are made.
 
 ### 2. Scope
 
@@ -22,7 +22,7 @@ This procedure provides a structured approach to risk assessment that enables in
 | **Step** | **Who** | **What** |
 | -------- | -------- | -------- |
 | **1** | **Risk Assessment Team** | Define assessment scope including systems, processes, geographic regions, and time period to be evaluated. |
-| **2** | **Security Team** | Gather current threat intelligence, vulnerability data, and security incident history relevant to assessment scope. |
+| **2** | **[Security Department/Team Name]** | Gather current threat intelligence, vulnerability data, and security incident history relevant to assessment scope. |
 | **3** | **Business Stakeholders** | Identify critical business assets including user data, algorithms, infrastructure, and platform capabilities within scope. |
 | **4** | **Risk Assessment Team** | Identify potential threats including traditional cyber threats, platform-specific risks (harmful UGC, algorithmic bias, DDoS attacks), regulatory compliance risks, and DSA Systemic Risks. DSA Systemic Risks include: (1) the dissemination of illegal content across the platform, (2) negative effects on fundamental rights including freedom of expression, privacy, and non-discrimination, (3) negative effects on civic discourse, electoral processes, and public security, and (4) negative effects on public health and the protection of minors. |
 | **5** | **Technical Teams** | Assess existing security controls and their effectiveness in mitigating identified threats and vulnerabilities. |

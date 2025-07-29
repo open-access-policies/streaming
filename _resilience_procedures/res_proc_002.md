@@ -29,7 +29,7 @@ This procedure ensures systematic analysis of incident response performance and 
 | **6** | **Root Cause Analyst** | Present detailed root cause analysis using systematic methodology (5 Whys, Fishbone Diagram, or Fault Tree Analysis). |
 | **7** | **All Participants** | Identify specific lessons learned including process improvements, tool enhancements, and training needs for future incidents. |
 | **8** | **Action Item Owner** | Define specific, measurable action items with assigned owners, deadlines, and success criteria for implementation. |
-| **9** | **Security Team** | Assess need for immediate security control improvements or emergency patches based on incident findings. |
+| **9** | **[Security Department/Team Name]** | Assess need for immediate security control improvements or emergency patches based on incident findings. |
 | **10** | **Documentation Lead** | Prepare comprehensive post-incident review report with findings, recommendations, and approved action plan. |
 | **11** | **CISO** | Review post-incident report, approve action plan and resource allocation, and ensure executive awareness of critical findings. |
 | **12** | **Action Item Owners** | Implement assigned improvements within agreed timelines and provide progress updates to incident response manager. |

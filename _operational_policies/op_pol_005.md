@@ -30,9 +30,9 @@ All software must be approved before installation or use on Company systems:
 Software approval requirements vary by category and risk level:
 
 **Standard Business Software (Pre-Approved):**
-- Office productivity suites (Microsoft Office, Google Workspace)
+- Office productivity suites ([Example Software Suite, e.g., Microsoft Office, Google Workspace])
 - Communication tools (approved messaging, video conferencing)
-- Standard web browsers (Chrome, Firefox, Safari, Edge - latest versions)
+- Standard web browsers ([Example Browser, e.g., Chrome, Firefox] - latest versions)
 - Company-developed applications and internal tools
 - Approved antivirus and security software
 
@@ -148,15 +148,15 @@ Software on personal devices accessing Company resources requires consideration:
 
 **Vulnerability Scanning:** Automated testing to identify security vulnerabilities in software applications and systems.
 
-**Third-Party Software:** Software applications developed by vendors other than the Company or its subsidiaries.
+**Third-Party Software:** Software applications developed by vendors other than [Company Name] or its subsidiaries.
 
 ### 6. Responsibilities
 
 | Role | Responsibility |
 | --- | --- |
-| **IT Security Team** | Maintain approved software catalog, conduct security assessments, monitor for unauthorized software, and respond to software-related security incidents. |
+| **IT [Security Department/Team Name]** | Maintain approved software catalog, conduct security assessments, monitor for unauthorized software, and respond to software-related security incidents. |
 | **Software Asset Management Team** | Track software licenses, ensure compliance, conduct audits, and manage vendor relationships for software procurement and licensing. |
 | **IT Support Team** | Install approved software, provide user support, maintain software updates, and assist with software compliance and removal procedures. |
 | **Business Users** | Request software approval through proper channels, comply with software policies, report unauthorized software, and maintain security awareness. |
 | **Procurement Team** | Ensure proper licensing terms, coordinate with legal for contract review, and manage vendor relationships for software purchases. |
-| **Legal Team** | Review software licensing agreements, provide compliance guidance, and support vendor audits and intellectual property protection. |
+| **[Legal Department/Team Name]** | Review software licensing agreements, provide compliance guidance, and support vendor audits and intellectual property protection. |

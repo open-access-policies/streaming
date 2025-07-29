@@ -23,12 +23,12 @@ This procedure ensures systematic handling of user privacy rights requests throu
 | -------- | -------- | -------- |
 | **1** | **User** | Submit data subject rights request through platform privacy center, email, or postal mail with required identification and request details. |
 | **2** | **Privacy Portal** | Automatically acknowledge request receipt within 24 hours, assign unique case number, and provide estimated response timeline based on request type. |
-| **3** | **Privacy Team** | Verify user identity using multi-factor authentication, government ID verification, or other approved methods to prevent unauthorized access. |
+| **3** | **[Privacy Department/Team Name]** | Verify user identity using multi-factor authentication, government ID verification, or other approved methods to prevent unauthorized access. |
 | **4** | **Privacy Analyst** | Categorize request type (access, deletion, correction, portability, opt-out of sale/sharing, limit sensitive PI use, etc.) and assess scope including systems, data types, and time periods involved. For sensitive personal information limitation requests, identify all current uses and secondary processing activities. |
 | **5** | **Technical Team** | Execute automated data retrieval across all platform systems including user accounts, content, viewing history, and interaction data. |
 | **6** | **Privacy Analyst** | Review retrieved data for completeness, accuracy, and third-party data requiring special handling or redaction for privacy protection. For PIPEDA requests, include explanation of how information has been used and list of third parties to whom information has been disclosed. |
 | **7** | **Legal Review** | Assess legal basis for any data retention, evaluate potential conflicts with other legal obligations, and approve response strategy. |
-| **8** | **Privacy Team** | Prepare user response including data package, explanations of processing activities, and clear information about rights and options. For PIPEDA requests, include usage explanations and third-party disclosure information. Apply reasonable fees for extensive PIPEDA requests if applicable. |
+| **8** | **[Privacy Department/Team Name]** | Prepare user response including data package, explanations of processing activities, and clear information about rights and options. For PIPEDA requests, include usage explanations and third-party disclosure information. Apply reasonable fees for extensive PIPEDA requests if applicable. |
 | **9** | **Quality Assurance** | Verify response completeness, accuracy, and compliance with regulatory requirements before delivery to user. |
 | **10** | **User Communication** | Deliver response to user within regulatory timeframes (30 days GDPR/PIPEDA, 45 days CCPA) through secure delivery method with receipt confirmation. Provide alternative formats for users with disabilities as required by PIPEDA. |
 | **11** | **Technical Implementation** | Execute approved actions including data deletion, access restrictions, data corrections, opt-out processing, or limitation of sensitive personal information use based on user request and legal review. For sensitive PI limitation requests, update data processing systems to restrict use to necessary services only. |
@@ -80,9 +80,9 @@ A comprehensive DSAR case record containing user request details, identity verif
 
 | **Role** | **Responsibility** |
 | -------- | ------------------ |
-| **Privacy Team** | Manage DSAR workflow, verify user identity, coordinate cross-functional response, ensure regulatory compliance including PIPEDA requirements, and ensure timely delivery with usage explanations and third-party disclosure information. |
+| **[Privacy Department/Team Name]** | Manage DSAR workflow, verify user identity, coordinate cross-functional response, ensure regulatory compliance including PIPEDA requirements, and ensure timely delivery with usage explanations and third-party disclosure information. |
 | **Technical Team** | Execute automated data retrieval, implement user-requested changes, maintain systems supporting privacy rights fulfillment, and provide technical documentation for PIPEDA usage explanations. |
-| **Legal Team** | Assess legal basis for data retention, evaluate conflicting obligations, provide guidance on complex privacy rights requests, and oversee PIPEDA compliance challenge resolution process. |
+| **[Legal Department/Team Name]** | Assess legal basis for data retention, evaluate conflicting obligations, provide guidance on complex privacy rights requests, and oversee PIPEDA compliance challenge resolution process. |
 | **Quality Assurance** | Verify response accuracy and completeness, ensure regulatory compliance including PIPEDA requirements, verify alternative format provisions, and identify process improvement opportunities. |
 | **User Support** | Provide user assistance with DSAR submission, clarify request scope, handle follow-up questions about privacy rights, and manage initial intake of PIPEDA compliance challenges. |
 | **Data Protection Officer** | Oversee DSAR process compliance including PIPEDA accountability, serve as regulatory contact, ensure privacy rights procedures meet legal requirements, and authorize reasonable fees for extensive PIPEDA requests. |

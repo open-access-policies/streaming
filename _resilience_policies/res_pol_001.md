@@ -30,17 +30,17 @@ The Company shall maintain a comprehensive incident response capability:
 Incidents are classified based on impact and urgency for appropriate response:
 
 **P1 (Critical) Incidents:**
-- Major platform outage affecting >50% of users globally
+- Major platform outage affecting >[Percentage, e.g., 50]% of users globally
 - Widespread harmful content event requiring immediate intervention
-- Major user data breach exposing >100,000 user records
+- Major user data breach exposing >[Number, e.g., 100,000] user records
 - Complete failure of content delivery systems
 - Active cyber attack causing significant service disruption
 - Government emergency takedown demands requiring immediate action
 
 **P2 (High) Incidents:**
-- Regional platform outage affecting <50% of users
+- Regional platform outage affecting <[Percentage, e.g., 50]% of users
 - Content moderation system failure allowing harmful content
-- Limited data breach exposing <100,000 user records
+- Limited data breach exposing <[Number, e.g., 100,000] user records
 - Significant performance degradation affecting user experience
 - Successful cyber attack with contained impact
 - Major algorithm bias incident affecting user recommendations
@@ -104,9 +104,9 @@ All incidents must follow structured response procedures:
 **3.6 Communication and Notification**
 
 Incident communication must be timely and appropriate:
-- Internal notification to incident response team within 15 minutes
-- Executive notification for P1/P2 incidents within 1 hour
-- User communication for service-affecting incidents within 2 hours
+- Internal notification to incident response team within [Number, e.g., 15] minutes
+- Executive notification for P1/P2 incidents within [Number, e.g., 1] hour
+- User communication for service-affecting incidents within [Number, e.g., 2] hours
 - Regulatory notification within required timeframes (GDPR 72 hours)
 - Media and public communication coordination
 - Post-incident communication and transparency reporting
@@ -155,5 +155,5 @@ Incident response must address compliance requirements:
 | **Security Operations Center (SOC)** | Monitor for incidents 24/7, perform initial triage, activate incident response team, and provide ongoing threat analysis. |
 | **Technical Response Teams** | Provide specialized expertise for incident analysis, implement containment measures, and execute recovery procedures. |
 | **Communications Team** | Manage internal and external communications, coordinate with media, and ensure consistent messaging during incidents. |
-| **Legal Team** | Provide legal guidance, manage regulatory notifications, coordinate with law enforcement, and oversee compliance requirements. |
+| **[Legal Department/Team Name]** | Provide legal guidance, manage regulatory notifications, coordinate with law enforcement, and oversee compliance requirements. |
 | **Executive Leadership** | Provide strategic direction, approve major decisions, allocate resources, and represent the organization during significant incidents. |

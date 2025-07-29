@@ -29,22 +29,22 @@ The Company shall maintain comprehensive business continuity capabilities:
 
 Video streaming platform must maintain exceptional availability:
 
-**Core Services (99.99% availability target):**
-- Video streaming and content delivery (RTO: <2 minutes, RPO: <30 seconds)
-- User authentication and authorization (RTO: <1 minute, RPO: <15 seconds)
-- Content recommendation engine (RTO: <5 minutes, RPO: <1 minute)
-- Mobile and web application APIs (RTO: <2 minutes, RPO: <30 seconds)
+**Core Services ([Percentage, e.g., 99.99]% availability target):**
+- Video streaming and content delivery (RTO: <[Number, e.g., 2] minutes, RPO: <[Number, e.g., 30] seconds)
+- User authentication and authorization (RTO: <[Number, e.g., 1] minute, RPO: <[Number, e.g., 15] seconds)
+- Content recommendation engine (RTO: <[Number, e.g., 5] minutes, RPO: <[Number, e.g., 1] minute)
+- Mobile and web application APIs (RTO: <[Number, e.g., 2] minutes, RPO: <[Number, e.g., 30] seconds)
 
-**Supporting Services (99.9% availability target):**
-- Content moderation systems (RTO: <15 minutes, RPO: <5 minutes)
-- User analytics and reporting (RTO: <30 minutes, RPO: <15 minutes)
-- Administrative and management interfaces (RTO: <1 hour, RPO: <15 minutes)
-- Content upload and processing (RTO: <30 minutes, RPO: <10 minutes)
+**Supporting Services ([Percentage, e.g., 99.9]% availability target):**
+- Content moderation systems (RTO: <[Number, e.g., 15] minutes, RPO: <[Number, e.g., 5] minutes)
+- User analytics and reporting (RTO: <[Number, e.g., 30] minutes, RPO: <[Number, e.g., 15] minutes)
+- Administrative and management interfaces (RTO: <[Number, e.g., 1] hour, RPO: <[Number, e.g., 15] minutes)
+- Content upload and processing (RTO: <[Number, e.g., 30] minutes, RPO: <[Number, e.g., 10] minutes)
 
-**Business Support Services (99.5% availability target):**
-- Customer support systems (RTO: <2 hours, RPO: <30 minutes)
-- Financial and billing systems (RTO: <4 hours, RPO: <1 hour)
-- Human resources and administrative systems (RTO: <8 hours, RPO: <2 hours)
+**Business Support Services ([Percentage, e.g., 99.5]% availability target):**
+- Customer support systems (RTO: <[Number, e.g., 2] hours, RPO: <[Number, e.g., 30] minutes)
+- Financial and billing systems (RTO: <[Number, e.g., 4] hours, RPO: <[Number, e.g., 1] hour)
+- Human resources and administrative systems (RTO: <[Number, e.g., 8] hours, RPO: <[Number, e.g., 2] hours)
 
 **3.3 Multi-Region Active-Active Strategy**
 
@@ -139,7 +139,7 @@ Business continuity capabilities must be regularly tested:
 | Role | Responsibility |
 | --- | --- |
 | **Business Continuity Manager** | Develop and maintain business continuity plans, coordinate testing activities, and manage continuity program governance. |
-| **Infrastructure Team** | Implement technical disaster recovery capabilities, maintain backup systems, and execute recovery procedures. |
+| **[IT/Infrastructure Department/Team Name]** | Implement technical disaster recovery capabilities, maintain backup systems, and execute recovery procedures. |
 | **Operations Team** | Monitor system health, execute failover procedures, and coordinate recovery activities during disasters. |
 | **Business Process Owners** | Define business requirements, participate in continuity planning, and validate recovery procedures for their processes. |
 | **Executive Leadership** | Provide strategic direction, approve continuity investments, and make critical decisions during major disruptions. |

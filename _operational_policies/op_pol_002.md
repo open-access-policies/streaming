@@ -30,8 +30,8 @@ All mobile devices accessing Company resources must be enrolled in mobile device
 Mobile devices must meet minimum security configuration standards:
 - Device encryption enabled for all storage (internal and external)
 - Screen lock with PIN, password, biometric, or pattern authentication
-- Automatic screen lock timeout not exceeding 15 minutes
-- Operating system updates applied within 30 days of release
+- Automatic screen lock timeout not exceeding [Number, e.g., 15] minutes
+- Operating system updates applied within [Number, e.g., 30] days of release
 - Anti-malware protection where available and appropriate
 - Disable unnecessary services, connections, and applications
 
@@ -53,7 +53,7 @@ Special considerations for video streaming platform access:
 - Secure communication with backend services using certificate pinning
 - Regular application updates with security patches
 
-**Trust & Safety Team Devices:**
+**[Trust & Safety Department/Team Name] Devices:**
 - Enhanced monitoring and logging capabilities for content moderation activities
 - Secure access to content moderation tools and workflows
 - Protected storage for content review decisions and documentation
@@ -127,9 +127,9 @@ Mobile device security incidents must be properly managed:
 
 | Role | Responsibility |
 | --- | --- |
-| **IT Security Team** | Implement and maintain MDM solutions, define security configurations, and monitor device compliance and security incidents. |
+| **IT [Security Department/Team Name]** | Implement and maintain MDM solutions, define security configurations, and monitor device compliance and security incidents. |
 | **Device Users** | Comply with mobile device policies, report security incidents promptly, and maintain device security configurations and updates. |
 | **IT Support Team** | Assist with device enrollment, provide technical support, and help users resolve compliance and configuration issues. |
-| **Privacy Team** | Ensure BYOD policies protect personal data privacy, review data handling procedures, and support privacy rights compliance. |
+| **[Privacy Department/Team Name]** | Ensure BYOD policies protect personal data privacy, review data handling procedures, and support privacy rights compliance. |
 | **Human Resources** | Communicate mobile device policies, provide user training, and manage policy compliance and disciplinary actions. |
-| **Content Security Team** | Monitor content access on mobile devices, implement content protection measures, and investigate content-related security incidents. |
+| **Content [Security Department/Team Name]** | Monitor content access on mobile devices, implement content protection measures, and investigate content-related security incidents. |

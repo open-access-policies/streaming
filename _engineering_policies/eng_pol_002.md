@@ -119,7 +119,7 @@ All changes must be fully documented:
 
 **Change:** Any addition, modification, or removal of anything that could affect IT services and systems.
 
-**Change Advisory Board (CAB):** A group of stakeholders responsible for reviewing and authorizing normal and emergency changes.
+**[Change Governance Body Name]:** A group of stakeholders responsible for reviewing and authorizing normal and emergency changes.
 
 **Rollback:** The process of returning a system to its previous state following an unsuccessful change.
 
@@ -139,5 +139,5 @@ All changes must be fully documented:
 | **Change Initiators** | Submit complete change requests, provide business justification, and coordinate change implementation. |
 | **System Owners** | Review changes affecting their systems, participate in testing, and approve technical implementations. |
 | **Operations Team** | Implement approved changes, monitor system performance, and execute rollback procedures when necessary. |
-| **Security Team** | Review security implications of changes, approve security-related changes, and monitor for security impacts. |
+| **[Security Department/Team Name]** | Review security implications of changes, approve security-related changes, and monitor for security impacts. |
 | **Quality Assurance** | Conduct testing and validation of changes, verify functionality, and ensure quality standards are met. |

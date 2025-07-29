@@ -11,7 +11,7 @@ The objective of this policy is to establish requirements for content moderation
 
 ### 2. Scope
 
-This policy applies to all user-generated content on the video streaming platform including videos, comments, live streams, user profiles, and metadata. It covers all content moderation activities, automated systems, human review processes, and appeals procedures across all geographic regions where the Company operates.
+This policy applies to all user-generated content on the video streaming platform including videos, comments, live streams, user profiles, and metadata. It covers all content moderation activities, automated systems, human review processes, and appeals procedures across all geographic regions where [Company Name] operates.
 
 ### 3. Policy
 
@@ -141,9 +141,9 @@ Content moderation must comply with diverse legal frameworks:
 
 | Role | Responsibility |
 | --- | --- |
-| **Trust & Safety Team** | Develop and implement content moderation policies, oversee moderation operations, and ensure compliance with community guidelines and legal requirements. |
+| **[Trust & Safety Department/Team Name]** | Develop and implement content moderation policies, oversee moderation operations, and ensure compliance with community guidelines and legal requirements. |
 | **Content Moderators** | Review user-generated content according to guidelines, make consistent moderation decisions, and escalate complex cases appropriately. |
 | **AI/ML Teams** | Develop and maintain automated content detection systems, conduct bias testing, and improve model accuracy and fairness. |
-| **Legal Team** | Provide guidance on content moderation legal requirements, review government requests, and ensure compliance with regional laws and regulations. |
+| **[Legal Department/Team Name]** | Provide guidance on content moderation legal requirements, review government requests, and ensure compliance with regional laws and regulations. |
 | **Policy Team** | Develop community guidelines, coordinate policy updates, and engage with stakeholders on content moderation standards. |
 | **User Appeals Team** | Process user appeals fairly and consistently, provide clear communication, and identify policy improvement opportunities. |

@@ -7,7 +7,7 @@ order: 6
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for protecting the Company's physical facilities, information systems, and personnel from unauthorized physical access, environmental threats, and security incidents that could impact video streaming platform operations and data security.
+The objective of this policy is to establish requirements for protecting [Company Name]'s physical facilities, information systems, and personnel from unauthorized physical access, environmental threats, and security incidents that could impact video streaming platform operations and data security.
 
 ### 2. Scope
 
@@ -110,8 +110,8 @@ Physical security emergency response:
 | Role | Responsibility |
 | --- | --- |
 | **Facilities Management** | Implement and maintain physical security controls, manage access control systems, and coordinate with security vendors. |
-| **Security Team** | Monitor physical security incidents, conduct security assessments of facilities, and develop physical security procedures. |
+| **[Security Department/Team Name]** | Monitor physical security incidents, conduct security assessments of facilities, and develop physical security procedures. |
 | **Human Resources** | Manage employee access provisioning and deprovisioning, conduct security awareness training, and support background checks. |
-| **IT Department** | Secure computing equipment, implement endpoint protection, and manage technology-based physical security systems. |
+| **[IT/Infrastructure Department/Team Name]** | Secure computing equipment, implement endpoint protection, and manage technology-based physical security systems. |
 | **All Employees** | Follow physical security procedures, report security incidents, and protect Company assets and information. |
 | **Reception and Security Staff** | Monitor facility access, manage visitor procedures, and respond to physical security incidents. |

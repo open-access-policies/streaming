@@ -11,7 +11,7 @@ The objective of this policy is to establish security requirements for the desig
 
 ### 2. Scope
 
-This policy applies to all infrastructure components supporting video streaming services, including cloud environments, on-premises data centers, content delivery networks, network equipment, servers, storage systems, and supporting infrastructure across all geographic regions where the Company operates.
+This policy applies to all infrastructure components supporting video streaming services, including cloud environments, on-premises data centers, content delivery networks, network equipment, servers, storage systems, and supporting infrastructure across all geographic regions where [Company Name] operates.
 
 ### 3. Policy
 
@@ -133,9 +133,9 @@ Data storage systems require comprehensive protection:
 
 | Role | Responsibility |
 | --- | --- |
-| **Infrastructure Team** | Design, implement, and maintain secure infrastructure, ensure compliance with security standards, and respond to infrastructure security incidents. |
+| **[IT/Infrastructure Department/Team Name]** | Design, implement, and maintain secure infrastructure, ensure compliance with security standards, and respond to infrastructure security incidents. |
 | **Cloud Operations Team** | Manage cloud security configurations, monitor cloud environments, and ensure compliance with cloud security policies. |
 | **Network Operations Team** | Maintain network security controls, monitor network traffic, and respond to network-based security incidents. |
-| **Security Team** | Define infrastructure security requirements, conduct security assessments, and monitor infrastructure security posture. |
+| **[Security Department/Team Name]** | Define infrastructure security requirements, conduct security assessments, and monitor infrastructure security posture. |
 | **DevOps Team** | Implement security controls in deployment pipelines, manage infrastructure as code securely, and integrate security into automation. |
 | **Compliance Team** | Ensure infrastructure meets regulatory requirements, conduct compliance assessments, and manage data sovereignty obligations. |

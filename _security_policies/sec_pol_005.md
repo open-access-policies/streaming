@@ -7,7 +7,7 @@ order: 5
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for assessing, managing, and monitoring security risks associated with third-party vendors and service providers who support the Company's video streaming platform operations, ensuring they maintain appropriate security standards and comply with regulatory requirements.
+The objective of this policy is to establish requirements for assessing, managing, and monitoring security risks associated with third-party vendors and service providers who support [Company Name]'s video streaming platform operations, ensuring they maintain appropriate security standards and comply with regulatory requirements.
 
 ### 2. Scope
 
@@ -120,7 +120,7 @@ Vendors must disclose and manage risks from their subcontractors:
 
 ### 5. Definitions
 
-**Vendor:** Any external organization that provides goods or services to the Company under a contractual agreement.
+**Vendor:** Any external organization that provides goods or services to [Company Name] under a contractual agreement.
 
 **Critical Vendor:** A vendor whose service disruption could significantly impact platform operations, user safety, or regulatory compliance.
 
@@ -128,7 +128,7 @@ Vendors must disclose and manage risks from their subcontractors:
 
 **Content Delivery Network (CDN):** A distributed network of servers that deliver video content to users based on their geographic location.
 
-**Data Processing Agreement (DPA):** A contract that defines how personal data is processed by vendors on behalf of the Company.
+**Data Processing Agreement (DPA):** A contract that defines how personal data is processed by vendors on behalf of [Company Name].
 
 **Security Level Agreement (SLA):** Contractual commitments regarding security performance, availability, and incident response metrics.
 
@@ -138,7 +138,7 @@ Vendors must disclose and manage risks from their subcontractors:
 | --- | --- |
 | **Procurement Team** | Ensure vendor contracts include required security terms and obtain security assessments before contract execution. |
 | **Vendor Management Office** | Coordinate vendor risk assessments, maintain vendor registries, and monitor ongoing vendor performance. |
-| **Security Team** | Conduct vendor security assessments, review security certifications, and investigate vendor-related security incidents. |
-| **Legal Team** | Review and approve vendor contract security terms, ensure regulatory compliance, and manage data protection agreements. |
+| **[Security Department/Team Name]** | Conduct vendor security assessments, review security certifications, and investigate vendor-related security incidents. |
+| **[Legal Department/Team Name]** | Review and approve vendor contract security terms, ensure regulatory compliance, and manage data protection agreements. |
 | **Business Owners** | Define vendor requirements, participate in risk assessments, and monitor vendor service delivery performance. |
-| **Privacy Team** | Ensure vendor data processing complies with privacy requirements and support data subject rights fulfillment. |
+| **[Privacy Department/Team Name]** | Ensure vendor data processing complies with privacy requirements and support data subject rights fulfillment. |

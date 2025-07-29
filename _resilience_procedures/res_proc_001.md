@@ -21,9 +21,9 @@ This procedure provides a structured approach to incident response that minimize
 
 | **Step** | **Who** | **What** |
 | -------- | -------- | -------- |
-| **1** | **SOC Analyst** | Detect potential incident through automated monitoring, user reports, or threat intelligence and perform initial triage assessment. |
-| **2** | **SOC Analyst** | Document incident details in incident management system including time, source, initial indicators, and preliminary severity assessment. |
-| **3** | **SOC Lead** | Validate incident classification and severity level, escalate to Incident Response Manager for P1/P2 incidents within 15 minutes. |
+| **1** | **[Security Operations Role]** | Detect potential incident through automated monitoring, user reports, or threat intelligence and perform initial triage assessment. |
+| **2** | **[Security Operations Role]** | Document incident details in incident management system including time, source, initial indicators, and preliminary severity assessment. |
+| **3** | **[Security Operations Role]** | Validate incident classification and severity level, escalate to Incident Response Manager for P1/P2 incidents within 15 minutes. |
 | **4** | **Incident Response Manager** | Activate incident response team based on incident type and severity, assign roles, and establish incident command center. |
 | **5** | **Communications Lead** | Notify executive leadership within 1 hour for P1/P2 incidents and prepare initial internal communication to stakeholders. |
 | **6** | **Technical Lead** | Assess immediate containment options, implement emergency containment measures to prevent further damage or data loss. |
@@ -69,7 +69,7 @@ A comprehensive incident response record containing timeline of all actions, evi
 | **Role** | **Responsibility** |
 | -------- | ------------------ |
 | **Incident Response Manager** | Lead overall incident response, coordinate team activities, make strategic decisions, and manage stakeholder communication. |
-| **SOC Analysts** | Monitor for incidents 24/7, perform initial triage, execute containment measures, and provide continuous threat analysis. |
+| **[Security Operations Role]s** | Monitor for incidents 24/7, perform initial triage, execute containment measures, and provide continuous threat analysis. |
 | **Technical Leads** | Provide specialized technical expertise, lead system analysis and recovery, and implement security improvements. |
 | **Forensics Analyst** | Preserve and analyze digital evidence, support legal investigations, and provide technical findings for legal proceedings. |
 | **Communications Lead** | Manage all incident communications, coordinate with media relations, and ensure consistent messaging across stakeholders. |

@@ -7,7 +7,7 @@ order: 9
 
 ### 1. Objective
 
-The objective of this policy is to establish the overarching strategy and requirements for monitoring the Company's systems, networks, and applications to detect, analyze, and respond to potential security threats in a timely manner. This policy ensures comprehensive visibility into security-relevant events across the video streaming platform and supporting infrastructure.
+The objective of this policy is to establish the overarching strategy and requirements for monitoring [Company Name]'s systems, networks, and applications to detect, analyze, and respond to potential security threats in a timely manner. This policy ensures comprehensive visibility into security-relevant events across the video streaming platform and supporting infrastructure.
 
 ### 2. Scope
 
@@ -65,6 +65,6 @@ All verified security events that are classified as potential incidents must be 
 | **Role** | **Responsibility** |
 | -------- | -------- |
 | **Security Operations Center (SOC)** | Monitor security alerts 24/7, perform initial triage and investigation, escalate verified incidents, and maintain monitoring system effectiveness. |
-| **Security Team** | Design and implement monitoring architecture, develop detection rules and correlation logic, tune monitoring systems, and provide security expertise for threat analysis. |
-| **Infrastructure Team** | Ensure proper log generation and forwarding from infrastructure components, maintain monitoring system infrastructure, and support security monitoring requirements in system design. |
-| **Development Teams** | Implement security logging in applications, ensure monitoring hooks are included in new features, and support security monitoring requirements during development lifecycle. |
+| **[Security Department/Team Name]** | Design and implement monitoring architecture, develop detection rules and correlation logic, tune monitoring systems, and provide security expertise for threat analysis. |
+| **[IT/Infrastructure Department/Team Name]** | Ensure proper log generation and forwarding from infrastructure components, maintain monitoring system infrastructure, and support security monitoring requirements in system design. |
+| **[Development Department/Team Name]** | Implement security logging in applications, ensure monitoring hooks are included in new features, and support security monitoring requirements during development lifecycle. |

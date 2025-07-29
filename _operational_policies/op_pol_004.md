@@ -11,7 +11,7 @@ The objective of this policy is to establish security requirements for human res
 
 ### 2. Scope
 
-This policy applies to all human resources security activities including background checks, security awareness training, access management, and termination procedures for employees, contractors, and temporary staff across all geographic regions and business units of the Company.
+This policy applies to all human resources security activities including background checks, security awareness training, access management, and termination procedures for employees, contractors, and temporary staff across all geographic regions and business units of [Company Name].
 
 ### 3. Policy
 
@@ -21,15 +21,15 @@ Background verification must be conducted for all personnel based on role sensit
 
 **Standard Background Checks (All Employees):**
 - Identity verification and employment eligibility confirmation
-- Criminal background check covering 7-year history
+- Criminal background check covering [Number, e.g., 7]-year history
 - Education and professional certification verification
-- Previous employment verification for 5-year history
+- Previous employment verification for [Number, e.g., 5]-year history
 - Reference checks from professional contacts
 
 **Enhanced Background Checks (Sensitive Roles):**
 - Financial background and credit checks for roles with financial access
 - Social media and online presence review for public-facing roles
-- Enhanced criminal background check covering 10-year history
+- Enhanced criminal background check covering [Number, e.g., 10]-year history
 - Drug testing and health clearances where legally permitted
 - Security clearance verification for government-related work
 
@@ -43,7 +43,7 @@ Background verification must be conducted for all personnel based on role sensit
 
 Comprehensive security training must be provided to all personnel:
 
-**Initial Security Training (Within 30 Days of Hire):**
+**Initial Security Training (Within [Number, e.g., 30] Days of Hire):**
 - Information security policy overview and acknowledgment
 - Password security and multi-factor authentication setup
 - Phishing awareness and social engineering prevention
@@ -170,8 +170,8 @@ HR security practices must respect employee privacy and rights:
 | Role | Responsibility |
 | --- | --- |
 | **Human Resources** | Conduct background checks, manage security training programs, coordinate access provisioning and termination, and investigate personnel security incidents. |
-| **Security Team** | Define security requirements for personnel, monitor for insider threats, investigate security violations, and provide security awareness training. |
+| **[Security Department/Team Name]** | Define security requirements for personnel, monitor for insider threats, investigate security violations, and provide security awareness training. |
 | **Hiring Managers** | Define role security requirements, approve access requests, participate in background check decisions, and monitor employee access needs. |
-| **IT Department** | Implement access controls, manage account lifecycle procedures, monitor user activities, and support HR security processes with technical capabilities. |
-| **Legal Team** | Provide guidance on employment law compliance, support personnel security investigations, and ensure HR security practices meet legal requirements. |
+| **[IT/Infrastructure Department/Team Name]** | Implement access controls, manage account lifecycle procedures, monitor user activities, and support HR security processes with technical capabilities. |
+| **[Legal Department/Team Name]** | Provide guidance on employment law compliance, support personnel security investigations, and ensure HR security practices meet legal requirements. |
 | **All Employees** | Comply with security policies, report security concerns, participate in training programs, and maintain security awareness throughout employment. |

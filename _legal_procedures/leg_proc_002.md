@@ -24,15 +24,15 @@ This procedure ensures systematic collection, validation, and publication of tra
 | **1** | **Data Analytics Team** | Extract quarterly content moderation metrics including total number of moderation actions categorized by type of illegal content and policy violations (terrorism, child sexual abuse, hate speech, copyright infringement, etc.). |
 | **2** | **Data Analytics Team** | Collect appeals data including total number of appeals received, categorized by original moderation action type, and outcomes (decision upheld, reversed, or modified) with percentage breakdowns. |
 | **3** | **Data Analytics Team** | Calculate median processing times for content moderation notices, user appeals, and regulatory orders from receipt to final resolution across all categories. |
-| **4** | **Legal Team** | Compile data on orders received from EU member state authorities including number of requests, type of content involved, geographic scope, and compliance actions taken. |
-| **5** | **Trust & Safety Team** | Document automated moderation system performance including accuracy rates, false positive rates, error margins, and human review percentages for different content categories. |
+| **4** | **[Legal Department/Team Name]** | Compile data on orders received from EU member state authorities including number of requests, type of content involved, geographic scope, and compliance actions taken. |
+| **5** | **[Trust & Safety Department/Team Name]** | Document automated moderation system performance including accuracy rates, false positive rates, error margins, and human review percentages for different content categories. |
 | **6** | **Data Analytics Team** | Validate all collected metrics for accuracy, completeness, and consistency using standardized data quality checks and cross-reference verification procedures. |
-| **7** | **Legal Team** | Review compiled data for regulatory compliance, legal accuracy, and alignment with DSA transparency reporting requirements including confidentiality considerations. |
-| **8** | **Trust & Safety Team** | Provide context and explanations for significant changes in moderation metrics, policy updates, or system improvements that affected reported data. |
+| **7** | **[Legal Department/Team Name]** | Review compiled data for regulatory compliance, legal accuracy, and alignment with DSA transparency reporting requirements including confidentiality considerations. |
+| **8** | **[Trust & Safety Department/Team Name]** | Provide context and explanations for significant changes in moderation metrics, policy updates, or system improvements that affected reported data. |
 | **9** | **Data Analytics Team** | Prepare comprehensive transparency report draft with clear data presentations, methodology explanations, and comparative analysis with previous reporting periods. |
-| **10** | **Legal Team** | Conduct final legal review of transparency report for compliance with DSA requirements, accuracy of legal interpretations, and protection of sensitive information. |
+| **10** | **[Legal Department/Team Name]** | Conduct final legal review of transparency report for compliance with DSA requirements, accuracy of legal interpretations, and protection of sensitive information. |
 | **11** | **Executive Leadership** | Review and approve final transparency report for publication, ensuring alignment with corporate transparency commitments and regulatory obligations. |
-| **12** | **Legal Team** | Publish transparency report on company website and submit to relevant regulatory authorities within required DSA timeframes, ensuring public accessibility and regulatory notification. |
+| **12** | **[Legal Department/Team Name]** | Publish transparency report on company website and submit to relevant regulatory authorities within required DSA timeframes, ensuring public accessibility and regulatory notification. |
 
 ### 5. Standards Compliance
 
@@ -66,8 +66,8 @@ A comprehensive transparency report containing validated metrics on content mode
 | **Role** | **Responsibility** |
 | -------- | ------------------ |
 | **Data Analytics Team** | Extract, validate, and analyze transparency metrics from platform systems, ensure data accuracy and completeness, and prepare statistical presentations for reporting. |
-| **Legal Team** | Compile regulatory order data, review report for legal compliance, coordinate with authorities, and manage publication process within required timeframes. |
-| **Trust & Safety Team** | Provide moderation policy context, automated system performance data, and explanatory analysis for significant metric changes or policy updates. |
+| **[Legal Department/Team Name]** | Compile regulatory order data, review report for legal compliance, coordinate with authorities, and manage publication process within required timeframes. |
+| **[Trust & Safety Department/Team Name]** | Provide moderation policy context, automated system performance data, and explanatory analysis for significant metric changes or policy updates. |
 | **Executive Leadership** | Review transparency report for strategic alignment, approve publication, and ensure organizational commitment to transparency and regulatory compliance. |
 | **Compliance Team** | Monitor DSA reporting requirements, coordinate cross-functional reporting efforts, and ensure adherence to regulatory timelines and standards. |
 | **Communications Team** | Support public communication about transparency report publication and coordinate with stakeholders regarding report availability and key findings. |
