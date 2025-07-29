@@ -7,104 +7,88 @@ order: 1
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for secure software development practices throughout the software development lifecycle (SDLC) to ensure that video streaming platform applications, services, and systems are designed, developed, and deployed with appropriate security controls and privacy protections.
+This policy establishes comprehensive requirements for secure software development practices throughout the entire software development lifecycle (SDLC). The policy ensures that all video streaming platform applications, services, and systems are designed, developed, and deployed with appropriate security controls and privacy protections that safeguard user data and maintain system integrity.
 
 ### 2. Scope
 
-This policy applies to all software development activities for the video streaming platform, including web applications, mobile applications, APIs, microservices, recommendation algorithms, and content processing systems. It covers all development teams, contractors, and third parties involved in software development for [Company Name].
+This policy applies comprehensively to all software development activities for the video streaming platform. The scope encompasses web applications, mobile applications, APIs, microservices, recommendation algorithms, and content processing systems. All development teams, contractors, and third parties involved in software development for [Company Name] must comply with these requirements regardless of their employment status or contractual arrangement.
 
 ### 3. Policy
 
 **3.1 Secure Development Lifecycle**
 
-All software development must follow a secure SDLC that integrates security throughout all phases:
-- Security requirements definition during project planning
-- Threat modeling and security architecture review during design
-- Secure coding practices during development
-- Security testing throughout development and before deployment
-- Security validation during deployment and operation
-- Regular security updates and maintenance
+- The Company **must** integrate security throughout all phases of the software development lifecycle (SDLC).
+- Security requirements definition **must** be completed during project planning phases.
+- Threat modeling and security architecture reviews **must** be conducted during the design phase.
+- All development teams **must** implement secure coding practices during the development phase.
+- Security testing **must** be performed throughout development and before any deployment.
+- Security validation **must** occur during deployment and operational phases.
+- Regular security updates and maintenance **must** be implemented for all deployed systems.
 
 **3.2 Privacy by Design**
 
-All software development must implement privacy by design principles:
-- Data minimization in system design and data collection
-- Purpose limitation ensuring data is used only for stated purposes
-- Privacy impact assessments (PIAs) for new features processing user data
-- User consent mechanisms integrated into application workflows
-- Data subject rights implementation (access, rectification, erasure, portability)
-- Privacy-preserving technologies where applicable (encryption, anonymization)
-- Prohibition of dark patterns: User interfaces must not be designed in a way that deceives, manipulates, or otherwise impairs the ability of users to make free and informed decisions, in compliance with DSA Article 25. This requirement must be included as a mandatory check during UI/UX review and application security testing.
+- All software development **must** implement data minimization principles in system design and data collection processes.
+- Development teams **must** enforce purpose limitation ensuring data is used only for explicitly stated purposes.
+- Privacy impact assessments (PIAs) **must** be conducted for all new features that process user data.
+- User consent mechanisms **must** be integrated into application workflows where legally required.
+- The Company **must** implement data subject rights functionality including access, rectification, erasure, and portability capabilities.
+- Privacy-preserving technologies **must** be implemented where applicable, including encryption and anonymization techniques.
+- User interfaces **must** be designed to prohibit dark patterns and **must not** deceive, manipulate, or otherwise impair users' ability to make free and informed decisions, in compliance with DSA Article 25, with mandatory verification during UI/UX review and application security testing.
 
 **3.3 Secure Coding Standards**
 
-Development teams must follow established secure coding practices:
-- Use of approved programming languages and frameworks
-- Input validation and output encoding for all user inputs
-- Proper authentication and authorization mechanisms
-- Secure session management and token handling
-- Protection against common vulnerabilities (OWASP Top 10)
-- Secure API design and implementation
-- Proper error handling without information disclosure
+- Development teams **must** use only approved programming languages and frameworks for all projects.
+- All user inputs **must** undergo input validation and output encoding to prevent injection attacks.
+- Proper authentication and authorization mechanisms **must** be implemented for all system access points.
+- Secure session management and token handling **must** be implemented in all applications.
+- All applications **must** include protection against common vulnerabilities as defined in the OWASP Top 10.
+- API design and implementation **must** follow secure development principles and standards.
+- Error handling **must** be implemented properly without disclosing sensitive information to unauthorized parties.
 
 **3.4 Code Review and Testing**
 
-All code must undergo comprehensive security review and testing:
-- Mandatory peer code reviews with security focus
-- Static Application Security Testing (SAST) integrated into build pipelines
-- Dynamic Application Security Testing (DAST) for web applications
-- Interactive Application Security Testing (IAST) where applicable
-- Software Composition Analysis (SCA) for third-party dependencies
-- Manual security testing for critical components
+- All code **must** undergo mandatory peer code reviews with a specific security focus before deployment.
+- Static Application Security Testing (SAST) **must** be integrated into all build pipelines and executed automatically.
+- Dynamic Application Security Testing (DAST) **must** be performed for all web applications before production release.
+- Interactive Application Security Testing (IAST) **must** be implemented where technically applicable and feasible.
+- Software Composition Analysis (SCA) **must** be conducted for all third-party dependencies prior to integration.
+- Manual security testing **must** be performed for all critical system components and high-risk functionalities.
 
 **3.5 Platform-Specific Security Requirements**
 
 Special requirements for video streaming platform development:
 
 **Content Processing Systems:**
-- Secure handling of user-generated content uploads
-- Malware scanning for all uploaded content
-- Content encoding and transcoding security
-- Digital rights management (DRM) integration
-- Content delivery optimization with security controls
+
+All content processing systems must implement comprehensive security controls for user-generated content. Secure handling protocols must be established for all user-generated content uploads, including mandatory malware scanning for all uploaded content before processing. Content encoding and transcoding operations must include security controls to prevent exploitation, and digital rights management (DRM) integration must be implemented to protect intellectual property. Content delivery optimization must incorporate security controls to ensure safe and efficient distribution.
 
 **Recommendation Algorithms:**
-- Bias testing and fairness assessments
-- Algorithm transparency and explainability features
-- Protection against manipulation and gaming
-- User control mechanisms for recommendation preferences
-- Privacy-preserving recommendation techniques
+
+All recommendation algorithms must undergo comprehensive testing and validation to ensure fairness and prevent bias. Bias testing and fairness assessments must be conducted regularly to identify and mitigate discriminatory outcomes. Algorithm transparency and explainability features must be implemented to provide users with insight into recommendation logic. Protection mechanisms must be established to prevent manipulation and gaming of recommendation systems. User control mechanisms must be provided for recommendation preferences, and privacy-preserving recommendation techniques must be implemented to protect user data while maintaining service quality.
 
 **Mobile Applications:**
-- Platform-specific security guidelines (iOS/Android)
-- Secure communication with backend services
-- Local data encryption and secure storage
-- App store security requirements compliance
-- Mobile device security features integration
+
+- Mobile applications **must** comply with platform-specific security guidelines for both iOS and Android platforms.
+- All mobile applications **must** implement secure communication protocols with backend services.
+- Local data encryption and secure storage **must** be implemented for all sensitive information stored on mobile devices.
+- App store security requirements **must** be met for all mobile application releases.
+- Mobile device security features **must** be integrated where available to enhance application security.
 
 **3.6 Third-Party Component Management**
 
-Use of third-party libraries and components must be controlled:
-- Approved software component repositories and registries
-- Vulnerability scanning of all third-party dependencies
-- License compliance verification for all components
-- Regular updates and patching of third-party components
-- Documentation of all external dependencies
+- All third-party libraries and components **must** be sourced from approved software component repositories and registries.
+- Vulnerability scanning **must** be performed on all third-party dependencies before integration and regularly thereafter.
+- License compliance verification **must** be conducted for all components to ensure legal compliance.
+- Regular updates and patching **must** be applied to all third-party components to address security vulnerabilities.
+- Documentation **must** be maintained for all external dependencies including version information and security status.
 
 **3.7 Development Environment Security**
 
-Development environments must be properly secured:
-- Separate development, staging, and production environments
-- Access controls and authentication for development systems
-- Secure configuration management and version control
-- Protection of development credentials and API keys
-- Regular security updates for development tools and systems
+Development environments must be properly secured through comprehensive controls and procedures. Separate development, staging, and production environments must be maintained to prevent cross-contamination of code and data. Access controls and authentication mechanisms must be implemented for all development systems to ensure only authorized personnel can access sensitive resources. Secure configuration management and version control systems must be used to track and protect code changes. Protection of development credentials and API keys must be implemented through secure storage and access management practices, and regular security updates must be applied to all development tools and systems.
 
 **3.8 Payment Application Security (PCI DSS Requirements)**
 
-All software development related to payment applications or systems within the Cardholder Data Environment (CDE) must adhere to PCI DSS secure software development requirements:
-- Developers working on payment applications must receive annual training on secure coding techniques and emerging threats related to payment security.
-- Changes to bespoke and custom software, especially payment applications, must strictly follow the `Change Control Policy (ENG-POL-002)` to prevent the introduction of new vulnerabilities.
+All software development related to payment applications or systems within the Cardholder Data Environment (CDE) must adhere to PCI DSS secure software development requirements. Developers working on payment applications must receive annual training on secure coding techniques and emerging threats related to payment security to maintain current knowledge and skills. Changes to bespoke and custom software, especially payment applications, must strictly follow the Change Control Policy (ENG-POL-002) to prevent the introduction of new vulnerabilities that could compromise payment data security.
 
 ### 4. Standards Compliance
 

@@ -7,7 +7,7 @@ order: 2
 
 ### 1. Objective
 
-The objective of this policy is to establish security requirements for mobile devices used to access Company systems, data, and video streaming platform resources, whether company-owned or personally-owned (BYOD), ensuring appropriate protection while maintaining productivity and user experience.
+This policy establishes comprehensive security requirements for mobile devices used to access Company systems, data, and video streaming platform resources across all deployment scenarios. The policy covers both company-owned and personally-owned (BYOD) devices, ensuring appropriate protection while maintaining productivity and optimal user experience for all authorized users.
 
 ### 2. Scope
 
@@ -17,13 +17,12 @@ This policy applies to all mobile devices including smartphones, tablets, and we
 
 **3.1 Device Enrollment and Management**
 
-All mobile devices accessing Company resources must be enrolled in mobile device management (MDM):
-- Mandatory MDM enrollment before accessing corporate email or applications
-- Device compliance verification including operating system version and security patches
-- Remote management capabilities for security configuration and policy enforcement
-- Automatic enrollment for company-owned devices and voluntary enrollment for BYOD
-- Regular compliance scanning and remediation for non-compliant devices
-- Device inventory and asset tracking for all enrolled devices
+- All mobile devices accessing Company resources **must** be enrolled in mobile device management (MDM) systems.
+- Mandatory MDM enrollment **must** be completed before accessing corporate email or applications.
+- Device compliance verification **must** include operating system version and security patch validation.
+- Remote management capabilities **must** be enabled for security configuration and policy enforcement.
+- Automatic enrollment **must** be implemented for company-owned devices and voluntary enrollment provided for BYOD.
+- Regular compliance scanning and remediation **must** be performed for non-compliant devices.
 
 **3.2 Security Configuration Requirements**
 

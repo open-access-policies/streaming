@@ -9,9 +9,9 @@ order: 2
 
 *Effective Date: July 29, 2025*
 
-### Important Information for Parents and Guardians
+### 1. Objective
 
-This Children's Privacy Policy explains how we collect, use, and protect personal information from children under 13 years of age who use our video streaming platform. This policy is designed specifically for parents and guardians to understand our privacy practices regarding children and complies with the Children's Online Privacy Protection Act (COPPA).
+This Children's Privacy Policy establishes comprehensive requirements for protecting personal information from children under 13 years of age who use our video streaming platform. The policy ensures strict compliance with the Children's Online Privacy Protection Act (COPPA) and other applicable children's privacy regulations while providing transparency to parents and guardians about our privacy practices regarding children across all platform services.
 
 **We do not knowingly collect personal information from children under 13 without verifiable parental consent.**
 

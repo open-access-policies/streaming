@@ -7,11 +7,11 @@ order: 2
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for ensuring business continuity and disaster recovery capabilities that maintain video streaming platform availability and protect critical business operations during disruptive events. The primary objective is to ensure the continuous availability of live streaming and creator monetization features, with a focus on near-zero downtime. This policy recognizes that platform uptime is a core component of our value proposition to creators and a direct driver of revenue.
+This policy establishes comprehensive requirements for ensuring business continuity and disaster recovery capabilities that maintain video streaming platform availability and protect critical business operations during disruptive events. The policy prioritizes continuous availability of live streaming and creator monetization features with a focus on near-zero downtime, recognizing that platform uptime is a core component of the company's value proposition to creators and a direct driver of revenue generation.
 
 ### 2. Scope
 
-This policy applies to all critical business processes, information systems, and infrastructure supporting video streaming services across all geographic regions. It covers natural disasters, cyber attacks, technology failures, pandemic events, and other disruptions that could impact platform availability or business operations.
+This policy applies comprehensively to all critical business processes, information systems, and infrastructure supporting video streaming services across all geographic regions and operational environments. The scope encompasses natural disasters, cyber attacks, technology failures, pandemic events, and other disruptions that could impact platform availability or business operations across all company locations and service delivery points.
 
 ### 3. Policy
 

@@ -7,11 +7,11 @@ order: 5
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for approved software applications and browser extensions used on Company systems to prevent security risks, ensure compliance with licensing requirements, and maintain platform integrity while supporting business productivity and operational needs.
+This policy establishes comprehensive requirements for approved software applications and browser extensions used on Company systems to prevent security risks, ensure compliance with licensing requirements, and maintain platform integrity. The policy supports business productivity and operational needs while protecting against security threats and ensuring regulatory compliance across all technology environments.
 
 ### 2. Scope
 
-This policy applies to all software applications, browser extensions, plugins, and third-party tools installed or used on Company-owned devices, systems, or networks, as well as personal devices used to access Company resources. It covers all employees, contractors, and authorized third parties across all business units and geographic regions.
+This policy applies comprehensively to all software applications, browser extensions, plugins, and third-party tools installed or used on Company-owned devices, systems, or networks across all operational environments. The scope encompasses personal devices used to access Company resources and covers all employees, contractors, and authorized third parties across all business units and geographic regions where the company operates.
 
 ### 3. Policy
 

@@ -7,33 +7,31 @@ order: 2
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for responding to law enforcement requests, government orders, and legal process while protecting user privacy, ensuring legal compliance, and maintaining transparency in accordance with Digital Services Act requirements and applicable legal frameworks.
+This policy establishes comprehensive requirements for responding to law enforcement requests, government orders, and legal process while maintaining the highest standards of user privacy protection and legal compliance. The policy ensures transparency in accordance with Digital Services Act requirements and applicable legal frameworks while balancing law enforcement cooperation with fundamental rights protection.
 
 ### 2. Scope
 
-This policy applies to all requests from law enforcement agencies, government authorities, courts, and regulatory bodies for user data, content removal, account information, or other information related to video streaming platform operations across all jurisdictions where [Company Name] operates.
+This policy applies comprehensively to all requests from law enforcement agencies, government authorities, courts, and regulatory bodies seeking user data, content removal, account information, or other information related to video streaming platform operations. The policy governs responses across all jurisdictions where [Company Name] operates and maintains user data or services.
 
 ### 3. Policy
 
 **3.1 Legal Process Requirements**
 
-All law enforcement requests must meet appropriate legal standards and procedural requirements:
-- Valid legal process required for all data disclosure including subpoenas, court orders, or warrants
-- Jurisdictional authority verification and legal standing assessment
-- Proper service of process through designated legal channels and authorized agents
-- Legal sufficiency review including specificity, scope, and legal basis evaluation
-- Emergency disclosure procedures for imminent threats to life or safety
-- Documentation and tracking of all legal requests and Company responses
+- All law enforcement requests **must** be supported by valid legal process including subpoenas, court orders, or warrants appropriate to the jurisdiction and request type.
+- Jurisdictional authority verification and legal standing assessment **must** be conducted for every request to ensure proper legal basis.
+- Proper service of process **must** be completed through designated legal channels and authorized agents as established by law.
+- Legal sufficiency review **must** be performed including evaluation of specificity, scope, and legal basis for each request.
+- Emergency disclosure procedures **must** be established for imminent threats to life or safety with appropriate safeguards.
+- Documentation and tracking **must** be maintained for all legal requests and Company responses to ensure accountability and compliance.
 
 **3.2 User Data Protection Standards**
 
-User privacy and data protection must be prioritized in all law enforcement responses:
-- Minimum data disclosure principles providing only information specifically requested and legally required
-- User notification procedures except where legally prohibited or counterproductive to investigations
-- Data minimization in responses including temporal and scope limitations
-- Legal challenge procedures for overly broad, inappropriate, or legally deficient requests
-- Encryption and secure transmission for all data disclosures to authorized recipients
-- Regular training for legal response teams on privacy protection and data handling
+- User privacy and data protection **must** be prioritized in all law enforcement responses with minimum data disclosure principles.
+- Minimum data disclosure **must** be practiced providing only information specifically requested and legally required.
+- User notification procedures **must** be implemented except where legally prohibited or counterproductive to investigations.
+- Data minimization **must** be applied in responses including temporal and scope limitations.
+- Legal challenge procedures **must** be established for overly broad, inappropriate, or legally deficient requests.
+- Encryption and secure transmission **must** be used for all data disclosures to authorized recipients.
 
 **3.3 Content Removal and Restriction Requests**
 

@@ -7,56 +7,41 @@ order: 2
 
 ### 1. Objective
 
-The objective of this policy is to establish minimum requirements for password creation, management, and protection to safeguard access to [Company Name]'s video streaming platform, user accounts, and information systems from unauthorized access and credential-based attacks.
+This policy establishes comprehensive minimum requirements for password creation, management, and protection to safeguard access to [Company Name]'s video streaming platform, user accounts, and information systems. The policy provides robust protection from unauthorized access and credential-based attacks while ensuring secure authentication across all organizational systems and user touchpoints.
 
 ### 2. Scope
 
-This policy applies to all employees, contractors, and third parties who have access to Company systems, applications, or data. It covers all passwords used for authentication to corporate systems, administrative accounts, service accounts, and any systems involved in video streaming operations and user data processing.
+This policy applies comprehensively to all employees, contractors, and third parties who have access to Company systems, applications, or data resources. The scope encompasses all passwords used for authentication to corporate systems, administrative accounts, service accounts, and any systems involved in video streaming operations and user data processing across all operational environments.
 
 ### 3. Policy
 
 **3.1 Password Complexity Requirements**
 
-All passwords must meet the following minimum requirements:
-- Minimum length of [Number, e.g., 12] characters for user accounts
-- Minimum length of [Number, e.g., 16] characters for privileged and administrative accounts
-- Combination of uppercase letters, lowercase letters, numbers, and special characters
-- Must not contain dictionary words, personal information, or predictable patterns
-- Must not reuse the last [Number, e.g., 12] passwords
+All passwords must meet minimum complexity requirements. User account passwords require a minimum length of [Number, e.g., 12] characters, while privileged and administrative accounts require a minimum of [Number, e.g., 16] characters. All passwords must contain a combination of uppercase letters, lowercase letters, numbers, and special characters and must not contain dictionary words, personal information, or predictable patterns. Additionally, passwords must not be reused until [Number, e.g., 12] subsequent unique passwords have been used.
 
 **3.2 Multi-Factor Authentication (MFA)**
 
-Multi-factor authentication is mandatory for:
-- All privileged and administrative accounts
-- Access to systems processing user data or payment information
-- Remote access to corporate networks and systems
-- Access to content management and moderation systems
-- Developer access to production environments
+- The Company **must** mandate the use of Multi-Factor Authentication (MFA) for all privileged and administrative accounts.
+- MFA **must** be required for accessing any system that processes user data or payment information.
+- All remote access to corporate networks and systems **must** be protected by MFA.
+- Access to content management and content moderation systems **must** require MFA.
+- All developer access to production environments **must** be authenticated using MFA.
 
 **3.3 Password Management**
 
-Users must:
-- Use approved password managers for storing and generating passwords
-- Never share passwords or write them down in unsecured locations
-- Change passwords immediately if compromise is suspected
-- Report suspected password compromises to the security team
+Users must implement comprehensive password management practices to ensure security. Approved password managers must be used for storing and generating passwords to maintain unique, complex credentials across all systems. Passwords must never be shared or written down in unsecured locations, and users must change passwords immediately if compromise is suspected. Any suspected password compromises must be reported to the security team promptly for immediate response and remediation.
 
 **3.4 Service Account Passwords**
 
-Service accounts must:
-- Use randomly generated passwords of at least [Number, e.g., 32] characters
-- Be rotated at least every [Number, e.g., 90] days or when personnel with access leave
-- Be stored in approved credential management systems
-- Have access logged and monitored
+Service accounts must maintain the highest level of password security through automated management systems. Randomly generated passwords of at least [Number, e.g., 32] characters must be used for all service accounts to ensure maximum entropy and security. These passwords must be rotated at least every [Number, e.g., 90] days or immediately when personnel with access leave the organization. All service account credentials must be stored in approved credential management systems with comprehensive access logging and monitoring to detect unauthorized usage attempts.
 
 **3.5 User Account Password Management**
 
-For platform user accounts:
-- Enforce minimum 8-character passwords with complexity requirements
-- Implement account lockout after [Number, e.g., 5] failed attempts
-- Provide secure password reset mechanisms
-- Encourage use of MFA for user accounts
-- Implement breach monitoring and forced password resets when necessary
+- Platform user accounts **must** enforce minimum 8-character passwords with complexity requirements.
+- Account lockout **must** be implemented after [Number, e.g., 5] failed authentication attempts.
+- Secure password reset mechanisms **must** be provided to users for account recovery.
+- Multi-Factor Authentication (MFA) **must** be encouraged for all user accounts.
+- Breach monitoring and forced password resets **must** be implemented when security incidents are detected.
 
 **3.6 Password Storage and Transmission**
 

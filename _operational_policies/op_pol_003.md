@@ -7,23 +7,22 @@ order: 3
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for retaining and disposing of data in a manner that meets business, legal, and regulatory requirements while minimizing storage costs and privacy risks associated with unnecessary data retention in the video streaming platform environment.
+This policy establishes comprehensive requirements for retaining and disposing of data in a manner that meets business, legal, and regulatory requirements while minimizing storage costs and privacy risks. The policy addresses unnecessary data retention in the video streaming platform environment while ensuring compliance with applicable regulations and maintaining operational efficiency across all data lifecycle stages.
 
 ### 2. Scope
 
-This policy applies to all data created, collected, processed, or stored by [Company Name], including user-generated content, user personal data, business records, system logs, and backup data. It covers all data storage systems, applications, and geographic regions where [Company Name] operates.
+This policy applies comprehensively to all data created, collected, processed, or stored by [Company Name] across all operational systems and environments. The scope encompasses user-generated content, user personal data, business records, system logs, and backup data across all data storage systems, applications, and geographic regions where [Company Name] operates its services.
 
 ### 3. Policy
 
 **3.1 Data Retention Framework**
 
-Data retention must be based on business necessity, legal requirements, and privacy principles:
-- Minimum necessary retention periods based on business and legal requirements
-- Automated retention and disposal procedures where technically feasible
-- Regular review and update of retention schedules based on changing requirements
-- Documentation of retention decisions and legal basis for retention periods
-- Integration with data classification and handling procedures
-- Coordination with legal holds and litigation requirements
+- Data retention **must** be based on business necessity, legal requirements, and privacy principles for all data types.
+- Minimum necessary retention periods **must** be established based on business and legal requirements for each data category.
+- Automated retention and disposal procedures **must** be implemented where technically feasible to ensure consistency.
+- Regular review and updates **must** be conducted of retention schedules based on changing requirements.
+- Documentation **must** be maintained of retention decisions and legal basis for retention periods.
+- Integration **must** be ensured with data classification and handling procedures across all systems.
 
 **3.2 User Data Retention**
 

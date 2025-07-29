@@ -7,11 +7,11 @@ order: 9
 
 ### 1. Objective
 
-The objective of this policy is to establish the overarching strategy and requirements for monitoring [Company Name]'s systems, networks, and applications to detect, analyze, and respond to potential security threats in a timely manner. This policy ensures comprehensive visibility into security-relevant events across the video streaming platform and supporting infrastructure.
+This policy establishes the overarching strategy and requirements for monitoring [Company Name]'s systems, networks, and applications to detect, analyze, and respond to potential security threats in a timely manner. The framework ensures comprehensive visibility into security-relevant events across the video streaming platform and supporting infrastructure, enabling proactive threat detection and rapid incident response to protect our global user base.
 
 ### 2. Scope
 
-This policy applies to all Company-owned and managed systems, networks, applications, and infrastructure components used to deliver video streaming services. It covers monitoring of user-facing applications, content delivery networks, backend services, administrative systems, and third-party integrations that process or access Company or user data.
+This policy applies to all Company-owned and managed systems, networks, applications, and infrastructure components used to deliver video streaming services. Coverage includes monitoring of user-facing applications, content delivery networks, backend services, administrative systems, and third-party integrations that process or access Company or user data across all operational environments.
 
 ### 3. Policy
 

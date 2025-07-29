@@ -7,11 +7,11 @@ order: 6
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for protecting [Company Name]'s physical facilities, information systems, and personnel from unauthorized physical access, environmental threats, and security incidents that could impact video streaming platform operations and data security.
+This policy establishes comprehensive requirements for protecting [Company Name]'s physical facilities, information systems, and personnel from unauthorized physical access, environmental threats, and security incidents. The policy ensures robust protection of video streaming platform operations and data security across all physical locations and facilities where the company conducts business operations.
 
 ### 2. Scope
 
-This policy applies to all Company facilities including offices, data centers, server rooms, and any location where Company equipment, data, or personnel operate. It covers all employees, contractors, visitors, and vendors who access Company physical facilities.
+This policy applies comprehensively to all Company facilities including offices, data centers, server rooms, and any location where Company equipment, data, or personnel operate across all geographic regions. The scope encompasses all employees, contractors, visitors, and vendors who access Company physical facilities regardless of the duration or purpose of their access.
 
 ### 3. Policy
 

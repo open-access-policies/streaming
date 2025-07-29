@@ -7,43 +7,25 @@ order: 1
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for content moderation activities to ensure user-generated content on the video streaming platform complies with community guidelines, legal requirements, and regulatory obligations while maintaining user safety, platform integrity, and compliance with the EU Digital Services Act and other applicable regulations.
+This policy establishes requirements for content moderation activities to ensure user-generated content on the video streaming platform complies with community guidelines, legal requirements, and regulatory obligations. The framework maintains user safety, platform integrity, and compliance with the EU Digital Services Act and other applicable regulations while fostering a healthy environment for creative expression and community engagement across our global platform.
 
 ### 2. Scope
 
-This policy applies to all user-generated content on the video streaming platform including videos, comments, live streams, user profiles, and metadata. It covers all content moderation activities, automated systems, human review processes, and appeals procedures across all geographic regions where [Company Name] operates.
+This policy applies to all user-generated content on the video streaming platform including videos, comments, live streams, user profiles, and metadata. Coverage encompasses all content moderation activities, automated systems, human review processes, and appeals procedures across all geographic regions where [Company Name] operates, ensuring consistent global standards while respecting local legal requirements.
 
 ### 3. Policy
 
 **3.1 Content Moderation Framework**
 
-The Company shall maintain a comprehensive content moderation system that combines automated detection with human review:
-- Multi-layered content review using AI-powered detection and human moderation
-- Risk-based moderation approach prioritizing harmful content and vulnerable users
-- Transparent content policies and community guidelines accessible to all users
-- Regular review and updates of moderation policies based on emerging threats and regulatory requirements
-- Integration with platform recommendation and discovery algorithms
-- Compliance with Digital Services Act transparency and accountability requirements
+The Company must maintain multi-layered content review using AI-powered detection and human moderation and implement a risk-based moderation approach prioritizing harmful content and vulnerable users. The Company must provide transparent content policies and community guidelines accessible to all users and conduct regular review and updates of moderation policies based on emerging threats and regulatory requirements. The Company must ensure integration with platform recommendation and discovery algorithms and maintain compliance with Digital Services Act transparency and accountability requirements.
 
 **3.2 Automated Content Detection**
 
-AI-powered content moderation systems must meet performance and fairness standards:
-- Machine learning models trained on diverse datasets to minimize bias across demographics
-- Regular bias testing and fairness assessments across protected characteristics
-- Continuous model improvement based on human reviewer feedback and accuracy metrics
-- Explainable AI capabilities to provide reasoning for automated decisions
-- Performance monitoring with accuracy, precision, and recall metrics by content category
-- Escalation procedures for edge cases and novel content types requiring human review
+AI-powered content moderation systems must train machine learning models on diverse datasets to minimize bias across demographics and conduct regular bias testing and fairness assessments across protected characteristics. The Company must implement continuous model improvement based on human reviewer feedback and accuracy metrics and provide explainable AI capabilities to provide reasoning for automated decisions. The Company must maintain performance monitoring with accuracy, precision, and recall metrics by content category and establish escalation procedures for edge cases and novel content types requiring human review.
 
 **3.3 Human Content Review**
 
-Human moderators must follow standardized procedures and receive appropriate support:
-- Comprehensive training on community guidelines, legal requirements, and cultural sensitivity
-- Mental health support and counseling services for moderators exposed to harmful content
-- Regular calibration sessions to ensure consistency across moderation decisions
-- Quality assurance programs with random sampling and accuracy measurement
-- Clear escalation procedures for complex or sensitive content decisions
-- Documentation requirements for moderation decisions and reasoning
+Human moderators must receive comprehensive training on community guidelines, legal requirements, and cultural sensitivity and have access to mental health support and counseling services for moderators exposed to harmful content. The Company must conduct regular calibration sessions to ensure consistency across moderation decisions and implement quality assurance programs with random sampling and accuracy measurement. The Company must establish clear escalation procedures for complex or sensitive content decisions and maintain documentation requirements for moderation decisions and reasoning.
 
 **3.4 Content Categories and Actions**
 
@@ -71,43 +53,19 @@ Content moderation must address specific categories of harmful or prohibited con
 
 **3.5 Appeals and Due Process**
 
-Users must have access to fair and transparent appeals processes:
-- Clear appeals procedures accessible within 24 hours of moderation action
-- Human review of all appeals with response within 7 days for standard appeals
-- Expedited appeals process for time-sensitive content (news, public interest)
-- Independent review board for high-impact content decisions
-- Transparency reporting on appeals volume, outcome rates, and processing times
-- User communication explaining moderation decisions and appeal rights
+Users must have clear appeals procedures accessible within 24 hours of moderation action and receive human review of all appeals with response within 7 days for standard appeals. The Company must provide expedited appeals process for time-sensitive content (news, public interest) and maintain an independent review board for high-impact content decisions. The Company must publish transparency reporting on appeals volume, outcome rates, and processing times and provide user communication explaining moderation decisions and appeal rights.
 
 **3.6 Transparency and Accountability**
 
-Content moderation practices must be transparent and accountable:
-- Public transparency reports published quarterly with detailed moderation metrics
-- Community guidelines easily accessible and translated into local languages
-- Regular stakeholder engagement including user feedback and expert consultation
-- External audits of content moderation practices and bias assessments
-- Researcher access programs for academic study of content moderation effectiveness
-- Compliance with DSA requirements for algorithmic transparency and risk assessments
+Content moderation practices must publish public transparency reports quarterly with detailed moderation metrics and maintain community guidelines easily accessible and translated into local languages. The Company must conduct regular stakeholder engagement including user feedback and expert consultation and perform external audits of content moderation practices and bias assessments. The Company must provide researcher access programs for academic study of content moderation effectiveness and ensure compliance with DSA requirements for algorithmic transparency and risk assessments.
 
 **3.7 Special Protections**
 
-Enhanced protections must be provided for vulnerable users and content:
-- Additional protections for users under 18 with specialized moderation workflows
-- Crisis intervention procedures for content indicating self-harm or suicide risk
-- Expedited review for content related to public health emergencies
-- Cultural and linguistic expertise for content in diverse languages and regions
-- Coordination with law enforcement for criminal content while protecting user privacy
-- Whistleblower protection for moderators reporting policy violations or safety concerns
+The Company must provide additional protections for users under 18 with specialized moderation workflows and implement crisis intervention procedures for content indicating self-harm or suicide risk. The Company must ensure expedited review for content related to public health emergencies and maintain cultural and linguistic expertise for content in diverse languages and regions. The Company must coordinate with law enforcement for criminal content while protecting user privacy and provide whistleblower protection for moderators reporting policy violations or safety concerns.
 
 **3.8 Cross-Border and Legal Compliance**
 
-Content moderation must comply with diverse legal frameworks:
-- Geographic content blocking for country-specific legal requirements
-- Compliance with local content laws while maintaining consistent global standards
-- Legal review processes for government takedown requests
-- Documentation and reporting of content removals for regulatory compliance
-- Coordination with legal teams for complex jurisdictional issues
-- Regular legal training for moderation teams on evolving regulatory requirements
+Content moderation must implement geographic content blocking for country-specific legal requirements and ensure compliance with local content laws while maintaining consistent global standards. The Company must establish legal review processes for government takedown requests and maintain documentation and reporting of content removals for regulatory compliance. The Company must coordinate with legal teams for complex jurisdictional issues and provide regular legal training for moderation teams on evolving regulatory requirements.
 
 ### 4. Standards Compliance
 

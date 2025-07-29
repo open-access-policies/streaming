@@ -7,11 +7,11 @@ order: 1
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for detecting, responding to, and recovering from security incidents that could impact the video streaming platform, user data, or business operations, ensuring rapid containment and restoration of normal service while preserving evidence and maintaining stakeholder communication.
+This policy establishes comprehensive requirements for detecting, responding to, and recovering from security incidents that could impact the video streaming platform, user data, or business operations. The policy ensures rapid containment and restoration of normal service while preserving evidence and maintaining stakeholder communication throughout all incident response activities across all operational environments.
 
 ### 2. Scope
 
-This policy applies to all security incidents affecting the video streaming platform, including cyber attacks, data breaches, service outages, content security incidents, and privacy violations. It covers all employees, contractors, and third parties involved in incident detection, response, and recovery activities across all geographic regions.
+This policy applies comprehensively to all security incidents affecting the video streaming platform across all operational environments and service components. The scope encompasses cyber attacks, data breaches, service outages, content security incidents, and privacy violations. All employees, contractors, and third parties involved in incident detection, response, and recovery activities across all geographic regions must comply with these requirements.
 
 ### 3. Policy
 

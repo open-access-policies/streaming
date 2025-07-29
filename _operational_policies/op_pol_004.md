@@ -7,11 +7,11 @@ order: 4
 
 ### 1. Objective
 
-The objective of this policy is to establish security requirements for human resources processes to ensure personnel security throughout the employee lifecycle, protecting the video streaming platform from insider threats while maintaining a positive work environment and compliance with employment regulations.
+This policy establishes comprehensive security requirements for human resources processes to ensure personnel security throughout the entire employee lifecycle. The policy protects the video streaming platform from insider threats while maintaining a positive work environment and ensuring compliance with employment regulations across all jurisdictions where the company operates.
 
 ### 2. Scope
 
-This policy applies to all human resources security activities including background checks, security awareness training, access management, and termination procedures for employees, contractors, and temporary staff across all geographic regions and business units of [Company Name].
+This policy applies comprehensively to all human resources security activities across all organizational levels and geographic regions. The scope encompasses background checks, security awareness training, access management, and termination procedures for employees, contractors, and temporary staff across all business units of [Company Name] regardless of employment classification or contractual arrangement.
 
 ### 3. Policy
 

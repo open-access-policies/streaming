@@ -7,33 +7,21 @@ order: 8
 
 ### 1. Objective
 
-The objective of this policy is to establish a systematic approach for identifying, assessing, prioritizing, and remediating security vulnerabilities across [Company Name]'s video streaming platform infrastructure, applications, and systems to maintain a strong security posture and protect against cyber threats.
+This policy establishes a systematic approach for identifying, assessing, prioritizing, and remediating security vulnerabilities across [Company Name]'s video streaming platform infrastructure, applications, and systems. The framework ensures continuous protection against cyber threats while maintaining operational excellence through proactive vulnerability management practices. This strategic approach enables rapid response to emerging security risks and maintains platform reliability for our global user base.
 
 ### 2. Scope
 
-This policy applies to all information systems, applications, network devices, and infrastructure components that support the video streaming platform, including production, staging, and development environments. It covers all employees, contractors, and third parties responsible for system maintenance, security, and vulnerability remediation.
+This policy encompasses all information systems, applications, network devices, and infrastructure components that support the video streaming platform, including production, staging, and development environments. Coverage extends to all employees, contractors, and third parties responsible for system maintenance, security, and vulnerability remediation. The policy framework applies to both cloud-based and on-premises infrastructure components, ensuring comprehensive protection across our entire technology ecosystem.
 
 ### 3. Policy
 
 **3.1 Vulnerability Identification**
 
-The Company shall maintain comprehensive vulnerability identification capabilities:
-- Automated vulnerability scanning tools for all network-accessible systems
-- Regular penetration testing by qualified security professionals
-- Security code reviews and static application security testing (SAST)
-- Dynamic application security testing (DAST) for web applications
-- Container and cloud infrastructure vulnerability assessments
-- Threat intelligence integration to identify emerging vulnerabilities
-- Internal and external vulnerability scans must be conducted at least quarterly and after any significant change in the network
+The Company must maintain automated vulnerability scanning tools for all network-accessible systems. The Company must ensure regular penetration testing by qualified security professionals. The Company must conduct security code reviews and static application security testing (SAST). The Company must perform dynamic application security testing (DAST) for web applications. The Company must execute container and cloud infrastructure vulnerability assessments. The Company must integrate threat intelligence to identify emerging vulnerabilities. The Company must conduct internal and external vulnerability scans at least quarterly and after any significant change in the network.
 
 **3.2 Vulnerability Assessment and Prioritization**
 
-All identified vulnerabilities must be assessed and prioritized:
-- Risk-based prioritization considering exploitability, impact, and business criticality
-- Enhanced priority for vulnerabilities affecting user data or platform availability
-- Special consideration for vulnerabilities in content delivery systems
-- Integration with threat intelligence to identify actively exploited vulnerabilities
-- Regular reassessment of vulnerability priorities based on changing threat landscape
+All identified vulnerabilities must utilize risk-based prioritization considering exploitability, impact, and business criticality with enhanced priority for vulnerabilities affecting user data or platform availability, special consideration for vulnerabilities in content delivery systems, and integration with threat intelligence to identify actively exploited vulnerabilities including regular reassessment of vulnerability priorities based on changing threat landscape.
 
 **3.3 Remediation Timelines**
 
@@ -61,49 +49,23 @@ Vulnerabilities must be remediated according to established timelines:
 
 **3.4 Platform-Specific Vulnerability Management**
 
-Special attention to video streaming platform vulnerabilities:
-- Content delivery network (CDN) security assessments
-- Video encoding and streaming protocol vulnerabilities
-- Mobile application security testing across multiple platforms
-- Third-party player and plugin vulnerability monitoring
-- API security testing for platform integrations
-- User-generated content processing pipeline security reviews
+The Company must conduct content delivery network (CDN) security assessments and address video encoding and streaming protocol vulnerabilities. The Company must perform mobile application security testing across multiple platforms and monitor third-party player and plugin vulnerabilities. The Company must execute API security testing for platform integrations and conduct user-generated content processing pipeline security reviews.
 
 **3.5 Remediation Tracking and Reporting**
 
-Vulnerability remediation must be tracked and reported:
-- Centralized vulnerability management system for tracking remediation status
-- Regular reporting to executive leadership on vulnerability metrics
-- Key performance indicators (KPIs) for remediation timelines and effectiveness
-- Integration with change management processes for vulnerability fixes
-- Documentation of remediation decisions and risk acceptance rationales
+Vulnerability remediation must utilize a centralized vulnerability management system for tracking remediation status. The Company must provide regular reporting to executive leadership on vulnerability metrics and maintain key performance indicators (KPIs) for remediation timelines and effectiveness. The Company must ensure integration with change management processes for vulnerability fixes and maintain documentation of remediation decisions and risk acceptance rationales.
 
 **3.6 Emergency Response Procedures**
 
-Procedures for handling critical vulnerabilities:
-- 24/7 emergency response capability for critical vulnerabilities
-- Pre-approved emergency change procedures for security patches
-- Communication protocols for notifying stakeholders of critical vulnerabilities
-- Coordination with incident response team for actively exploited vulnerabilities
-- Business continuity considerations for emergency vulnerability remediation
+The Company must maintain 24/7 emergency response capability for critical vulnerabilities and implement pre-approved emergency change procedures for security patches. The Company must establish communication protocols for notifying stakeholders of critical vulnerabilities and ensure coordination with incident response teams for actively exploited vulnerabilities. The Company must incorporate business continuity considerations for emergency vulnerability remediation.
 
 **3.7 Third-Party and Vendor Vulnerability Management**
 
-Management of vulnerabilities in third-party systems:
-- Regular security assessments of vendor systems and applications
-- Contractual requirements for timely vulnerability disclosure and remediation
-- Monitoring of vendor security advisories and patch notifications
-- Risk assessment for vendor systems that cannot be immediately patched
-- Alternative mitigations when vendor patches are not available
+The Company must conduct regular security assessments of vendor systems and applications and establish contractual requirements for timely vulnerability disclosure and remediation. The Company must monitor vendor security advisories and patch notifications and perform risk assessments for vendor systems that cannot be immediately patched. The Company must implement alternative mitigations when vendor patches are not available.
 
 **3.8 Vulnerability Disclosure Program**
 
-The Company shall maintain a responsible disclosure program:
-- Public vulnerability disclosure policy and reporting mechanisms
-- Bug bounty program for crowd-sourced vulnerability identification
-- Clear guidelines for security researchers reporting vulnerabilities
-- Coordinated disclosure timelines and communication procedures
-- Recognition and reward programs for valuable vulnerability reports
+The Company must maintain a public vulnerability disclosure policy and reporting mechanisms and operate a bug bounty program for crowd-sourced vulnerability identification. The Company must provide clear guidelines for security researchers reporting vulnerabilities and establish coordinated disclosure timelines and communication procedures. The Company must implement recognition and reward programs for valuable vulnerability reports.
 
 **3.9 Penetration Testing**
 

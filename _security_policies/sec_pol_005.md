@@ -7,22 +7,21 @@ order: 5
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for assessing, managing, and monitoring security risks associated with third-party vendors and service providers who support [Company Name]'s video streaming platform operations, ensuring they maintain appropriate security standards and comply with regulatory requirements.
+This policy establishes comprehensive requirements for assessing, managing, and monitoring security risks associated with third-party vendors and service providers who support [Company Name]'s video streaming platform operations. The policy ensures that all vendors maintain appropriate security standards and comply with regulatory requirements while supporting business operations and protecting user data across all vendor relationships.
 
 ### 2. Scope
 
-This policy applies to all third-party vendors, service providers, contractors, and business partners who have access to Company systems, data, or infrastructure, or who provide services critical to video streaming platform operations. This includes content moderation services, content delivery network (CDN) providers, payment processors, cloud service providers, and technology vendors.
+This policy applies comprehensively to all third-party vendors, service providers, contractors, and business partners who have access to Company systems, data, or infrastructure across all operational environments. The scope encompasses vendors who provide services critical to video streaming platform operations, including content moderation services, content delivery network (CDN) providers, payment processors, cloud service providers, and technology vendors across all geographic regions.
 
 ### 3. Policy
 
 **3.1 Vendor Risk Assessment**
 
-All vendors must undergo security risk assessment before contract execution and periodically thereafter:
-- Initial security assessment before contract signing
-- Annual reassessments for critical vendors
-- Event-triggered assessments when significant changes occur
-- Risk-based assessment frequency based on vendor criticality and data access levels
-- Standardized security questionnaires and documentation requirements
+- All vendors **must** undergo comprehensive security risk assessment before contract execution and periodically thereafter.
+- Initial security assessment **must** be completed before contract signing for all vendor relationships.
+- Annual reassessments **must** be conducted for critical vendors to ensure continued compliance.
+- Event-triggered assessments **must** be performed when significant changes occur in vendor operations or security posture.
+- Risk-based assessment frequency **must** be determined based on vendor criticality and data access levels.
 
 **3.2 Vendor Classification**
 

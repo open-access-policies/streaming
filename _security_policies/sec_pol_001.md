@@ -7,17 +7,17 @@ order: 1
 
 ### 1. Objective
 
-The objective of this policy is to establish the requirements for protecting the confidentiality, integrity, and availability of [Company Name]'s information assets, user data, and video streaming platform infrastructure. This policy ensures compliance with applicable laws and regulations while maintaining user trust and platform security.
+This policy establishes comprehensive requirements for protecting the confidentiality, integrity, and availability of [Company Name]'s information assets, user data, and video streaming platform infrastructure. The policy ensures strict compliance with applicable laws and regulations while maintaining user trust and platform security across all operational environments and geographic regions where the company provides services.
 
 ### 2. Scope
 
-This policy applies to all full-time and part-time employees, contractors, third parties, and service providers who have access to Company information systems, user data, or video streaming platform infrastructure. It covers all company-owned and personally-owned devices used to access corporate resources, all data processing activities, and all aspects of the video streaming service delivery.
+This policy applies comprehensively to all full-time and part-time employees, contractors, third parties, and service providers who have access to Company information systems, user data, or video streaming platform infrastructure. The scope encompasses all company-owned and personally-owned devices used to access corporate resources, all data processing activities, and all aspects of video streaming service delivery across all operational environments.
 
 ### 3. Policy
 
 **3.1 Information Security Governance**
 
-The Company shall maintain an Information Security Management System (ISMS) that provides a framework for establishing, implementing, maintaining, and continually improving information security. The CISO is responsible for the overall governance and strategic direction of information security.
+The Company must maintain a comprehensive Information Security Management System (ISMS) that provides a structured framework for establishing, implementing, maintaining, and continually improving information security across all operations. The Chief Information Security Officer (CISO) is responsible for the overall governance and strategic direction of information security, ensuring alignment with business objectives and regulatory requirements.
 
 **3.2 Asset Protection**
 

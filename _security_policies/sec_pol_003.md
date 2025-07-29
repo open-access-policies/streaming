@@ -7,22 +7,21 @@ order: 3
 
 ### 1. Objective
 
-The objective of this policy is to establish a systematic approach to identifying, assessing, treating, and monitoring information security risks that could impact [Company Name]'s video streaming platform, user data, business operations, and regulatory compliance obligations.
+This policy establishes a comprehensive systematic approach to identifying, assessing, treating, and monitoring information security risks that could impact [Company Name]'s video streaming platform, user data, business operations, and regulatory compliance obligations. The policy ensures robust risk management processes that support business continuity and regulatory compliance across all operational environments.
 
 ### 2. Scope
 
-This policy applies to all business units, employees, contractors, and third parties involved in the operation of the video streaming platform. It covers all risks related to information security, data protection, platform operations, content management, and regulatory compliance across all geographic regions where [Company Name] operates.
+This policy applies comprehensively to all business units, employees, contractors, and third parties involved in the operation of the video streaming platform across all operational environments. The scope encompasses all risks related to information security, data protection, platform operations, content management, and regulatory compliance across all geographic regions where [Company Name] operates its services.
 
 ### 3. Policy
 
 **3.1 Risk Management Framework**
 
-The Company shall maintain a comprehensive risk management framework that:
-- Aligns with business objectives and regulatory requirements
-- Follows a systematic and structured approach to risk identification and assessment
-- Integrates with business continuity and incident response planning
-- Supports informed decision-making regarding risk treatment options
-- Ensures continuous monitoring and review of the risk landscape
+- The Company **must** maintain a comprehensive risk management framework that aligns with business objectives and regulatory requirements.
+- A systematic and structured approach **must** be followed for risk identification and assessment across all operations.
+- Risk management **must** be integrated with business continuity and incident response planning processes.
+- Informed decision-making **must** be supported regarding risk treatment options and resource allocation.
+- Continuous monitoring and review **must** be conducted of the evolving risk landscape and threat environment.
 
 **3.2 Risk Identification**
 

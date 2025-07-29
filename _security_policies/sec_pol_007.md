@@ -7,62 +7,33 @@ order: 7
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for the responsible development, deployment, and use of artificial intelligence systems within [Company Name]'s video streaming platform, ensuring AI technologies are used ethically, securely, and in compliance with applicable regulations while maintaining user trust and platform integrity.
+This policy establishes requirements for the responsible development, deployment, and use of artificial intelligence systems within [Company Name]'s video streaming platform. The framework ensures AI technologies are used ethically, securely, and in compliance with applicable regulations while maintaining user trust and platform integrity. This comprehensive approach promotes innovation while mitigating risks associated with automated decision-making systems that impact millions of users globally.
 
 ### 2. Scope
 
-This policy applies to all AI and machine learning systems used by [Company Name], including content recommendation algorithms, content moderation systems, user behavior analysis tools, and any AI-powered features accessible to users. It covers all employees, contractors, and third parties involved in AI development, deployment, or operation.
+This policy applies to all AI and machine learning systems used by [Company Name], including content recommendation algorithms, content moderation systems, user behavior analysis tools, and any AI-powered features accessible to users. Coverage extends to all employees, contractors, and third parties involved in AI development, deployment, or operation across development, testing, and production environments.
 
 ### 3. Policy
 
 **3.1 AI Governance and Oversight**
 
-The Company shall maintain comprehensive governance for AI systems:
-- [AI Governance Body Name] with diverse stakeholder representation
-- Risk assessment requirements for all AI system deployments
-- Regular audits of AI system performance and bias metrics
-- Clear accountability and decision-making frameworks
-- Integration with overall risk management and compliance programs
+The Company must maintain [AI Governance Body Name] with diverse stakeholder representation and implement risk assessment requirements for all AI system deployments. The Company must conduct regular audits of AI system performance and bias metrics and establish clear accountability and decision-making frameworks. The Company must integrate AI governance with overall risk management and compliance programs.
 
 **3.2 Content Moderation AI Systems**
 
-AI systems used for content moderation must meet enhanced requirements:
-- Regular bias testing across demographic groups and content types
-- Human review requirements for high-impact moderation decisions
-- Transparency reporting on automated content actions
-- User appeal mechanisms for AI-driven content decisions
-- Compliance with EU Digital Services Act algorithmic accountability requirements
-- Regular retraining to address emerging content threats and reduce false positives
+AI systems used for content moderation must conduct regular bias testing across demographic groups and content types. The Company must implement human review requirements for high-impact moderation decisions and provide transparency reporting on automated content actions. The Company must establish user appeal mechanisms for AI-driven content decisions and ensure compliance with EU Digital Services Act algorithmic accountability requirements. The Company must perform regular retraining to address emerging content threats and reduce false positives.
 
 **3.3 Recommendation Algorithm Governance**
 
-Content recommendation systems require special oversight:
-- Regular assessment of algorithmic amplification effects
-- Bias testing to prevent discriminatory content promotion
-- User control mechanisms for recommendation preferences
-- Transparency regarding recommendation factors and data usage
-- Protection against manipulation and coordinated inauthentic behavior
-- Compliance with DSA requirements for recommender system transparency
+Content recommendation systems must conduct regular assessment of algorithmic amplification effects and perform bias testing to prevent discriminatory content promotion. The Company must implement user control mechanisms for recommendation preferences and provide transparency regarding recommendation factors and data usage. The Company must maintain protection against manipulation and coordinated inauthentic behavior and ensure compliance with DSA requirements for recommender system transparency.
 
 **3.4 AI System Security**
 
-All AI systems must implement robust security controls:
-- Secure development lifecycle practices for AI/ML models
-- Protection against adversarial attacks and model poisoning
-- Secure model storage and version control
-- Access controls for training data and model parameters
-- Monitoring for unauthorized model access or extraction
-- Regular security testing specific to AI/ML vulnerabilities
+All AI systems must implement secure development lifecycle practices for AI/ML models and maintain protection against adversarial attacks and model poisoning. The Company must ensure secure model storage and version control and implement access controls for training data and model parameters. The Company must monitor for unauthorized model access or extraction and conduct regular security testing specific to AI/ML vulnerabilities.
 
 **3.5 Data Privacy and AI**
 
-AI systems must comply with privacy requirements:
-- Privacy-by-design principles in AI system development
-- Data minimization for AI training and inference
-- User consent mechanisms for AI-driven features
-- Compliance with GDPR automated decision-making requirements
-- COPPA compliance for AI systems affecting children
-- Regular privacy impact assessments for AI deployments
+AI systems must implement privacy-by-design principles in AI system development and ensure data minimization for AI training and inference. The Company must establish user consent mechanisms for AI-driven features and maintain compliance with GDPR automated decision-making requirements. The Company must ensure COPPA compliance for AI systems affecting children and conduct regular privacy impact assessments for AI deployments.
 
 **Enhanced COPPA Protections for Children:**
 - Recommendation algorithms are specifically designed to prevent profiling of users known to be under 13 for advertising purposes
@@ -74,30 +45,15 @@ AI systems must comply with privacy requirements:
 
 **3.6 AI Transparency and Explainability**
 
-AI systems must provide appropriate transparency:
-- Documentation of AI system purpose, capabilities, and limitations
-- Explainable AI techniques for high-impact decisions
-- User notification when AI systems significantly affect their experience
-- Public reporting on AI system performance and bias metrics
-- Clear communication about AI capabilities and limitations to users
+AI systems must provide documentation of AI system purpose, capabilities, and limitations and implement explainable AI techniques for high-impact decisions. The Company must notify users when AI systems significantly affect their experience and provide public reporting on AI system performance and bias metrics with clear communication about AI capabilities and limitations to users.
 
 **3.7 Third-Party AI Services**
 
-Use of external AI services requires additional oversight:
-- Security and privacy assessments of AI service providers
-- Contractual requirements for bias testing and transparency
-- Data protection agreements covering AI training and inference data
-- Regular monitoring of third-party AI service performance
-- Contingency planning for AI service disruptions or terminations
+Use of external AI services must include security and privacy assessments of AI service providers and establish contractual requirements for bias testing and transparency. The Company must implement data protection agreements covering AI training and inference data and conduct regular monitoring of third-party AI service performance. The Company must maintain contingency planning for AI service disruptions or terminations.
 
 **3.8 Prohibited AI Uses**
 
-The following AI applications are prohibited:
-- Discriminatory profiling based on protected characteristics
-- Manipulation of user behavior for harmful purposes
-- Surveillance systems that violate user privacy expectations
-- AI systems that lack appropriate human oversight for high-risk decisions
-- Deep fake or synthetic media creation without clear disclosure
+The Company prohibits discriminatory profiling based on protected characteristics and manipulation of user behavior for harmful purposes. The Company prohibits surveillance systems that violate user privacy expectations and AI systems that lack appropriate human oversight for high-risk decisions. The Company prohibits deep fake or synthetic media creation without clear disclosure.
 
 ### 4. Standards Compliance
 

@@ -7,11 +7,11 @@ order: 4
 
 ### 1. Objective
 
-The objective of this policy is to establish a systematic approach for classifying, handling, and protecting data assets based on their sensitivity, value, and regulatory requirements to ensure appropriate security controls are applied throughout the data lifecycle in the video streaming platform environment.
+This policy establishes a comprehensive systematic approach for classifying, handling, and protecting data assets based on their sensitivity, value, and regulatory requirements. The policy ensures that appropriate security controls are applied throughout the entire data lifecycle in the video streaming platform environment, providing robust protection for user data, business information, and platform operations while maintaining compliance with applicable regulations.
 
 ### 2. Scope
 
-This policy applies to all data created, processed, transmitted, or stored by [Company Name], including user-generated content, user personal data, business information, and system data. It covers all employees, contractors, and third parties who handle Company data in any format, whether digital or physical.
+This policy applies comprehensively to all data created, processed, transmitted, or stored by [Company Name] across all operational environments. The scope encompasses user-generated content, user personal data, business information, and system data in all formats. All employees, contractors, and third parties who handle Company data in any format, whether digital or physical, must comply with these requirements.
 
 ### 3. Policy
 

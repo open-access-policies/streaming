@@ -7,7 +7,7 @@ order: 1
 
 ### 1. Objective
 
-The objective of this policy is to establish requirements for protecting user privacy and personal data throughout the video streaming platform lifecycle, ensuring compliance with privacy regulations including GDPR, CCPA, COPPA, and PIPEDA while maintaining transparency and user trust in data handling practices.
+This policy establishes comprehensive requirements for protecting user privacy and personal data throughout the entire video streaming platform lifecycle. The policy ensures strict compliance with privacy regulations including GDPR, CCPA, COPPA, and PIPEDA while maintaining transparency and user trust in all data handling practices across all operational jurisdictions and user demographics.
 
 ### 2. Scope
 
