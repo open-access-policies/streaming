@@ -72,7 +72,7 @@ Data handling requirements vary by classification level:
 - Access limited to specifically authorized individuals
 - Multi-factor authentication required for access
 - Encrypted using approved strong encryption algorithms
-- Comprehensive audit logging and real-time monitoring
+- Comprehensive access audit logging and real-time monitoring
 - Requires executive approval for third-party sharing
 
 **User-Generated Content (UGC):**

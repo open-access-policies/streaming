@@ -5,10 +5,6 @@ parent: Privacy Policies
 order: 2
 ---
 
-# Children's Privacy Policy
-
-*Effective Date: July 29, 2025*
-
 ### 1. Objective
 
 This Children's Privacy Policy establishes comprehensive requirements for protecting personal information from children under 13 years of age who use our video streaming platform. The policy ensures strict compliance with the Children's Online Privacy Protection Act (COPPA) and other applicable children's privacy regulations while providing transparency to parents and guardians about our privacy practices regarding children across all platform services.
