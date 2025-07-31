@@ -126,11 +126,16 @@ Incident response must address compliance requirements:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.16.1.1 |
+| **3.1** | PCI DSS v4.0 | Req. 12.10.1 |
 | **3.2** | SOC 2 Type II | CC7.4 |
+| **3.2** | PCI DSS v4.0 | Req. 12.10.2 |
 | **3.5** | NIST Cybersecurity Framework | RS.RP-1 |
+| **3.5** | PCI DSS v4.0 | Req. 12.10.3 |
 | **3.6** | GDPR | Art. 33-34 |
 | **3.6** | EU Digital Services Act | Art. 24 |
+| **3.6** | PCI DSS v4.0 | Req. 12.10.4 |
 | **3.7** | CCPA | § 1798.82 |
+| **3.7** | PCI DSS v4.0 | Req. 12.10.5 |
 
 ### 5. Definitions
 

@@ -39,9 +39,13 @@ This procedure enables efficient processing of routine changes through pre-autho
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1** | ISO/IEC 27001:2022 | A.12.1.2 |
+| **1** | PCI DSS v4.0 | Req. 6.5.1 |
 | **4-5** | SOC 2 Type II | CC8.1 |
+| **4-5** | PCI DSS v4.0 | Req. 6.5.2 |
 | **7-8** | NIST Cybersecurity Framework | PR.IP-1 |
+| **7-8** | PCI DSS v4.0 | Req. 6.5.3 |
 | **11-12** | ISO/IEC 27001:2022 | A.16.1.7 |
+| **11-12** | PCI DSS v4.0 | Req. 12.1 |
 
 ### 6. Artifact(s)
 

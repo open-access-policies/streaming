@@ -39,9 +39,13 @@ This procedure ensures systematic collection, validation, and publication of tra
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | EU Digital Services Act | Art. 15 |
+| **1-3** | PCI DSS v4.0 | Req. 12.1 |
 | **4** | EU Digital Services Act | Art. 24 |
+| **4** | PCI DSS v4.0 | Req. 10.6 |
 | **5** | EU Digital Services Act | Art. 42 |
+| **5** | PCI DSS v4.0 | Req. 12.10.1 |
 | **9-12** | EU Digital Services Act | Art. 15 |
+| **9-12** | PCI DSS v4.0 | Req. 12.2 |
 
 ### 6. Artifact(s)
 

@@ -95,12 +95,18 @@ All software development related to payment applications or systems within the C
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.14.2.1 |
+| **3.1** | PCI DSS v4.0 | Req. 6.2.1 |
 | **3.2** | GDPR | Art. 25 |
 | **3.2** | CCPA | § 1798.100 |
+| **3.2** | PCI DSS v4.0 | Req. 6.2.2 |
 | **3.3** | NIST Cybersecurity Framework | PR.DS-2 |
+| **3.3** | PCI DSS v4.0 | Req. 6.2.3 |
 | **3.4** | SOC 2 Type II | CC8.1 |
+| **3.4** | PCI DSS v4.0 | Req. 6.3.1 |
 | **3.5** | COPPA | § 312.8 |
+| **3.5** | PCI DSS v4.0 | Req. 6.2.2 |
 | **3.6** | ISO/IEC 27001:2022 | A.14.2.8 |
+| **3.6** | PCI DSS v4.0 | Req. 6.3.2 |
 | **3.8** | PCI DSS v4.0 | Req. 6.2, 6.5 |
 
 ### 5. Definitions

@@ -39,9 +39,13 @@ This procedure provides users with a fair opportunity to challenge moderation de
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-2** | EU Digital Services Act | Art. 20 |
+| **1-2** | PCI DSS v4.0 | Req. 7.1.1 |
 | **4-6** | ISO/IEC 27001:2022 | A.7.2.2 |
+| **4-6** | PCI DSS v4.0 | Req. 8.1, 8.2 |
 | **7-8** | EU Digital Services Act | Art. 20 |
+| **7-8** | PCI DSS v4.0 | Req. 12.10.1 |
 | **11-12** | EU Digital Services Act | Art. 24 |
+| **11-12** | PCI DSS v4.0 | Req. 10.6, 12.2 |
 
 ### 6. Artifact(s)
 

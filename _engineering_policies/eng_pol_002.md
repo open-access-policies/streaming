@@ -94,10 +94,15 @@ Mobile application modifications require coordination with external app store ap
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.12.1.2 |
+| **3.1** | PCI DSS v4.0 | Req. 6.5.1 |
 | **3.2, 3.4** | SOC 2 Type II | CC8.1 |
+| **3.2** | PCI DSS v4.0 | Req. 6.5.2 |
 | **3.5** | NIST Cybersecurity Framework | PR.IP-2 |
+| **3.5** | PCI DSS v4.0 | Req. 6.5.3 |
 | **3.6** | ISO/IEC 27001:2022 | A.14.2.2 |
+| **3.6** | PCI DSS v4.0 | Req. 6.5.4 |
 | **3.7** | SOC 2 Type II | CC3.1 |
+| **3.7** | PCI DSS v4.0 | Req. 12.1 |
 
 ### 5. Definitions
 

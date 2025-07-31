@@ -39,10 +39,15 @@ This procedure ensures systematic content review through automated pre-screening
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-2** | EU Digital Services Act | Art. 16 |
+| **1-2** | PCI DSS v4.0 | Req. 12.1 |
 | **4-6** | ISO/IEC 27001:2022 | A.7.2.2 |
+| **4-6** | PCI DSS v4.0 | Req. 7.1, 8.1 |
 | **8** | EU Digital Services Act | Art. 17 |
+| **8** | PCI DSS v4.0 | Req. 12.10.1 |
 | **9-10** | EU Digital Services Act | Art. 24 |
+| **9-10** | PCI DSS v4.0 | Req. 10.6, 12.2 |
 | **11** | EU Digital Services Act | Art. 20 |
+| **11** | PCI DSS v4.0 | Req. 7.1.1 |
 
 ### 6. Artifact(s)
 

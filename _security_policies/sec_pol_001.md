@@ -49,12 +49,18 @@ Information security controls must be regularly monitored, tested, and audited t
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.5.1 |
+| **3.1** | PCI DSS v4.0 | Req. 12.1 |
 | **3.2** | SOC 2 Type II | CC6.1 |
+| **3.2** | PCI DSS v4.0 | Req. 7.1 |
 | **3.3** | ISO/IEC 27001:2022 | A.9.1 |
+| **3.3** | PCI DSS v4.0 | Req. 7.1, 8.1 |
 | **3.4** | SOC 2 Type II | CC6.7 |
+| **3.4** | PCI DSS v4.0 | Req. 6.1, 6.2 |
 | **3.5** | GDPR | Art. 32 |
 | **3.5** | CCPA | § 1798.150 |
+| **3.5** | PCI DSS v4.0 | Req. 3.1, 4.1 |
 | **3.6** | ISO/IEC 27001:2022 | A.16.1 |
+| **3.6** | PCI DSS v4.0 | Req. 12.10 |
 | **3.7** | EU Digital Services Act | Art. 24 |
 | **3.7** | PCI DSS v4.0 | Req. 12.1 |
 

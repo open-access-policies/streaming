@@ -41,9 +41,13 @@ This procedure ensures systematic analysis of incident response performance and 
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **4-7** | ISO/IEC 27001:2022 | A.16.1.6 |
+| **4-7** | PCI DSS v4.0 | Req. 12.10.6 |
 | **6** | NIST Cybersecurity Framework | RS.IM-1 |
+| **6** | PCI DSS v4.0 | Req. 12.10.7 |
 | **8-9** | SOC 2 Type II | CC7.5 |
+| **8-9** | PCI DSS v4.0 | Req. 6.5.5 |
 | **10-11** | ISO/IEC 27001:2022 | A.16.1.7 |
+| **10-11** | PCI DSS v4.0 | Req. 12.1 |
 
 ### 6. Artifact(s)
 

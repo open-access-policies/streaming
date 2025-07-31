@@ -111,11 +111,16 @@ Vendors must disclose and manage risks from their subcontractors:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1, 3.2** | ISO/IEC 27001:2022 | A.15.1.1 |
+| **3.1, 3.2** | PCI DSS v4.0 | Req. 12.8.1 |
 | **3.3** | SOC 2 Type II | CC9.2 |
+| **3.3** | PCI DSS v4.0 | Req. 12.8.2 |
 | **3.4** | GDPR | Art. 28 |
 | **3.4** | CCPA | § 1798.140(w) |
+| **3.4** | PCI DSS v4.0 | Req. 12.8.3 |
 | **3.5** | ISO/IEC 27001:2022 | A.15.2.1 |
+| **3.5** | PCI DSS v4.0 | Req. 12.8.4 |
 | **3.6** | NIST Cybersecurity Framework | PR.AC-4 |
+| **3.6** | PCI DSS v4.0 | Req. 8.1, 8.2 |
 
 ### 5. Definitions
 

@@ -41,13 +41,18 @@ This procedure ensures systematic handling of user privacy rights requests throu
 | --------------------- | ---------------------- | --------------------- |
 | **1-2** | GDPR | Art. 12 |
 | **1-2** | PIPEDA | Principle 9 |
+| **1-2** | PCI DSS v4.0 | Req. 7.1.1 |
 | **3** | GDPR | Art. 12.6 |
 | **3** | PIPEDA | Principle 9 |
+| **3** | PCI DSS v4.0 | Req. 8.1.1 |
 | **6, 8** | PIPEDA | Principle 9 |
+| **6, 8** | PCI DSS v4.0 | Req. 3.3.1 |
 | **8-10** | GDPR | Art. 15-22 |
+| **8-10** | PCI DSS v4.0 | Req. 7.1.2 |
 | **10** | CCPA | § 1798.130 |
 | **10** | PIPEDA | Principle 9 |
 | **11** | GDPR | Art. 17, 19 |
+| **11** | PCI DSS v4.0 | Req. 3.2.1 |
 | **13** | PIPEDA | Principle 10 |
 
 ### 6. Artifact(s)

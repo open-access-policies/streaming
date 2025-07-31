@@ -110,13 +110,22 @@ Container images must be scanned for known vulnerabilities before being pushed t
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.13.1.1 |
+| **3.1** | PCI DSS v4.0 | Req. 1.1.1 |
 | **3.2, 3.3** | SOC 2 Type II | CC6.7 |
+| **3.2** | PCI DSS v4.0 | Req. 1.2.1 |
 | **3.4** | GDPR | Art. 44-49 |
+| **3.4** | PCI DSS v4.0 | Req. 4.1 |
 | **3.5** | NIST Cybersecurity Framework | PR.AC-4 |
+| **3.5** | PCI DSS v4.0 | Req. 7.1, 8.1 |
 | **3.6** | ISO/IEC 27001:2022 | A.13.1.3 |
+| **3.6** | PCI DSS v4.0 | Req. 11.4 |
 | **3.7** | SOC 2 Type II | CC6.1 |
+| **3.7** | PCI DSS v4.0 | Req. 2.2 |
 | **3.8** | ISO/IEC 27001:2022 | A.10.1.1 |
+| **3.8** | PCI DSS v4.0 | Req. 3.4 |
 | **3.9** | PCI DSS v4.0 | Req. 1.2, 1.3, 2.2 |
+| **3.10** | PCI DSS v4.0 | Req. 6.3.1 |
+| **3.11** | PCI DSS v4.0 | Req. 6.3.2 |
 
 ### 5. Definitions
 

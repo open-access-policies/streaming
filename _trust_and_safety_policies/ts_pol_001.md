@@ -72,12 +72,19 @@ Content moderation must implement geographic content blocking for country-specif
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1, 3.6** | EU Digital Services Act | Art. 15, 24 |
+| **3.1** | PCI DSS v4.0 | Req. 12.1 |
 | **3.2** | EU Digital Services Act | Art. 27 |
+| **3.2** | PCI DSS v4.0 | Req. 12.10.7 |
 | **3.3** | ISO/IEC 27001:2022 | A.7.2.2 |
+| **3.3** | PCI DSS v4.0 | Req. 7.1, 8.1 |
 | **3.5** | EU Digital Services Act | Art. 20 |
+| **3.5** | PCI DSS v4.0 | Req. 12.2 |
 | **3.6** | EU Digital Services Act | Art. 24, 42 |
+| **3.6** | PCI DSS v4.0 | Req. 12.10.1 |
 | **3.7** | COPPA | § 312.2 |
+| **3.7** | PCI DSS v4.0 | Req. 3.3.1 |
 | **3.8** | GDPR | Art. 3, 44-49 |
+| **3.8** | PCI DSS v4.0 | Req. 4.1 |
 
 ### 5. Definitions
 

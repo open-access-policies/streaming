@@ -112,12 +112,16 @@ Data sharing must comply with classification requirements:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1, 3.2** | ISO/IEC 27001:2022 | A.8.2.1 |
+| **3.1** | PCI DSS v4.0 | Req. 3.3.1 |
 | **3.2** | SOC 2 Type II | CC6.1 |
 | **3.2** | GDPR | Art. 32 |
+| **3.2** | PCI DSS v4.0 | Req. 3.1, 3.4 |
 | **3.4** | CCPA | § 1798.100 |
 | **3.4** | EU Digital Services Act | Art. 26 |
+| **3.4** | PCI DSS v4.0 | Req. 4.1, 4.2 |
 | **3.5** | GDPR | Art. 17 |
 | **3.5** | COPPA | § 312.10 |
+| **3.5** | PCI DSS v4.0 | Req. 3.2.1 |
 
 ### 5. Definitions
 

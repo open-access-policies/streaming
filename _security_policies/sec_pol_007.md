@@ -60,11 +60,16 @@ The Company prohibits discriminatory profiling based on protected characteristic
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | EU Digital Services Act | Art. 27 |
+| **3.1** | PCI DSS v4.0 | Req. 12.1 |
 | **3.2** | EU Digital Services Act | Art. 16 |
+| **3.2** | PCI DSS v4.0 | Req. 12.10.7 |
 | **3.3** | EU Digital Services Act | Art. 27 |
+| **3.4** | PCI DSS v4.0 | Req. 6.1, 6.2 |
 | **3.5** | GDPR | Art. 22 |
 | **3.5** | COPPA | § 312.2 |
+| **3.5** | PCI DSS v4.0 | Req. 3.1, 7.1 |
 | **3.6** | ISO/IEC 23053:2022 | Framework for AI Risk Management |
+| **3.6** | PCI DSS v4.0 | Req. 12.1 |
 | **3.8** | EU AI Act | Art. 5 |
 
 ### 5. Definitions

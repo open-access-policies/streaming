@@ -143,10 +143,15 @@ HR security practices must respect employee privacy and rights:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.7.1.1 |
+| **3.1** | PCI DSS v4.0 | Req. 7.1.1 |
 | **3.2** | SOC 2 Type II | CC2.2 |
+| **3.2** | PCI DSS v4.0 | Req. 12.9 |
 | **3.3** | NIST Cybersecurity Framework | PR.AC-1 |
+| **3.3** | PCI DSS v4.0 | Req. 7.1, 8.1 |
 | **3.4** | ISO/IEC 27001:2022 | A.7.2.1 |
+| **3.4** | PCI DSS v4.0 | Req. 7.2.1 |
 | **3.5** | SOC 2 Type II | CC2.3 |
+| **3.5** | PCI DSS v4.0 | Req. 8.1.3 |
 | **3.7** | GDPR | Art. 88 |
 
 ### 5. Definitions

@@ -213,21 +213,30 @@ Privacy breaches and incidents require immediate response:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | PIPEDA | Principle 1 |
+| **3.1** | PCI DSS v4.0 | Req. 12.1 |
 | **3.2** | GDPR | Art. 25 |
+| **3.2** | PCI DSS v4.0 | Req. 3.1, 7.1 |
 | **3.3** | GDPR | Art. 6, 7 |
 | **3.3** | PIPEDA | Principle 3 |
 | **3.3** | COPPA | § 312.4 |
 | **3.4** | PIPEDA | Principle 2 |
+| **3.4** | PCI DSS v4.0 | Req. 3.3.1 |
 | **3.5** | COPPA | § 312.2 |
 | **3.6** | PIPEDA | Principle 6 |
+| **3.6** | PCI DSS v4.0 | Req. 3.2.1 |
 | **3.7** | GDPR | Art. 15-22 |
 | **3.7** | CCPA/CPRA | § 1798.100-130, § 1798.121 |
 | **3.7** | PIPEDA | Principle 9 |
+| **3.7** | PCI DSS v4.0 | Req. 7.1.1 |
 | **3.8** | PIPEDA | Principles 4, 5 |
+| **3.8** | PCI DSS v4.0 | Req. 4.1, 4.2 |
 | **3.9** | GDPR | Art. 44-49 |
+| **3.9** | PCI DSS v4.0 | Req. 4.1 |
 | **3.10** | PIPEDA | Principle 8 |
 | **3.11** | GDPR | Art. 30 |
+| **3.11** | PCI DSS v4.0 | Req. 12.1 |
 | **3.12** | GDPR | Art. 33-34 |
+| **3.12** | PCI DSS v4.0 | Req. 12.10.1 |
 
 ### 5. Definitions
 

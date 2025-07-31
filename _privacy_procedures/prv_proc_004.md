@@ -81,12 +81,19 @@ Additional criteria requiring DPIA for video streaming platform:
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | GDPR | Art. 35.1 |
+| **1-3** | PCI DSS v4.0 | Req. 12.2 |
 | **4-8** | GDPR | Art. 35.7 |
+| **4-8** | PCI DSS v4.0 | Req. 12.2.1 |
 | **9-11** | GDPR | Art. 35.7(c) |
+| **9-11** | PCI DSS v4.0 | Req. 3.1, 7.1 |
 | **13** | GDPR | Art. 35.2 |
+| **13** | PCI DSS v4.0 | Req. 12.3 |
 | **14** | GDPR | Art. 36 |
+| **14** | PCI DSS v4.0 | Req. 12.1 |
 | **15-16** | GDPR | Art. 35.7(d) |
+| **15-16** | PCI DSS v4.0 | Req. 3.4, 8.2 |
 | **17-18** | GDPR | Art. 35.11 |
+| **17-18** | PCI DSS v4.0 | Req. 12.2.2 |
 
 ### 8. Artifact(s)
 

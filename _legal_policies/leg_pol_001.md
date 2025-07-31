@@ -91,12 +91,18 @@ This policy applies comprehensively to all content uploaded, shared, or distribu
 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
+| **3.1** | Berne Convention | Art. 6bis |
+| **3.1** | PCI DSS v4.0 | Req. 12.1 |
 | **3.3** | DMCA | 17 U.S.C. § 512 |
 | **3.3** | EU Copyright Directive | Art. 17 |
+| **3.3** | PCI DSS v4.0 | Req. 12.10.1 |
 | **3.5** | DMCA | 17 U.S.C. § 512(i) |
+| **3.5** | PCI DSS v4.0 | Req. 8.1.3 |
 | **3.6** | Copyright Act | 17 U.S.C. § 107 |
+| **3.6** | PCI DSS v4.0 | Req. 12.2 |
 | **3.7** | ISO/IEC 27001:2022 | A.18.1.2 |
-| **3.1** | Berne Convention | Art. 6bis |
+| **3.7** | PCI DSS v4.0 | Req. 12.10.1 |
+| **3.8** | PCI DSS v4.0 | Req. 12.6 |
 
 ### 5. Definitions
 

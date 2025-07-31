@@ -44,11 +44,17 @@ All verified security events that are classified as potential incidents must be 
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | SOC 2 Type II | CC7.1 |
+| **3.1** | PCI DSS v4.0 | Req. 10.1 |
 | **3.2** | ISO/IEC 27001:2022 | A.12.4.1 |
+| **3.2** | PCI DSS v4.0 | Req. 10.2, 10.3 |
 | **3.3** | NIST Cybersecurity Framework | DE.CM-1 |
+| **3.3** | PCI DSS v4.0 | Req. 10.6 |
 | **3.4** | ISO/IEC 27001:2022 | A.12.4.3 |
+| **3.4** | PCI DSS v4.0 | Req. 11.5 |
 | **3.5** | NIST Cybersecurity Framework | DE.AE-2 |
+| **3.5** | PCI DSS v4.0 | Req. 10.7 |
 | **3.6** | SOC 2 Type II | CC7.1 |
+| **3.6** | PCI DSS v4.0 | Req. 12.10.1 |
 
 ### 5. Definitions
 

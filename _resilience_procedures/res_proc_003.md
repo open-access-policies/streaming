@@ -41,9 +41,13 @@ This procedure ensures regular validation of BCDR capabilities through structure
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-2** | ISO/IEC 27001:2022 | A.17.1.3 |
+| **1-2** | PCI DSS v4.0 | Req. 12.3 |
 | **6-8** | SOC 2 Type II | CC7.3 |
+| **6-8** | PCI DSS v4.0 | Req. 12.3.1 |
 | **10** | NIST Cybersecurity Framework | RC.RP-1 |
+| **10** | PCI DSS v4.0 | Req. 9.5.1 |
 | **11-13** | ISO/IEC 27001:2022 | A.17.1.3 |
+| **11-13** | PCI DSS v4.0 | Req. 12.3.2 |
 
 ### 6. Artifact(s)
 

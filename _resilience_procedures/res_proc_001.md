@@ -41,10 +41,15 @@ This procedure provides a structured approach to incident response that minimize
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | ISO/IEC 27001:2022 | A.16.1.2 |
+| **1-3** | PCI DSS v4.0 | Req. 12.10.1 |
 | **4-6** | NIST Cybersecurity Framework | RS.RP-1 |
+| **4-6** | PCI DSS v4.0 | Req. 12.10.2 |
 | **7** | SOC 2 Type II | CC7.4 |
+| **7** | PCI DSS v4.0 | Req. 10.5.1 |
 | **9** | GDPR | Art. 33 |
+| **9** | PCI DSS v4.0 | Req. 12.10.4 |
 | **12** | EU Digital Services Act | Art. 24 |
+| **12** | PCI DSS v4.0 | Req. 12.10.5 |
 
 ### 6. Artifact(s)
 

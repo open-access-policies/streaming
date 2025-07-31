@@ -82,10 +82,14 @@ In cases where immediate remediation of a vulnerability according to the defined
 | **3.1** | ISO/IEC 27001:2022 | A.12.6.1 |
 | **3.1, 3.9** | PCI DSS v4.0 | Req. 11.2, 11.3 |
 | **3.2, 3.3** | NIST Cybersecurity Framework | RS.MI-3 |
+| **3.2, 3.3** | PCI DSS v4.0 | Req. 6.3.1 |
 | **3.4** | SOC 2 Type II | CC7.1 |
+| **3.4** | PCI DSS v4.0 | Req. 6.3.2 |
 | **3.5** | ISO/IEC 27001:2022 | A.16.1.6 |
+| **3.5** | PCI DSS v4.0 | Req. 12.10.1 |
 | **3.6** | NIST Cybersecurity Framework | RS.RP-1 |
 | **3.8** | ISO/IEC 29147:2018 | Vulnerability Disclosure |
+| **3.8** | PCI DSS v4.0 | Req. 6.3.3 |
 
 ### 5. Definitions
 

@@ -41,11 +41,17 @@ This procedure ensures comprehensive data deletion through automated systems and
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | GDPR | Art. 17 |
+| **1-3** | PCI DSS v4.0 | Req. 3.2.1 |
 | **4** | GDPR | Art. 17.3 |
+| **4** | PCI DSS v4.0 | Req. 7.1.1 |
 | **6-7** | CCPA | § 1798.105 |
+| **6-7** | PCI DSS v4.0 | Req. 9.8.1 |
 | **9** | GDPR | Art. 19 |
+| **9** | PCI DSS v4.0 | Req. 4.1 |
 | **10-11** | GDPR | Art. 17.1 |
+| **10-11** | PCI DSS v4.0 | Req. 9.8.2 |
 | **12** | CCPA | § 1798.130 |
+| **12** | PCI DSS v4.0 | Req. 12.1 |
 
 ### 6. Artifact(s)
 

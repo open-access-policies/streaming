@@ -39,9 +39,13 @@ This procedure ensures systematic and objective evaluation of the ISMS through p
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-2** | ISO/IEC 27001:2022 | A.9.1 |
+| **1-2** | PCI DSS v4.0 | Req. 12.11.1 |
 | **6-7** | SOC 2 Type II | CC3.3 |
+| **6-7** | PCI DSS v4.0 | Req. 12.11.2 |
 | **9-10** | NIST Cybersecurity Framework | DE.DP-4 |
+| **9-10** | PCI DSS v4.0 | Req. 12.11.3 |
 | **11-12** | ISO/IEC 27001:2022 | A.10.1 |
+| **11-12** | PCI DSS v4.0 | Req. 12.11.4 |
 
 ### 6. Artifact(s)
 

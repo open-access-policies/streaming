@@ -41,9 +41,13 @@ This procedure ensures prompt and legally compliant response to copyright infrin
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | DMCA | 17 U.S.C. § 512(c)(3) |
+| **1-3** | PCI DSS v4.0 | Req. 12.1 |
 | **6-7** | DMCA | 17 U.S.C. § 512(c)(1)(C) |
+| **6-7** | PCI DSS v4.0 | Req. 12.10.1 |
 | **10-12** | DMCA | 17 U.S.C. § 512(g) |
+| **10-12** | PCI DSS v4.0 | Req. 7.1.1 |
 | **13** | DMCA | 17 U.S.C. § 512(i) |
+| **13** | PCI DSS v4.0 | Req. 8.1.3 |
 
 ### 6. Artifact(s)
 

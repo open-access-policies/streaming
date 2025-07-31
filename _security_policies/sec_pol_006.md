@@ -85,9 +85,13 @@ Physical security emergency response:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.11.1.1 |
+| **3.1** | PCI DSS v4.0 | Req. 9.1.1 |
 | **3.2** | SOC 2 Type II | CC6.4 |
+| **3.2** | PCI DSS v4.0 | Req. 9.1.2, 9.1.3 |
 | **3.3** | ISO/IEC 27001:2022 | A.11.2.1 |
+| **3.3** | PCI DSS v4.0 | Req. 9.6.1 |
 | **3.4** | ISO/IEC 27001:2022 | A.11.1.5 |
+| **3.4** | PCI DSS v4.0 | Req. 9.1.1 |
 | **3.5** | NIST Cybersecurity Framework | PR.AC-2 |
 | **3.6** | ISO/IEC 27001:2022 | A.6.2.1 |
 

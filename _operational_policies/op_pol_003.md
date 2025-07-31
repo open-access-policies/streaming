@@ -117,11 +117,15 @@ Secure data disposal must ensure complete data destruction:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.8.3.3 |
+| **3.1** | PCI DSS v4.0 | Req. 3.2.1 |
 | **3.2** | GDPR | Art. 17 |
 | **3.2** | CCPA | § 1798.105 |
 | **3.2** | COPPA | § 312.10 |
+| **3.2** | PCI DSS v4.0 | Req. 3.2.1 |
 | **3.4** | SOC 2 Type II | CC6.5 |
+| **3.4** | PCI DSS v4.0 | Req. 9.8.1 |
 | **3.7** | NIST SP 800-88 | Media Sanitization |
+| **3.7** | PCI DSS v4.0 | Req. 9.8 |
 
 ### 5. Definitions
 

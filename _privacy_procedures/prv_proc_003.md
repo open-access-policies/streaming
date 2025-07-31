@@ -85,12 +85,19 @@ This procedure ensures COPPA compliance through robust age verification, multipl
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | COPPA | § 312.3 |
+| **1-3** | PCI DSS v4.0 | Req. 12.9 |
 | **4** | COPPA | § 312.4(a) |
+| **4** | PCI DSS v4.0 | Req. 8.1.1 |
 | **5-6** | COPPA | § 312.5 |
+| **5-6** | PCI DSS v4.0 | Req. 8.2.1 |
 | **7** | COPPA | § 312.2 |
+| **7** | PCI DSS v4.0 | Req. 3.3.1 |
 | **8-9** | COPPA | § 312.3(b) |
+| **8-9** | PCI DSS v4.0 | Req. 7.1.1 |
 | **10** | COPPA | § 312.4(a)(3) |
+| **10** | PCI DSS v4.0 | Req. 12.6 |
 | **11** | COPPA | § 312.8 |
+| **11** | PCI DSS v4.0 | Req. 3.4, 8.2 |
 
 ### 8. Artifact(s)
 

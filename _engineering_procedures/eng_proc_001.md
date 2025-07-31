@@ -41,9 +41,13 @@ This procedure ensures comprehensive security testing through multiple testing m
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **3-4** | ISO/IEC 27001:2022 | A.14.2.3 |
+| **3-4** | PCI DSS v4.0 | Req. 6.3.1 |
 | **6-8** | NIST Cybersecurity Framework | DE.CM-4 |
+| **6-8** | PCI DSS v4.0 | Req. 11.2.1 |
 | **9** | OWASP Mobile Security | MSTG-CODE |
+| **9** | PCI DSS v4.0 | Req. 6.3.2 |
 | **11-12** | SOC 2 Type II | CC8.1 |
+| **11-12** | PCI DSS v4.0 | Req. 6.5.1 |
 
 ### 6. Artifact(s)
 

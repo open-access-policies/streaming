@@ -56,11 +56,17 @@ Passwords must:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1, 3.2** | ISO/IEC 27001:2022 | A.9.4.3 |
+| **3.1** | PCI DSS v4.0 | Req. 8.2.1 |
 | **3.2** | SOC 2 Type II | CC6.1 |
+| **3.2** | PCI DSS v4.0 | Req. 8.3.1 |
 | **3.3** | NIST Cybersecurity Framework | PR.AC-1 |
+| **3.3** | PCI DSS v4.0 | Req. 8.2.2 |
 | **3.4** | ISO/IEC 27001:2022 | A.9.2.5 |
+| **3.4** | PCI DSS v4.0 | Req. 8.2.1, 8.2.4 |
 | **3.5** | CCPA | § 1798.150 |
+| **3.5** | PCI DSS v4.0 | Req. 8.1.1, 8.2.1 |
 | **3.6** | GDPR | Art. 32 |
+| **3.6** | PCI DSS v4.0 | Req. 8.2.1, 4.2.1 |
 
 ### 5. Definitions
 

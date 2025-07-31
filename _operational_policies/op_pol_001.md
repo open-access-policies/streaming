@@ -127,12 +127,16 @@ Encryption implementations must meet regulatory requirements:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.10.1.1 |
+| **3.1** | PCI DSS v4.0 | Req. 3.1, 3.2 |
 | **3.2** | SOC 2 Type II | CC6.1 |
 | **3.2** | PCI DSS v4.0 | Req. 3.4 |
 | **3.2** | PCI DSS v4.0 | Req. 3.3, 3.4, 3.5 |
 | **3.3** | NIST Cybersecurity Framework | PR.DS-1 |
+| **3.3** | PCI DSS v4.0 | Req. 3.5.1 |
 | **3.4** | ISO/IEC 27001:2022 | A.10.1.2 |
+| **3.4** | PCI DSS v4.0 | Req. 3.6.1 |
 | **3.6** | GDPR | Art. 32 |
+| **3.6** | PCI DSS v4.0 | Req. 4.1, 4.2 |
 
 ### 5. Definitions
 

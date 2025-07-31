@@ -91,11 +91,15 @@ Risk information must be communicated to relevant stakeholders through:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.6.1.1 |
+| **3.1** | PCI DSS v4.0 | Req. 12.1, 12.2 |
 | **3.2, 3.3** | SOC 2 Type II | CC3.2 |
 | **3.2** | EU Digital Services Act | Art. 34 |
+| **3.2, 3.3** | PCI DSS v4.0 | Req. 12.2 |
 | **3.3** | NIST Cybersecurity Framework | ID.RA |
 | **3.4** | ISO/IEC 27001:2022 | A.6.1.3 |
+| **3.4** | PCI DSS v4.0 | Req. 12.3 |
 | **3.5** | SOC 2 Type II | CC3.4 |
+| **3.5** | PCI DSS v4.0 | Req. 12.2 |
 
 ### 5. Definitions
 

@@ -39,9 +39,13 @@ This procedure provides a structured approach to risk assessment that enables in
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-3** | ISO/IEC 27001:2022 | A.6.1.2 |
+| **1-3** | PCI DSS v4.0 | Req. 12.2 |
 | **4-5** | NIST Cybersecurity Framework | ID.RA-1 |
+| **4-5** | PCI DSS v4.0 | Req. 12.2.1 |
 | **6-8** | SOC 2 Type II | CC3.2 |
+| **6-8** | PCI DSS v4.0 | Req. 12.2.2 |
 | **9-12** | ISO/IEC 27001:2022 | A.6.1.3 |
+| **9-12** | PCI DSS v4.0 | Req. 12.3 |
 | **4** | EU Digital Services Act | Art. 34 |
 
 ### 6. Artifact(s)

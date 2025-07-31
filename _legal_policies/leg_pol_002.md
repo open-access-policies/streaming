@@ -98,11 +98,17 @@ Comprehensive training and preparedness programs for law enforcement request han
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | Fourth Amendment (US) | Constitutional Requirements |
+| **3.1** | PCI DSS v4.0 | Req. 12.1 |
 | **3.2** | GDPR | Art. 23, 49 |
+| **3.2** | PCI DSS v4.0 | Req. 7.1.1 |
 | **3.3** | EU Digital Services Act | Art. 9, 24 |
+| **3.3** | PCI DSS v4.0 | Req. 12.10.1 |
 | **3.5** | Mutual Legal Assistance Treaties | Various Treaties |
+| **3.5** | PCI DSS v4.0 | Req. 4.1 |
 | **3.6** | EU Digital Services Act | Art. 24, 42 |
+| **3.6** | PCI DSS v4.0 | Req. 12.2 |
 | **3.7** | First Amendment (US) | Constitutional Protections |
+| **3.8** | PCI DSS v4.0 | Req. 12.6 |
 
 ### 5. Definitions
 

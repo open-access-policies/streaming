@@ -35,9 +35,13 @@ This procedure establishes a formal governance framework for risk acceptance dec
 | **Procedure Step(s)** | **Standard/Framework** | **Control Reference** |
 | --------------------- | ---------------------- | --------------------- |
 | **1-2** | SOC 2 Type II | CC3.2 |
+| **1-2** | PCI DSS v4.0 | Req. 12.3 |
 | **3-5** | ISO/IEC 27001:2022 | A.6.1.3 |
+| **3-5** | PCI DSS v4.0 | Req. 12.3.1 |
 | **6-7** | SOC 2 Type II | CC3.4 |
+| **6-7** | PCI DSS v4.0 | Req. 12.2 |
 | **8** | ISO/IEC 27001:2022 | A.6.1.3 |
+| **8** | PCI DSS v4.0 | Req. 12.2.1 |
 
 ### 6. Artifact(s)
 

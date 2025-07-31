@@ -100,11 +100,16 @@ Mobile device security incidents must be properly managed:
 | **Policy Section** | **Standard/Framework** | **Control Reference** |
 | --- | --- | --- |
 | **3.1** | ISO/IEC 27001:2022 | A.6.2.1 |
+| **3.1** | PCI DSS v4.0 | Req. 2.1 |
 | **3.2** | SOC 2 Type II | CC6.1 |
+| **3.2** | PCI DSS v4.0 | Req. 2.2, 8.2 |
 | **3.4** | GDPR | Art. 32 |
 | **3.4** | CCPA | § 1798.150 |
+| **3.4** | PCI DSS v4.0 | Req. 4.1, 4.2 |
 | **3.5** | NIST Cybersecurity Framework | PR.AC-3 |
+| **3.5** | PCI DSS v4.0 | Req. 7.1, 8.1 |
 | **3.7** | ISO/IEC 27001:2022 | A.16.1.2 |
+| **3.7** | PCI DSS v4.0 | Req. 12.10.1 |
 
 ### 5. Definitions
 
