@@ -78,15 +78,19 @@ title: "Video Streaming Platform Policies & Procedures"
 - [Content Moderation Workflow Procedure (TS-PROC-001)](/streaming/trust_and_safety_procedures/ts_proc_001/)
 - [User Moderation Appeals Procedure (TS-PROC-002)](/streaming/trust_and_safety_procedures/ts_proc_002/)
 
-## About This Framework
+## About This Project
 
-This policy framework is designed to help video streaming platforms establish comprehensive governance structures that ensure:
+High-growth streaming platforms face a complex web of international regulations and unique operational risks. A generic ISMS is insufficient. This project provides a robust, auditable, and adaptable framework that addresses the specific challenges of ensuring security, privacy, and trust while moving at the speed of a venture-backed startup.
 
-- **Regulatory Compliance**: Meet requirements across multiple jurisdictions
-- **User Safety**: Protect users and maintain platform integrity
-- **Data Protection**: Safeguard user privacy and personal information
-- **Operational Excellence**: Maintain high-quality service delivery
-- **Risk Management**: Identify and mitigate operational and security risks
+The policies and procedures in this ISMS are written to align with the requirements of the following major compliance frameworks:
+
+- **SOC 2** (Trust Services Criteria)
+- **PCI DSS v4.0** (Payment Card Industry Data Security Standard)
+- **GDPR** (General Data Protection Regulation)
+- **EU Digital Services Act (DSA)**
+- **PIPEDA** (Personal Information Protection and Electronic Documents Act - Canada)
+- **CCPA / CPRA** (California Consumer Privacy Act / Rights Act)
+- **COPPA** (Children's Online Privacy Protection Act)
 
 ## Getting Started
 
@@ -94,6 +98,13 @@ Each policy category contains both high-level policies that establish requiremen
 
 Start by reviewing the policies most relevant to your immediate needs, then work through the related procedures to understand implementation requirements.
 
+## Contributing
+
+Contributions are welcome and encouraged! If you have suggestions for improving these templates, please feel free to open an issue to discuss your ideas or submit a pull request.
+
+## Disclaimer of Liability
+
+These templates are provided on an "as-is" basis, without warranty of any kind, express or implied. The authors and contributors of this project are not lawyers or compliance consultants. The information provided here is for general informational purposes only and does not constitute legal or professional advice. By using these templates, you agree that you are solely responsible for ensuring your organization's compliance with all applicable laws, regulations, and standards. The authors and contributors of this repository assume no liability for any damages, losses, or legal issues that may arise from the use, misuse, or interpretation of these documents. **Always consult with a qualified professional for advice tailored to your specific situation.**
 ---
 
 *This framework is maintained by [Open Access Policies](https://github.com/open-access-policies) and is available under an open-source license for use by video streaming platforms worldwide.*
