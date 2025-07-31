@@ -61,6 +61,20 @@
   color: #ffffff !important;
 }
 
+// Ensure social media icons are white
+.sidebar .sidebar-social a .icon-link,
+.sidebar .sidebar-social a [class^="icon-"],
+.sidebar .sidebar-social a [class*=" icon-"] {
+  color: #ffffff !important;
+}
+
+// Target any icon font elements in sidebar social
+.sidebar .sidebar-social .icon-link,
+.sidebar .sidebar-social [class^="icon-"],
+.sidebar .sidebar-social [class*=" icon-"] {
+  color: #ffffff !important;
+}
+
 $font-serif: "Latin Modern Roman", serif;
 $font-sans : "Latin Modern Roman", sans-serif;
 $base-color: #000000;
