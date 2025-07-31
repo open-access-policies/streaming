@@ -98,6 +98,12 @@ Each policy category contains both high-level policies that establish requiremen
 
 Start by reviewing the policies most relevant to your immediate needs, then work through the related procedures to understand implementation requirements.
 
+## Download Complete Documentation
+
+For convenience, all policies and procedures are also available as a comprehensive PDF document:
+
+📄 **[Download Complete Health Tech Security Policies & Procedures (PDF)](./assets/files/health_tech_compiled.pdf)**
+
 ## Contributing
 
 Contributions are welcome and encouraged! If you have suggestions for improving these templates, please feel free to open an issue to discuss your ideas or submit a pull request.
