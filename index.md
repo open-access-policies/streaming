@@ -7,76 +7,76 @@ title: "Video Streaming Platform Policies & Procedures"
 
 ### Engineering
 #### Policies
-- [Secure Software Development Policy (ENG-POL-001)](/streaming/_engineering_policies/eng_pol_001/)
-- [Change Control Policy (ENG-POL-002)](/streaming/_engineering_policies/eng_pol_002/)
-- [Infrastructure Security Policy (ENG-POL-003)](/streaming/_engineering_policies/eng_pol_003/)
+- [Secure Software Development Policy (ENG-POL-001)](/streaming/engineering_policies/eng_pol_001/)
+- [Change Control Policy (ENG-POL-002)](/streaming/engineering_policies/eng_pol_002/)
+- [Infrastructure Security Policy (ENG-POL-003)](/streaming/engineering_policies/eng_pol_003/)
 
 #### Procedures
-- [Application Security Testing Procedure (ENG-PROC-001)](/streaming/_engineering_procedures/eng_proc_001/)
-- [Standard Change Management Procedure (ENG-PROC-002)](/streaming/_engineering_procedures/eng_proc_002/)
+- [Application Security Testing Procedure (ENG-PROC-001)](/streaming/engineering_procedures/eng_proc_001/)
+- [Standard Change Management Procedure (ENG-PROC-002)](/streaming/engineering_procedures/eng_proc_002/)
 
 ### Legal
 #### Policies
-- [Intellectual Property & Copyright Policy (LEG-POL-001)](/streaming/_legal_policies/leg_pol_001/)
-- [Law Enforcement Request Policy (LEG-POL-002)](/streaming/_legal_policies/leg_pol_002/)
+- [Intellectual Property & Copyright Policy (LEG-POL-001)](/streaming/legal_policies/leg_pol_001/)
+- [Law Enforcement Request Policy (LEG-POL-002)](/streaming/legal_policies/leg_pol_002/)
 
 #### Procedures
-- [DMCA Takedown Procedure (LEG-PROC-001)](/streaming/_legal_procedures/leg_proc_001/)
-- [Transparency Reporting Procedure (LEG-PROC-002)](/streaming/_legal_procedures/leg_proc_002/)
+- [DMCA Takedown Procedure (LEG-PROC-001)](/streaming/legal_procedures/leg_proc_001/)
+- [Transparency Reporting Procedure (LEG-PROC-002)](/streaming/legal_procedures/leg_proc_002/)
 
 ### Operational
 #### Policies
-- [Encryption & Key Management Policy (OP-POL-001)](/streaming/_operational_policies/op_pol_001/)
-- [Mobile Device Policy (BYOD) (OP-POL-002)](/streaming/_operational_policies/op_pol_002/)
-- [Data Retention & Disposal Policy (OP-POL-003)](/streaming/_operational_policies/op_pol_003/)
-- [Human Resources Security Policy (OP-POL-004)](/streaming/_operational_policies/op_pol_004/)
-- [Acceptable Software & Browser Extension Policy (OP-POL-005)](/streaming/_operational_policies/op_pol_005/)
+- [Encryption & Key Management Policy (OP-POL-001)](/streaming/operational_policies/op_pol_001/)
+- [Mobile Device Policy (BYOD) (OP-POL-002)](/streaming/operational_policies/op_pol_002/)
+- [Data Retention & Disposal Policy (OP-POL-003)](/streaming/operational_policies/op_pol_003/)
+- [Human Resources Security Policy (OP-POL-004)](/streaming/operational_policies/op_pol_004/)
+- [Acceptable Software & Browser Extension Policy (OP-POL-005)](/streaming/operational_policies/op_pol_005/)
 
 ### Privacy
 #### Policies
-- [User Data Privacy Policy (PRV-POL-001)](/streaming/_privacy_policies/prv_pol_001/)
-- [Children's Privacy Policy (PRV-POL-002)](/streaming/_privacy_policies/prv_pol_002/)
+- [User Data Privacy Policy (PRV-POL-001)](/streaming/privacy_policies/prv_pol_001/)
+- [Children's Privacy Policy (PRV-POL-002)](/streaming/privacy_policies/prv_pol_002/)
 
 #### Procedures
-- [DSAR Fulfillment Procedure (PRV-PROC-001)](/streaming/_privacy_procedures/prv_proc_001/)
-- [Data Erasure Request Procedure (PRV-PROC-002)](/streaming/_privacy_procedures/prv_proc_002/)
-- [COPPA Compliance Procedure (PRV-PROC-003)](/streaming/_privacy_procedures/prv_proc_003/)
-- [Data Protection Impact Assessment (DPIA) Procedure (PRV-PROC-004)](/streaming/_privacy_procedures/prv_proc_004/)
+- [DSAR Fulfillment Procedure (PRV-PROC-001)](/streaming/privacy_procedures/prv_proc_001/)
+- [Data Erasure Request Procedure (PRV-PROC-002)](/streaming/privacy_procedures/prv_proc_002/)
+- [COPPA Compliance Procedure (PRV-PROC-003)](/streaming/privacy_procedures/prv_proc_003/)
+- [Data Protection Impact Assessment (DPIA) Procedure (PRV-PROC-004)](/streaming/privacy_procedures/prv_proc_004/)
 
 ### Resilience
 #### Policies
-- [Incident Response Policy (RES-POL-001)](/streaming/_resilience_policies/res_pol_001/)
-- [Business Continuity & Disaster Recovery Policy (RES-POL-002)](/streaming/_resilience_policies/res_pol_002/)
+- [Incident Response Policy (RES-POL-001)](/streaming/resilience_policies/res_pol_001/)
+- [Business Continuity & Disaster Recovery Policy (RES-POL-002)](/streaming/resilience_policies/res_pol_002/)
 
 #### Procedures
-- [Incident Response Plan (RES-PROC-001)](/streaming/_resilience_procedures/res_proc_001/)
-- [Post-Incident Review Procedure (RES-PROC-002)](/streaming/_resilience_procedures/res_proc_002/)
-- [BCDR Testing Procedure (RES-PROC-003)](/streaming/_resilience_procedures/res_proc_003/)
+- [Incident Response Plan (RES-PROC-001)](/streaming/resilience_procedures/res_proc_001/)
+- [Post-Incident Review Procedure (RES-PROC-002)](/streaming/resilience_procedures/res_proc_002/)
+- [BCDR Testing Procedure (RES-PROC-003)](/streaming/resilience_procedures/res_proc_003/)
 
 ### Security
 #### Policies
-- [Information Security Policy (SEC-POL-001)](/streaming/_security_policies/sec_pol_001/)
-- [Password Policy (SEC-POL-002)](/streaming/_security_policies/sec_pol_002/)
-- [Risk Management Policy (SEC-POL-003)](/streaming/_security_policies/sec_pol_003/)
-- [Data Classification and Handling Policy (SEC-POL-004)](/streaming/_security_policies/sec_pol_004/)
-- [Vendor Risk Management Policy (SEC-POL-005)](/streaming/_security_policies/sec_pol_005/)
-- [Physical Security Policy (SEC-POL-006)](/streaming/_security_policies/sec_pol_006/)
-- [AI Acceptable Use Policy (SEC-POL-007)](/streaming/_security_policies/sec_pol_007/)
-- [Vulnerability Management Policy (SEC-POL-008)](/streaming/_security_policies/sec_pol_008/)
-- [Security Monitoring Policy (SEC-POL-009)](/streaming/_security_policies/sec_pol_009/)
+- [Information Security Policy (SEC-POL-001)](/streaming/security_policies/sec_pol_001/)
+- [Password Policy (SEC-POL-002)](/streaming/security_policies/sec_pol_002/)
+- [Risk Management Policy (SEC-POL-003)](/streaming/security_policies/sec_pol_003/)
+- [Data Classification and Handling Policy (SEC-POL-004)](/streaming/security_policies/sec_pol_004/)
+- [Vendor Risk Management Policy (SEC-POL-005)](/streaming/security_policies/sec_pol_005/)
+- [Physical Security Policy (SEC-POL-006)](/streaming/security_policies/sec_pol_006/)
+- [AI Acceptable Use Policy (SEC-POL-007)](/streaming/security_policies/sec_pol_007/)
+- [Vulnerability Management Policy (SEC-POL-008)](/streaming/security_policies/sec_pol_008/)
+- [Security Monitoring Policy (SEC-POL-009)](/streaming/security_policies/sec_pol_009/)
 
 #### Procedures
-- [Internal Audit Procedure (SEC-PROC-001)](/streaming/_security_procedures/sec_proc_001/)
-- [Risk Assessment Procedure (SEC-PROC-002)](/streaming/_security_procedures/sec_proc_002/)
-- [Risk Acceptance Procedure (SEC-PROC-003)](/streaming/_security_procedures/sec_proc_003/)
+- [Internal Audit Procedure (SEC-PROC-001)](/streaming/security_procedures/sec_proc_001/)
+- [Risk Assessment Procedure (SEC-PROC-002)](/streaming/security_procedures/sec_proc_002/)
+- [Risk Acceptance Procedure (SEC-PROC-003)](/streaming/security_procedures/sec_proc_003/)
 
 ### Trust & Safety
 #### Policies
-- [Content Moderation Policy (TS-POL-001)](/streaming/_trust_and_safety_policies/ts_pol_001/)
+- [Content Moderation Policy (TS-POL-001)](/streaming/trust_and_safety_policies/ts_pol_001/)
 
 #### Procedures
-- [Content Moderation Workflow Procedure (TS-PROC-001)](/streaming/_trust_and_safety_procedures/ts_proc_001/)
-- [User Moderation Appeals Procedure (TS-PROC-002)](/streaming/_trust_and_safety_procedures/ts_proc_002/)
+- [Content Moderation Workflow Procedure (TS-PROC-001)](/streaming/trust_and_safety_procedures/ts_proc_001/)
+- [User Moderation Appeals Procedure (TS-PROC-002)](/streaming/trust_and_safety_procedures/ts_proc_002/)
 
 ## About This Project
 

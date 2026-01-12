@@ -4,6 +4,22 @@ description: "Comprehensive Policy Framework for Video Streaming Platforms"
 # url: "https://open-access-policies.github.io"
 baseurl: "/streaming"
 
+# --- Include underscore directories for raw markdown access ---
+include:
+  - _engineering_policies
+  - _engineering_procedures
+  - _legal_policies
+  - _legal_procedures
+  - _operational_policies
+  - _privacy_policies
+  - _privacy_procedures
+  - _resilience_policies
+  - _resilience_procedures
+  - _security_policies
+  - _security_procedures
+  - _trust_and_safety_policies
+  - _trust_and_safety_procedures
+
 # --- Hydejack Specific Settings ---
 hydejack:
   theme: theme-base-08
