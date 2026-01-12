@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="ISMS Policies and Procedures for Video Streaming Platforms - Open Access Policies">
+  <title>Streaming - Open Access Policies</title>
+  <link rel="icon" type="image/png" href="https://openaccesspolicies.org/assets/img/logo.png">
+  <link rel="stylesheet" href="assets/css/main.css">
+  <link rel="stylesheet" href="assets/css/latin-modern-fonts.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+<a href="#main" class="skip-nav">Skip to main content</a>
+
+<header class="site-header">
+  <div class="header-container">
+    <div class="header-left">
+      <a href="https://openaccesspolicies.org" class="site-title">Open Access Policies</a>
+      <a href="#" class="policy-set-title">Streaming</a>
+    </div>
+    <nav class="site-nav" aria-label="Main">
+      <a href="https://openaccesspolicies.org/policies.html">All Policies</a>
+      <a href="https://openaccesspolicies.org/start.html">Get Started</a>
+      <a href="https://openaccesspolicies.org/about.html">About</a>
+    </nav>
+    <button class="mobile-menu-toggle" aria-label="Toggle navigation" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<div class="layout-wrapper">
+  <aside class="sidebar" id="sidebar">
+    <nav class="sidebar-nav" aria-label="Policy navigation">
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Engineering</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#engineering_policies/eng_pol_001">Secure Software Development</a></li>
+          <li><a href="#engineering_policies/eng_pol_002">Change Control</a></li>
+          <li><a href="#engineering_policies/eng_pol_003">Infrastructure Security</a></li>
+          <li class="nav-category">Procedures</li>
+          <li><a href="#engineering_procedures/eng_proc_001">App Security Testing</a></li>
+          <li><a href="#engineering_procedures/eng_proc_002">Standard Change Management</a></li>
+        </ul>
+      </div>
+
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Legal</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#legal_policies/leg_pol_001">IP & Copyright Policy</a></li>
+          <li><a href="#legal_policies/leg_pol_002">Law Enforcement Requests</a></li>
+          <li class="nav-category">Procedures</li>
+          <li><a href="#legal_procedures/leg_proc_001">DMCA Takedown</a></li>
+          <li><a href="#legal_procedures/leg_proc_002">Transparency Reporting</a></li>
+        </ul>
+      </div>
+
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Operational</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#operational_policies/op_pol_001">Encryption & Key Management</a></li>
+          <li><a href="#operational_policies/op_pol_002">Mobile Device Policy</a></li>
+          <li><a href="#operational_policies/op_pol_003">Data Retention & Disposal</a></li>
+          <li><a href="#operational_policies/op_pol_004">HR Security</a></li>
+          <li><a href="#operational_policies/op_pol_005">Acceptable Software Policy</a></li>
+        </ul>
+      </div>
+
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Privacy</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#privacy_policies/prv_pol_001">User Data Privacy</a></li>
+          <li><a href="#privacy_policies/prv_pol_002">Children's Privacy</a></li>
+          <li class="nav-category">Procedures</li>
+          <li><a href="#privacy_procedures/prv_proc_001">DSAR Fulfillment</a></li>
+          <li><a href="#privacy_procedures/prv_proc_002">Data Erasure Request</a></li>
+          <li><a href="#privacy_procedures/prv_proc_003">COPPA Compliance</a></li>
+          <li><a href="#privacy_procedures/prv_proc_004">Data Protection Impact Assessment</a></li>
+        </ul>
+      </div>
+
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Resilience</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#resilience_policies/res_pol_001">Incident Response</a></li>
+          <li><a href="#resilience_policies/res_pol_002">Business Continuity & DR</a></li>
+          <li class="nav-category">Procedures</li>
+          <li><a href="#resilience_procedures/res_proc_001">Incident Response Plan</a></li>
+          <li><a href="#resilience_procedures/res_proc_002">Post-Incident Review</a></li>
+          <li><a href="#resilience_procedures/res_proc_003">BCDR Testing</a></li>
+        </ul>
+      </div>
+
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Security</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#security_policies/sec_pol_001">Information Security</a></li>
+          <li><a href="#security_policies/sec_pol_002">Password Policy</a></li>
+          <li><a href="#security_policies/sec_pol_003">Risk Management</a></li>
+          <li><a href="#security_policies/sec_pol_004">Data Classification</a></li>
+          <li><a href="#security_policies/sec_pol_005">Vendor Risk Management</a></li>
+          <li><a href="#security_policies/sec_pol_006">Physical Security</a></li>
+          <li><a href="#security_policies/sec_pol_007">AI Acceptable Use</a></li>
+          <li><a href="#security_policies/sec_pol_008">Vulnerability Management</a></li>
+          <li><a href="#security_policies/sec_pol_009">Security Monitoring</a></li>
+          <li class="nav-category">Procedures</li>
+          <li><a href="#security_procedures/sec_proc_001">Internal Audit</a></li>
+          <li><a href="#security_procedures/sec_proc_002">Risk Assessment</a></li>
+          <li><a href="#security_procedures/sec_proc_003">Risk Acceptance</a></li>
+        </ul>
+      </div>
+
+      <div class="nav-section">
+        <button class="nav-section-toggle" aria-expanded="false">
+          <span>Trust & Safety</span>
+          <svg class="chevron" viewBox="0 0 24 24" width="16" height="16"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2"/></svg>
+        </button>
+        <ul class="nav-section-items collapsed">
+          <li class="nav-category">Policies</li>
+          <li><a href="#trust_and_safety_policies/ts_pol_001">Content Moderation</a></li>
+          <li class="nav-category">Procedures</li>
+          <li><a href="#trust_and_safety_procedures/ts_proc_001">Content Moderation Workflow</a></li>
+          <li><a href="#trust_and_safety_procedures/ts_proc_002">User Moderation Appeals</a></li>
+        </ul>
+      </div>
+    </nav>
+  </aside>
+
+  <main id="main" class="main-content">
+    <div class="content-container">
+      <article id="content" class="policy-content">
+        <!-- Content loaded dynamically -->
+      </article>
+    </div>
+  </main>
+</div>
+
+<footer class="site-footer">
+  <p>&copy; 2026 Open Access Policies. Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA-4.0</a>.</p>
+  <div class="footer-links">
+    <a href="https://github.com/open-access-policies/streaming">GitHub</a>
+    <a href="https://openaccesspolicies.org/about.html">About</a>
+  </div>
+</footer>
+
+<script>
+const CONFIG = {
+  defaultDoc: 'home',
+  homeContent: `
+# Streaming Platform ISMS Policies & Procedures
+
+This framework provides a complete Information Security Management System (ISMS) designed for video streaming platforms with global audiences.
+
+## Compliance Coverage
+
+This policy set addresses requirements for:
+- **SOC 2** Trust Services Criteria
+- **GDPR** European data protection
+- **COPPA** Children's online privacy
+- **DSA** Digital Services Act
+
+## Getting Started
+
+Use the sidebar to navigate through policies and procedures organized by domain:
+
+- **Engineering** - Secure development, change control, infrastructure
+- **Legal** - IP/copyright, law enforcement requests, DMCA
+- **Operational** - Encryption, mobile devices, data retention
+- **Privacy** - User data, children's privacy, DSARs, DPIAs
+- **Resilience** - Incident response, business continuity
+- **Security** - Risk management, vendor security, vulnerability management
+- **Trust & Safety** - Content moderation, appeals process
+
+## About This Framework
+
+Built for streaming services handling user-generated content and global audiences. Includes privacy regulations (GDPR, COPPA), content moderation policies, and transparency requirements.
+
+---
+
+*Licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/). Maintained by [Open Access Policies](https://github.com/open-access-policies).*
+  `
+};
+
+let currentDoc = null;
+
+function parseFrontmatter(text) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (match) {
+    const frontmatter = {};
+    match[1].split('\n').forEach(line => {
+      const [key, ...valueParts] = line.split(':');
+      if (key && valueParts.length) {
+        frontmatter[key.trim()] = valueParts.join(':').trim().replace(/^["']|["']$/g, '');
+      }
+    });
+    return { frontmatter, content: match[2] };
+  }
+  return { frontmatter: {}, content: text };
+}
+
+async function loadDocument(path) {
+  const contentEl = document.getElementById('content');
+
+  if (!path || path === 'home') {
+    contentEl.innerHTML = marked.parse(CONFIG.homeContent);
+    document.title = 'Streaming - Open Access Policies';
+    updateActiveNav(null);
+    return;
+  }
+
+  try {
+    const parts = path.split('/');
+    const collection = parts[0];
+    const filename = parts[1];
+    const filePath = `_${collection}/${filename}.md`;
+
+    const response = await fetch(filePath);
+    if (!response.ok) throw new Error('Document not found');
+
+    const text = await response.text();
+    const { frontmatter, content } = parseFrontmatter(text);
+
+    // Get title from frontmatter
+    const title = frontmatter.title || filename;
+
+    // Render markdown content
+    const renderedContent = marked.parse(content);
+
+    // Only add H1 from frontmatter if content doesn't already start with one
+    const hasH1 = content.trim().startsWith('# ');
+    contentEl.innerHTML = hasH1 ? renderedContent : `<h1>${title}</h1>` + renderedContent;
+    document.title = `${title} - Streaming`;
+
+    updateActiveNav(path);
+    contentEl.scrollTop = 0;
+
+  } catch (error) {
+    contentEl.innerHTML = `
+      <div class="error-message">
+        <h2>Document Not Found</h2>
+        <p>The requested document could not be loaded.</p>
+        <p><a href="#">Return to home</a></p>
+      </div>
+    `;
+  }
+}
+
+function updateActiveNav(path) {
+  document.querySelectorAll('.sidebar-nav a').forEach(a => a.classList.remove('active'));
+
+  if (path) {
+    const activeLink = document.querySelector(`.sidebar-nav a[href="#${path}"]`);
+    if (activeLink) {
+      activeLink.classList.add('active');
+      const section = activeLink.closest('.nav-section');
+      if (section) {
+        const toggle = section.querySelector('.nav-section-toggle');
+        const items = section.querySelector('.nav-section-items');
+        if (items.classList.contains('collapsed')) {
+          toggle.setAttribute('aria-expanded', 'true');
+          items.classList.remove('collapsed');
+        }
+      }
+    }
+  }
+}
+
+function setupNavToggles() {
+  document.querySelectorAll('.nav-section-toggle').forEach(toggle => {
+    toggle.addEventListener('click', () => {
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', !expanded);
+      toggle.nextElementSibling.classList.toggle('collapsed');
+    });
+  });
+}
+
+function setupMobileMenu() {
+  const menuToggle = document.querySelector('.mobile-menu-toggle');
+  const sidebar = document.getElementById('sidebar');
+
+  menuToggle?.addEventListener('click', () => {
+    const expanded = menuToggle.getAttribute('aria-expanded') === 'true';
+    menuToggle.setAttribute('aria-expanded', !expanded);
+    sidebar.classList.toggle('open');
+    document.body.classList.toggle('sidebar-open');
+  });
+
+  sidebar?.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      if (window.innerWidth <= 768) {
+        menuToggle?.setAttribute('aria-expanded', 'false');
+        sidebar.classList.remove('open');
+        document.body.classList.remove('sidebar-open');
+      }
+    });
+  });
+}
+
+function handleHashChange() {
+  const hash = window.location.hash.slice(1);
+  loadDocument(hash || 'home');
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  setupNavToggles();
+  setupMobileMenu();
+  handleHashChange();
+});
+
+window.addEventListener('hashchange', handleHashChange);
+</script>
+
+</body>
+</html>
