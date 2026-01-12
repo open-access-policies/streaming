@@ -4,22 +4,6 @@ description: "Comprehensive Policy Framework for Video Streaming Platforms"
 # url: "https://open-access-policies.github.io"
 baseurl: "/streaming"
 
-# --- Include underscore directories for raw markdown access ---
-include:
-  - _engineering_policies
-  - _engineering_procedures
-  - _legal_policies
-  - _legal_procedures
-  - _operational_policies
-  - _privacy_policies
-  - _privacy_procedures
-  - _resilience_policies
-  - _resilience_procedures
-  - _security_policies
-  - _security_procedures
-  - _trust_and_safety_policies
-  - _trust_and_safety_procedures
-
 # --- Hydejack Specific Settings ---
 hydejack:
   theme: theme-base-08
@@ -32,51 +16,6 @@ favicon: /streaming/assets/images/logo.png
 
 # --- Search ---
 search: true
-
-# --- Collections ---
-collections:
-  engineering_policies:
-    output: true
-    permalink: /:collection/:path/
-  engineering_procedures:
-    output: true
-    permalink: /:collection/:path/
-  legal_policies:
-    output: true
-    permalink: /:collection/:path/
-  legal_procedures:
-    output: true
-    permalink: /:collection/:path/
-  operational_policies:
-    output: true
-    permalink: /:collection/:path/
-  operational_procedures:
-    output: true
-    permalink: /:collection/:path/
-  privacy_policies:
-    output: true
-    permalink: /:collection/:path/
-  privacy_procedures:
-    output: true
-    permalink: /:collection/:path/
-  resilience_policies:
-    output: true
-    permalink: /:collection/:path/
-  resilience_procedures:
-    output: true
-    permalink: /:collection/:path/
-  security_policies:
-    output: true
-    permalink: /:collection/:path/
-  security_procedures:
-    output: true
-    permalink: /:collection/:path/
-  trust_and_safety_policies:
-    output: true
-    permalink: /:collection/:path/
-  trust_and_safety_procedures:
-    output: true
-    permalink: /:collection/:path/
 
 # --- Navigation ---
 # This section defines the links that will appear in the sidebar.
@@ -101,102 +40,13 @@ sidebar_links:
 
 
 # --- Defaults ---
-# This is the critical fix. We are telling Jekyll to use the 'page'
-# layout for every document inside every one of your collections.
-# This will override any incorrect 'layout' settings in the individual files.
 defaults:
-  # Add this global default for all pages
   - scope:
-      path: "" # This means all files
+      path: ""
     values:
-      hide_title: true # Add this line to hide page titles
-      no_page_title: true # This removes the page title from the top of each page.
-      accent_color: "#bababa" # Solid gray color
-
-  - scope:
-      type: "engineering_policies"
-    values:
-      layout: "page"
       hide_title: true
       no_page_title: true
-  - scope:
-      type: "engineering_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "legal_policies"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "legal_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "operational_policies"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "operational_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "privacy_policies"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "privacy_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "resilience_policies"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "resilience_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "security_policies"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "security_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "trust_and_safety_policies"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
-  - scope:
-      type: "trust_and_safety_procedures"
-    values:
-      layout: "page"
-      hide_title: true
-      no_page_title: true
+      accent_color: "#bababa"
 
 # --- Build settings ---
 # For local development (comment out for GitHub Pages):
