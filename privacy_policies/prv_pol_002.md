@@ -1,9 +1,4 @@
----
-layout: default
-title: "Children's Privacy Policy (PRV-POL-002)"
-parent: Privacy Policies
-order: 2
----
+# Children's Privacy Policy (PRV-POL-002)
 
 ### 1. Objective
 

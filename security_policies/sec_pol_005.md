@@ -1,9 +1,4 @@
----
-layout: default
-title: "Vendor Risk Management Policy (SEC-POL-005)"
-parent: Security Policies
-order: 5
----
+# Vendor Risk Management Policy (SEC-POL-005)
 
 ### 1. Objective
 

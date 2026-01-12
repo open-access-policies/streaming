@@ -1,9 +1,4 @@
----
-layout: default
-title: "Transparency Reporting Procedure (LEG-PROC-002)"
-parent: Legal Procedures
-order: 2
----
+# Transparency Reporting Procedure (LEG-PROC-002)
 
 ### 1. Purpose
 

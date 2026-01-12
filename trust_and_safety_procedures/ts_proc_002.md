@@ -1,9 +1,4 @@
----
-layout: default
-title: "User Moderation Appeals Procedure (TS-PROC-002)"
-parent: Trust And Safety Procedures
-order: 2
----
+# User Moderation Appeals Procedure (TS-PROC-002)
 
 ### 1. Purpose
 

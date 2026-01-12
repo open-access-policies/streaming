@@ -1,9 +1,4 @@
----
-layout: default
-title: "Application Security Testing Procedure (ENG-PROC-001)"
-parent: Engineering Procedures
-order: 1
----
+# Application Security Testing Procedure (ENG-PROC-001)
 
 ### 1. Purpose
 

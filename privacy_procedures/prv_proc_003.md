@@ -1,9 +1,4 @@
----
-layout: default
-title: "COPPA Compliance Procedure (PRV-PROC-003)"
-parent: Privacy Procedures
-order: 3
----
+# COPPA Compliance Procedure (PRV-PROC-003)
 
 ### 1. Purpose
 

@@ -1,9 +1,4 @@
----
-layout: default
-title: "Standard Change Management Procedure (ENG-PROC-002)"
-parent: Engineering Procedures
-order: 2
----
+# Standard Change Management Procedure (ENG-PROC-002)
 
 ### 1. Purpose
 

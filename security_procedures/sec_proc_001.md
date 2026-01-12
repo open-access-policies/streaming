@@ -1,9 +1,4 @@
----
-layout: default
-title: "Internal Audit Procedure (SEC-PROC-001)"
-parent: Security Procedures
-order: 1
----
+# Internal Audit Procedure (SEC-PROC-001)
 
 ### 1. Purpose
 

@@ -1,9 +1,4 @@
----
-layout: default
-title: "Content Moderation Policy (TS-POL-001)"
-parent: Trust And Safety Policies
-order: 1
----
+# Content Moderation Policy (TS-POL-001)
 
 ### 1. Objective
 

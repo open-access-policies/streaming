@@ -1,9 +1,4 @@
----
-layout: default
-title: "Security Monitoring Policy (SEC-POL-009)"
-parent: Security Policies
-order: 9
----
+# Security Monitoring Policy (SEC-POL-009)
 
 ### 1. Objective
 

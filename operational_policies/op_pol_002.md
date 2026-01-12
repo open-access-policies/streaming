@@ -1,9 +1,4 @@
----
-layout: default
-title: "Mobile Device Policy (BYOD) (OP-POL-002)"
-parent: Operational Policies
-order: 2
----
+# Mobile Device Policy (BYOD) (OP-POL-002)
 
 ### 1. Objective
 

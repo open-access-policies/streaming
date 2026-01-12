@@ -1,9 +1,4 @@
----
-layout: default
-title: "Intellectual Property & Copyright Policy (LEG-POL-001)"
-parent: Legal Policies
-order: 1
----
+# Intellectual Property & Copyright Policy (LEG-POL-001)
 
 ### 1. Objective
 

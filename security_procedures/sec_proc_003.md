@@ -1,9 +1,4 @@
----
-layout: default
-title: "Risk Acceptance Procedure (SEC-PROC-003)"
-parent: Security Procedures
-order: 3
----
+# Risk Acceptance Procedure (SEC-PROC-003)
 
 ### 1. Purpose
 

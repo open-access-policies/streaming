@@ -1,9 +1,4 @@
----
-layout: default
-title: "Physical Security Policy (SEC-POL-006)"
-parent: Security Policies
-order: 6
----
+# Physical Security Policy (SEC-POL-006)
 
 ### 1. Objective
 

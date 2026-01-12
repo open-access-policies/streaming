@@ -1,9 +1,4 @@
----
-layout: default
-title: "Human Resources Security Policy (OP-POL-004)"
-parent: Operational Policies
-order: 4
----
+# Human Resources Security Policy (OP-POL-004)
 
 ### 1. Objective
 

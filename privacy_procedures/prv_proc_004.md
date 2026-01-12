@@ -1,9 +1,4 @@
----
-layout: default
-title: "Data Protection Impact Assessment (DPIA) Procedure (PRV-PROC-004)"
-parent: Privacy Procedures
-order: 4
----
+# Data Protection Impact Assessment (DPIA) Procedure (PRV-PROC-004)
 
 ### 1. Purpose
 

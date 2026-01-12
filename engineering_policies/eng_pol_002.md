@@ -1,9 +1,4 @@
----
-layout: default
-title: "Change Control Policy (ENG-POL-002)"
-parent: Engineering Policies
-order: 2
----
+# Change Control Policy (ENG-POL-002)
 
 ### 1. Objective
 

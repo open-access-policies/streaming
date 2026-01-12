@@ -1,9 +1,4 @@
----
-layout: default
-title: "Encryption & Key Management Policy (OP-POL-001)"
-parent: Operational Policies
-order: 1
----
+# Encryption & Key Management Policy (OP-POL-001)
 
 ### 1. Objective
 

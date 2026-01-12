@@ -1,9 +1,4 @@
----
-layout: default
-title: "Business Continuity & Disaster Recovery Policy (RES-POL-002)"
-parent: Resilience Policies
-order: 2
----
+# Business Continuity & Disaster Recovery Policy (RES-POL-002)
 
 ### 1. Objective
 

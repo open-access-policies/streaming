@@ -1,9 +1,4 @@
----
-layout: default
-title: "Risk Management Policy (SEC-POL-003)"
-parent: Security Policies
-order: 3
----
+# Risk Management Policy (SEC-POL-003)
 
 ### 1. Objective
 

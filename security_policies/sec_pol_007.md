@@ -1,9 +1,4 @@
----
-layout: default
-title: "AI Acceptable Use Policy (SEC-POL-007)"
-parent: Security Policies
-order: 7
----
+# AI Acceptable Use Policy (SEC-POL-007)
 
 ### 1. Objective
 

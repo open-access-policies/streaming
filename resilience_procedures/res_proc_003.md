@@ -1,9 +1,4 @@
----
-layout: default
-title: "BCDR Testing Procedure (RES-PROC-003)"
-parent: Resilience Procedures
-order: 3
----
+# BCDR Testing Procedure (RES-PROC-003)
 
 ### 1. Purpose
 

@@ -1,9 +1,4 @@
----
-layout: default
-title: "DMCA Takedown Procedure (LEG-PROC-001)"
-parent: Legal Procedures
-order: 1
----
+# DMCA Takedown Procedure (LEG-PROC-001)
 
 ### 1. Purpose
 
